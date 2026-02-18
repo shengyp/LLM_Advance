@@ -8,7 +8,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 #### Paper List
 
-- `Comput.(2025)`  DietQA: A Comprehensive Framework for Personalized Multi-Diet Recipe Retrieval Using Knowledge Graphs, Retrieval-Augmented Generation, and Large Language Models.   **[[PDF](https://www.mdpi.com/2073-431X/14/10/412)]**
+- `2023.02.07`  ChatGPT Prompt工程：设计、实践与思考.   **[[PDF](https://mp.weixin.qq.com/s/i2uA1k8Go19YDBM94AIxWQ)]**
+
+- `2023.02.10`  ChatGPT保姆级注册教程.   **[[PDF](https://mp.weixin.qq.com/s/Mf4MBpN761M8yI79aaRPeA)]**
+
+- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
 
 
 
