@@ -23,9 +23,35 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 - `2024.01.20`  谷歌DeepMind科学家「被爆将离职创业」！曾参与AlphaGo、Alphafold工作，首轮融资或超2亿美元
 .   **[[PDF](https://mp.weixin.qq.com/s/ReIyHTFB2gvulUfSgySJoA)]**
 
-- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
+- `2024.01.20`  最高100亿美元！Sam Altman正筹集资金支撑「自造AI芯片」野心.   **[[PDF](https://mp.weixin.qq.com/s/Tge5OXJBwu3IPkaebmU-iQ)]**
 
-- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
+- `2024.01.20`  今日Arxiv最热NLP大模型论文：Meta自我奖励模型超越人类反馈限制，刷新AlpacaEval 2.0排行榜.   **[[PDF](https://mp.weixin.qq.com/s/TddkJJzbvlH9S_1RyG9EWQ)]**
 
-- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  Yann LeCun荣获全球AI大奖！Keras之父和Deepmind创始人也曾获奖.   **[[PDF](https://mp.weixin.qq.com/s/VugQGMG7evMBRlJOz1zVGw)]**
+
+- `2024.01.22`  今日Arxiv最热NLP大模型论文：清华大学让大语言模型自动并行自回归解码，速度提升高达4倍！.   **[[PDF](https://mp.weixin.qq.com/s/vLUJ28ocpXgqze8mVyF2mA)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
