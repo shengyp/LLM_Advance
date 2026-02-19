@@ -59,7 +59,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.29`  腾讯发表多模态大模型最新综述，从26个主流大模型看多模态效果提升关键方法.   **[[PDF](https://mp.weixin.qq.com/s/AyGmKYtWew1pY7oLdaXS-A)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.29`  今日arXiv最热NLP大模型论文：伯克利&DeepMind联合研究，RaLMSpec让检索增强LLM速度提升2-7倍！   **[[PDF](https://mp.weixin.qq.com/s/Z0D6YSqJ2geQnt_fGq_rbA)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
