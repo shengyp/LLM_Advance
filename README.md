@@ -3080,21 +3080,17 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/r5HINwOcjb9X_kGHWtiIvw" target="_blank">大模型的威力，远不只是聊天框</a>
     |
-    <!-- 2024.09.23 -->
-    <a href="https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA" target="_blank">西安一高校老师实名公开举报！397页PDF痛诉同院老师学术不端，评审推诿包庇</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ" target="_blank">o1的提示词：简单才是王道！</a>
-    |
-    <!-- 2024.09.24 -->
-    <a href="https://mp.weixin.qq.com/s/NhcTravDbOroPWT4500hkA" target="_blank">Sam Altman罕见发长文：ASI终将至，准备好迎接“智能时代”吧！深度学习是有效路径</a>
-    |
-    <!-- 2024.09.25 -->
-    <a href="https://mp.weixin.qq.com/s/iVg0AVhBUlvFuFOkzpRcsA" target="_blank">OpenAI 「Her」高级语音功能全开放！重庆话、北京儿话都贼溜！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/UYzIFZdRjVu_in88xEqahg" target="_blank">我薅到了63小时的3090卡</a>
-    |
 
 
+- `2024.09.23`  o1的提示词：简单才是王道！   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
+
+- `2024.09.23`  西安一高校老师实名公开举报！397页PDF痛诉同院老师学术不端，评审推诿包庇   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
+
+- `2024.09.24`  Sam Altman罕见发长文：ASI终将至，准备好迎接“智能时代”吧！深度学习是有效路径   **[[PDF](https://mp.weixin.qq.com/s/NhcTravDbOroPWT4500hkA)]**
+
+- `2024.09.25`  OpenAI 「Her」高级语音功能全开放！重庆话、北京儿话都贼溜！   **[[PDF](https://mp.weixin.qq.com/s/iVg0AVhBUlvFuFOkzpRcsA)]**
+
+- `2024.09.25`  我薅到了63小时的3090卡   **[[PDF](https://mp.weixin.qq.com/s/UYzIFZdRjVu_in88xEqahg)]**
 
 - `2024.09.26`  张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]** 
 
