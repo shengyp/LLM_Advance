@@ -3093,28 +3093,24 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/UYzIFZdRjVu_in88xEqahg" target="_blank">我薅到了63小时的3090卡</a>
     |
-    <!-- 2024.09.26 -->
-    <a href="https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ" target="_blank">张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/kC_4Fsh4FKrsP0WzL37RHg" target="_blank">突发！OpenAI CTO离职，同日奥特曼被曝将获得股权</a>
-    |
-    <!-- 2024.09.27 -->
-    <a href="https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA" target="_blank">三只羊卢总的醉酒录音，说方言吐脏话，AI合成能到吗</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/saG4LFq97WA356RdaCcQvQ" target="_blank">LLM 我们距离应用还差什么？</a>
-    |
-    <!-- 2024.09.29 -->
-    <a href="https://mp.weixin.qq.com/s/f4edkRufzc6bCdLQd3W-ow" target="_blank">OpenAI员工流失的背后：地盘争夺、倦怠、薪酬要求</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/nsentoI1LvNGW_AvKjrzlg" target="_blank">OpenAI财务文件曝光，ChatGPT要涨价了！！</a>
-    |
-    <!-- 2024.09.30 -->
-    <a href="https://mp.weixin.qq.com/s/bFwCBPqwYPgsGl5k49YIsw" target="_blank">今天不止是A股疯，这家国产大模型也疯了！AI人：1亿小目标已实现</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/h9L4iKgwZWEqcu-VKmvqKA" target="_blank">被Karpathy誉为“蕴藏着类似ChatGPT的机会的AI产品Notebook LM”，它到底做对了什么？</a>
-    |
 
 
+
+- `2024.09.26`  张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]** 
+
+- `2024.09.26`  突发！OpenAI CTO离职，同日奥特曼被曝将获得股权   **[[PDF](https://mp.weixin.qq.com/s/kC_4Fsh4FKrsP0WzL37RHg)]** 
+
+- `2024.09.27`  三只羊卢总的醉酒录音，说方言吐脏话，AI合成能到吗   **[[PDF](https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA)]** 
+
+- `2024.09.27`  LLM 我们距离应用还差什么？   **[[PDF](https://mp.weixin.qq.com/s/saG4LFq97WA356RdaCcQvQ)]** 
+
+- `2024.09.29`  OpenAI员工流失的背后：地盘争夺、倦怠、薪酬要求   **[[PDF](https://mp.weixin.qq.com/s/f4edkRufzc6bCdLQd3W-ow)]** 
+
+- `2024.09.29`  OpenAI财务文件曝光，ChatGPT要涨价了！！   **[[PDF](https://mp.weixin.qq.com/s/nsentoI1LvNGW_AvKjrzlg)]** 
+
+- `2024.09.30`  今天不止是A股疯，这家国产大模型也疯了！AI人：1亿小目标已实现   **[[PDF](https://mp.weixin.qq.com/s/bFwCBPqwYPgsGl5k49YIsw)]**
+
+- `2024.09.30`  被Karpathy誉为“蕴藏着类似ChatGPT的机会的AI产品Notebook LM”，它到底做对了什么？   **[[PDF](https://mp.weixin.qq.com/s/h9L4iKgwZWEqcu-VKmvqKA)]**
 
 - `2024.10.02`  OpenAI 开发者大会！实时语音功能有API了，GPT-4o支持多模态微调，上下文cache功能上线.   **[[PDF](https://mp.weixin.qq.com/s/nfZNZA54zG_knA2_6vidLA)]**
 
