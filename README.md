@@ -81,9 +81,18 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
 - `2024.10.03`  破纪录！OpenAI成为史上第一家估值万亿元的AI公司！独家融资协议：“别投对手公司”.   **[[PDF](https://mp.weixin.qq.com/s/49iHliH-3CTe203MmXrW-Q)]**
+
+- `2024.10.23`  Stable Diffusion 3.5最强模型全家桶来了，三个型号   **[[PDF](https://mp.weixin.qq.com/s/GDHuLQhja9T3E7cpRpRY_Q)]**
+
+- `2024.10.24`  Character AI被起诉！14岁青少年自杀，AI陪伴何去何从   **[[PDF](https://mp.weixin.qq.com/s/pl-8KFXN7z_JM2EdGKUHQQ)]**
+
+- `2024.10.24`  0.11秒出图！OpenAI发布sCM模型，提速50倍，作者来自清华   **[[PDF](https://mp.weixin.qq.com/s/hdnwogPfeOwHAFsGL8EwUQ)]**
+
+- `2024.10.25`  震惊！AI竟然学会了100种撒娇方式，让我分不清是人是鬼   **[[PDF](https://mp.weixin.qq.com/s/C54sX2qOceLg6NqOIodVmg)]**
+
+- `2024.10.25`  OpenAI科学家震惊TED大会：让AI模型多思考20秒，提升10万倍性能！   **[[PDF](https://mp.weixin.qq.com/s/oIkaL_tBbqi05aGD8Qbc9A)]**
 
 - `2024.10.26`  LLM等价于众包，只是在输出「网络共识」！哈佛大学最新报告深挖大模型幻觉！   **[[PDF](https://mp.weixin.qq.com/s/jKYCy8fqM2XdeECefBripg)]**
 
