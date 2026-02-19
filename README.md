@@ -49,11 +49,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.27`  谷歌发布West-of-N，利用合成数据，显著提升LLM奖励模型质量 | 今日Arxiv最热大模型论文.   **[[PDF](https://mp.weixin.qq.com/s/XUv5rRQBUkcACJgpZvu0IA)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.28`  Meta发布自我奖励机制，Llama在3轮训练后超越GPT-4.   **[[PDF](https://mp.weixin.qq.com/s/Uo75sGR6s2-pZ9m5GLQObg)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.28`  OpenAI、斯坦福大学提出Meta-Prompting，有效提升语言模型的性能.   **[[PDF](https://mp.weixin.qq.com/s/ton58dImkg2VBiH57rlyUg)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.28`  OpenAI组建「集体对齐」新团队，确保AI模型与人类价值观保持一致！   **[[PDF](https://mp.weixin.qq.com/s/fEbHu4PfqM_wqmfJGxHv3g)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
