@@ -55,9 +55,9 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.28`  OpenAI组建「集体对齐」新团队，确保AI模型与人类价值观保持一致！   **[[PDF](https://mp.weixin.qq.com/s/fEbHu4PfqM_wqmfJGxHv3g)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.29`  突发！美国将限制中国使用微软 Azure、亚马逊 AWS 训练 AI大模型.   **[[PDF](https://mp.weixin.qq.com/s/kIHxM5RWDE3wdOk4Ate9-Q)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.29`  腾讯发表多模态大模型最新综述，从26个主流大模型看多模态效果提升关键方法.   **[[PDF](https://mp.weixin.qq.com/s/AyGmKYtWew1pY7oLdaXS-A)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
