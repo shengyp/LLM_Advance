@@ -41,7 +41,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.24`  今日arXiv最热NLP大模型论文：北京大学警惕ChatGPT等大模型遏制人类的创新能力.   **[[PDF](https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.21`  Hinton、LeCun、Bengio、清华马维英等人当选2023 ACM Fellow！   **[[PDF](https://mp.weixin.qq.com/s/zdr48aEHiMdKxxRdNKYrEw)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
@@ -65,7 +65,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
@@ -77,17 +76,26 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+
+- `2024.11.20`  3名高中生中了AI顶会NeurIPS！来自人大附中、北师大实验中学、上海星河湾双语学校.   **[[PDF](https://mp.weixin.qq.com/s/IWlVInwTzqbymVUNRhvP1Q)]**
+
+- `2024.11.20`  Mistral里程碑更新！上线Canvas、Artifact、联网，ChatGPT同款功能免费用.   **[[PDF](https://mp.weixin.qq.com/s/6MnXPxcNUCDZ54h9FFFSsQ)]**
+
+- `2024.11.21`  DeepSeek版o1与OpenAI的o1大PK，到底谁真的炸场了？   **[[PDF](https://mp.weixin.qq.com/s/Xnb9wEnTxBrik48i4g6UCw)]**
+
+- `2024.11.21`  量子计算又被AI突破了！谷歌AlphaQubit研究登上Nature，高精度纠正量子计算错误.   **[[PDF](https://mp.weixin.qq.com/s/vr5DbRInXAk36nFE2RXpAA)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.11.25`  和梁朝伟同获港科荣誉博士，黄仁勋与沈向洋对谈Scaling Law、后训练、机器人和爱情.   **[[PDF](https://mp.weixin.qq.com/s/7dDX5yZSXdwzqhId59_hgw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.11.25`  谷歌用LLM帮渐冻人用眼神打字，又快又省力！新研究登上Nature 子刊.   **[[PDF](https://mp.weixin.qq.com/s/XqiRUeIT-U36J0Hl5398Ow)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.11.27`  Sora被泄漏！ 艺术家联盟上书，奥特曼怒拔网线！   **[[PDF](https://mp.weixin.qq.com/s/YmOMxRR0HVqj1OBM3YzZ4w)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+
+
 
