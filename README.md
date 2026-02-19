@@ -65,7 +65,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
@@ -76,7 +75,23 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.10.03`  破纪录！OpenAI成为史上第一家估值万亿元的AI公司！独家融资协议：“别投对手公司”.   **[[PDF](https://mp.weixin.qq.com/s/49iHliH-3CTe203MmXrW-Q)]**
+
+- `2024.10.26`  LLM等价于众包，只是在输出「网络共识」！哈佛大学最新报告深挖大模型幻觉！   **[[PDF](https://mp.weixin.qq.com/s/jKYCy8fqM2XdeECefBripg)]**
+
+- `2024.10.29` LeCun锐评诺奖：出于压力才颁给AI，但获奖成果已完全无用.   **[[PDF](https://mp.weixin.qq.com/s/FB43mG6xGbFgLDllXbgyJA)]**
+
+- `2024.11.13`  Ilya承认Scaling Law到头了，Meta和谷歌寻找替代o1的方法.   **[[PDF](https://mp.weixin.qq.com/s/i0dTLDrEEznh4gn8cSsgEw)]**
+
+- `2024.11.13`  OpenAI总裁Greg终于归来！每周狂肝100小时代码.   **[[PDF](https://mp.weixin.qq.com/s/BRCh8TlzOM6UmLN5CZ2LTg)]**
 
 - `2024.11.20`  3名高中生中了AI顶会NeurIPS！来自人大附中、北师大实验中学、上海星河湾双语学校.   **[[PDF](https://mp.weixin.qq.com/s/IWlVInwTzqbymVUNRhvP1Q)]**
 
