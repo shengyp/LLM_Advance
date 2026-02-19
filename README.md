@@ -43,11 +43,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  Hinton、LeCun、Bengio、清华马维英等人当选2023 ACM Fellow！   **[[PDF](https://mp.weixin.qq.com/s/zdr48aEHiMdKxxRdNKYrEw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.26`  OpenAI发布新模型！ChatGPT性能重磅提升，API大幅降价，GPT-4 「变懒」被修复.   **[[PDF](https://mp.weixin.qq.com/s/CdQf6nvtzSSyhu-9rOeJTA)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.27`  LLM排行榜更新！谷歌Bard超过GPT-4，中国玩家未进前十.   **[[PDF](https://mp.weixin.qq.com/s/BoJYpZdgjuMQfpZdmHzpRw)]**
 
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2024.01.27`  谷歌发布West-of-N，利用合成数据，显著提升LLM奖励模型质量 | 今日Arxiv最热大模型论文.   **[[PDF](https://mp.weixin.qq.com/s/XUv5rRQBUkcACJgpZvu0IA)]**
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
@@ -100,8 +100,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 - `2024.11.21`  DeepSeek版o1与OpenAI的o1大PK，到底谁真的炸场了？   **[[PDF](https://mp.weixin.qq.com/s/Xnb9wEnTxBrik48i4g6UCw)]**
 
 - `2024.11.21`  量子计算又被AI突破了！谷歌AlphaQubit研究登上Nature，高精度纠正量子计算错误.   **[[PDF](https://mp.weixin.qq.com/s/vr5DbRInXAk36nFE2RXpAA)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
 - `2024.11.25`  和梁朝伟同获港科荣誉博士，黄仁勋与沈向洋对谈Scaling Law、后训练、机器人和爱情.   **[[PDF](https://mp.weixin.qq.com/s/7dDX5yZSXdwzqhId59_hgw)]**
 
