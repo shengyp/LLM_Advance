@@ -12,84 +12,12 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.07`  ChatGPT Prompt工程：设计、实践与思考.   **[[PDF](https://mp.weixin.qq.com/s/i2uA1k8Go19YDBM94AIxWQ)]**
 
-- `2023.02.10`  ChatGPT保姆级注册教程.   **[[PDF](https://mp.weixin.qq.com/s/Mf4MBpN761M8yI79aaRPeA)]**
+- `2023.02.07`  吴恩达: ChatGPT大型语言模型获得成功的背后原因探析.   **[[PDF](https://mp.weixin.qq.com/s/R0yOPBkRQlNL3VWRirWEkA)]**
 
-- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
-
-- `2024.01.18`  Transformer竟是无限状态RNN？   **[[PDF](https://mp.weixin.qq.com/s/mniqTwgPKd34Kkv0DNiCQQ)]**
-
-- `2024.01.19`  小扎宣布进军AGI！Meta正在训练Llama 3，目标是60万块H100！模型仍会开源.   **[[PDF](https://mp.weixin.qq.com/s/bsm5nGAlniGIbQ3SHtxgRw)]**
-
-- `2024.01.19`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/q9JO13LMupfOH6II-E6INQ)]**
-
-- `2024.01.20`  谷歌DeepMind科学家「被爆将离职创业」！曾参与AlphaGo、Alphafold工作，首轮融资或超2亿美元
-.   **[[PDF](https://mp.weixin.qq.com/s/ReIyHTFB2gvulUfSgySJoA)]**
-
-- `2024.01.20`  最高100亿美元！Sam Altman正筹集资金支撑「自造AI芯片」野心.   **[[PDF](https://mp.weixin.qq.com/s/Tge5OXJBwu3IPkaebmU-iQ)]**
-
-- `2024.01.20`  今日Arxiv最热NLP大模型论文：Meta自我奖励模型超越人类反馈限制，刷新AlpacaEval 2.0排行榜.   **[[PDF](https://mp.weixin.qq.com/s/TddkJJzbvlH9S_1RyG9EWQ)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  Yann LeCun荣获全球AI大奖！Keras之父和Deepmind创始人也曾获奖.   **[[PDF](https://mp.weixin.qq.com/s/VugQGMG7evMBRlJOz1zVGw)]**
-
-- `2024.01.22`  今日Arxiv最热NLP大模型论文：清华大学让大语言模型自动并行自回归解码，速度提升高达4倍！   **[[PDF](https://mp.weixin.qq.com/s/vLUJ28ocpXgqze8mVyF2mA)]**
-
-- `2024.01.22`  今日ArXiv最骚NLP论文：欺骗大模型却能大幅提升效果的骚操作.   **[[PDF](https://mp.weixin.qq.com/s/ACKSk20mDDA25UjENRCUoA)]**
-
-- `2024.01.22`  刚上线三天，GPT Store违反政策的“AI女友”就已泛滥.   **[[PDF](https://mp.weixin.qq.com/s/GQ6V2L1wfCz4p8VSF4CZqw)]**
-
-- `2024.01.23`  当心！不要教大模型骗人，研究表明AI变坏后，很难被纠正.   **[[PDF](https://mp.weixin.qq.com/s/B3_pD9iLLaKUNUQJ_Q_Gbg)]**
-
-- `2024.01.24`  今日arXiv最热NLP大模型论文：北京大学警惕ChatGPT等大模型遏制人类的创新能力.   **[[PDF](https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg)]**
-
-- `2024.01.21`  Hinton、LeCun、Bengio、清华马维英等人当选2023 ACM Fellow！   **[[PDF](https://mp.weixin.qq.com/s/zdr48aEHiMdKxxRdNKYrEw)]**
-
-- `2024.01.26`  OpenAI发布新模型！ChatGPT性能重磅提升，API大幅降价，GPT-4 「变懒」被修复.   **[[PDF](https://mp.weixin.qq.com/s/CdQf6nvtzSSyhu-9rOeJTA)]**
-
-- `2024.01.27`  LLM排行榜更新！谷歌Bard超过GPT-4，中国玩家未进前十.   **[[PDF](https://mp.weixin.qq.com/s/BoJYpZdgjuMQfpZdmHzpRw)]**
-
-- `2024.01.27`  谷歌发布West-of-N，利用合成数据，显著提升LLM奖励模型质量 | 今日Arxiv最热大模型论文.   **[[PDF](https://mp.weixin.qq.com/s/XUv5rRQBUkcACJgpZvu0IA)]**
-
-- `2024.01.28`  Meta发布自我奖励机制，Llama在3轮训练后超越GPT-4.   **[[PDF](https://mp.weixin.qq.com/s/Uo75sGR6s2-pZ9m5GLQObg)]**
-
-- `2024.01.28`  OpenAI、斯坦福大学提出Meta-Prompting，有效提升语言模型的性能.   **[[PDF](https://mp.weixin.qq.com/s/ton58dImkg2VBiH57rlyUg)]**
-
-- `2024.01.28`  OpenAI组建「集体对齐」新团队，确保AI模型与人类价值观保持一致！   **[[PDF](https://mp.weixin.qq.com/s/fEbHu4PfqM_wqmfJGxHv3g)]**
-
-- `2024.01.29`  突发！美国将限制中国使用微软 Azure、亚马逊 AWS 训练 AI大模型.   **[[PDF](https://mp.weixin.qq.com/s/kIHxM5RWDE3wdOk4Ate9-Q)]**
-
-- `2024.01.29`  腾讯发表多模态大模型最新综述，从26个主流大模型看多模态效果提升关键方法.   **[[PDF](https://mp.weixin.qq.com/s/AyGmKYtWew1pY7oLdaXS-A)]**
-
-- `2024.01.29`  今日arXiv最热NLP大模型论文：伯克利&DeepMind联合研究，RaLMSpec让检索增强LLM速度提升2-7倍！   **[[PDF](https://mp.weixin.qq.com/s/Z0D6YSqJ2geQnt_fGq_rbA)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
-
-- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+- `2023.02.07`  多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源.   **[[PDF](https://mp.weixin.qq.com/s/e4h1pN7T6uBBvzdxf4zfSw)]**
 
 
 
-
-    <a href="https://mp.weixin.qq.com/s/R0yOPBkRQlNL3VWRirWEkA" target="_blank">吴恩达: ChatGPT大型语言模型获得成功的背后原因探析</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/e4h1pN7T6uBBvzdxf4zfSw" target="_blank">多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源</a>
-    |
     <a href="https://mp.weixin.qq.com/s/IR6uCpit0TpVzDjYz6eTtQ" target="_blank">ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结</a>
     |
     <a href="https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA" target="_blank">谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿</a>
@@ -214,13 +142,89 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/XXJJxQbqR-WtYW3l3nB-9w" target="_blank">打造ChatGPT的团队：平均年龄32岁！华人成员：清北+名校深造</a>
     |
-  <!-- 3.1 --> 
-    <a href="https://mp.weixin.qq.com/s/op2k0IA2ukQGsQl6FXNd8Q" target="_blank">GPT全家桶再添一员！看论文神器，ResearchGPT，可立即试用</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ivHmEJD_ny9WWQBgwBDhig" target="_blank">从BERT到ChatGPT，9大顶尖机构发布：那些年一起追过的「预训练基础模型」</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/sLDIOoEq-IKt7yfmvrD1rA" target="_blank">专委会动态|从心智计算研究的视角审视ChatGPT与人工智能内容生成专题研讨观点汇聚</a>
-    |
+
+
+- `2023.02.10`  ChatGPT保姆级注册教程.   **[[PDF](https://mp.weixin.qq.com/s/Mf4MBpN761M8yI79aaRPeA)]**
+
+- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
+
+- `2023.03.01`  GPT全家桶再添一员！看论文神器，ResearchGPT，可立即试用.   **[[PDF](https://mp.weixin.qq.com/s/op2k0IA2ukQGsQl6FXNd8Q)]**
+
+- `2023.03.01`  从BERT到ChatGPT，9大顶尖机构发布：那些年一起追过的「预训练基础模型」.   **[[PDF](https://mp.weixin.qq.com/s/ivHmEJD_ny9WWQBgwBDhig)]**
+
+- `2023.03.01`  专委会动态|从心智计算研究的视角审视ChatGPT与人工智能内容生成专题研讨观点汇聚.   **[[PDF](https://mp.weixin.qq.com/s/sLDIOoEq-IKt7yfmvrD1rA)]**
+
+- `2024.01.18`  Transformer竟是无限状态RNN？   **[[PDF](https://mp.weixin.qq.com/s/mniqTwgPKd34Kkv0DNiCQQ)]**
+
+- `2024.01.19`  小扎宣布进军AGI！Meta正在训练Llama 3，目标是60万块H100！模型仍会开源.   **[[PDF](https://mp.weixin.qq.com/s/bsm5nGAlniGIbQ3SHtxgRw)]**
+
+- `2024.01.19`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/q9JO13LMupfOH6II-E6INQ)]**
+
+- `2024.01.20`  谷歌DeepMind科学家「被爆将离职创业」！曾参与AlphaGo、Alphafold工作，首轮融资或超2亿美元
+.   **[[PDF](https://mp.weixin.qq.com/s/ReIyHTFB2gvulUfSgySJoA)]**
+
+- `2024.01.20`  最高100亿美元！Sam Altman正筹集资金支撑「自造AI芯片」野心.   **[[PDF](https://mp.weixin.qq.com/s/Tge5OXJBwu3IPkaebmU-iQ)]**
+
+- `2024.01.20`  今日Arxiv最热NLP大模型论文：Meta自我奖励模型超越人类反馈限制，刷新AlpacaEval 2.0排行榜.   **[[PDF](https://mp.weixin.qq.com/s/TddkJJzbvlH9S_1RyG9EWQ)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  Yann LeCun荣获全球AI大奖！Keras之父和Deepmind创始人也曾获奖.   **[[PDF](https://mp.weixin.qq.com/s/VugQGMG7evMBRlJOz1zVGw)]**
+
+- `2024.01.22`  今日Arxiv最热NLP大模型论文：清华大学让大语言模型自动并行自回归解码，速度提升高达4倍！   **[[PDF](https://mp.weixin.qq.com/s/vLUJ28ocpXgqze8mVyF2mA)]**
+
+- `2024.01.22`  今日ArXiv最骚NLP论文：欺骗大模型却能大幅提升效果的骚操作.   **[[PDF](https://mp.weixin.qq.com/s/ACKSk20mDDA25UjENRCUoA)]**
+
+- `2024.01.22`  刚上线三天，GPT Store违反政策的“AI女友”就已泛滥.   **[[PDF](https://mp.weixin.qq.com/s/GQ6V2L1wfCz4p8VSF4CZqw)]**
+
+- `2024.01.23`  当心！不要教大模型骗人，研究表明AI变坏后，很难被纠正.   **[[PDF](https://mp.weixin.qq.com/s/B3_pD9iLLaKUNUQJ_Q_Gbg)]**
+
+- `2024.01.24`  今日arXiv最热NLP大模型论文：北京大学警惕ChatGPT等大模型遏制人类的创新能力.   **[[PDF](https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg)]**
+
+- `2024.01.21`  Hinton、LeCun、Bengio、清华马维英等人当选2023 ACM Fellow！   **[[PDF](https://mp.weixin.qq.com/s/zdr48aEHiMdKxxRdNKYrEw)]**
+
+- `2024.01.26`  OpenAI发布新模型！ChatGPT性能重磅提升，API大幅降价，GPT-4 「变懒」被修复.   **[[PDF](https://mp.weixin.qq.com/s/CdQf6nvtzSSyhu-9rOeJTA)]**
+
+- `2024.01.27`  LLM排行榜更新！谷歌Bard超过GPT-4，中国玩家未进前十.   **[[PDF](https://mp.weixin.qq.com/s/BoJYpZdgjuMQfpZdmHzpRw)]**
+
+- `2024.01.27`  谷歌发布West-of-N，利用合成数据，显著提升LLM奖励模型质量 | 今日Arxiv最热大模型论文.   **[[PDF](https://mp.weixin.qq.com/s/XUv5rRQBUkcACJgpZvu0IA)]**
+
+- `2024.01.28`  Meta发布自我奖励机制，Llama在3轮训练后超越GPT-4.   **[[PDF](https://mp.weixin.qq.com/s/Uo75sGR6s2-pZ9m5GLQObg)]**
+
+- `2024.01.28`  OpenAI、斯坦福大学提出Meta-Prompting，有效提升语言模型的性能.   **[[PDF](https://mp.weixin.qq.com/s/ton58dImkg2VBiH57rlyUg)]**
+
+- `2024.01.28`  OpenAI组建「集体对齐」新团队，确保AI模型与人类价值观保持一致！   **[[PDF](https://mp.weixin.qq.com/s/fEbHu4PfqM_wqmfJGxHv3g)]**
+
+- `2024.01.29`  突发！美国将限制中国使用微软 Azure、亚马逊 AWS 训练 AI大模型.   **[[PDF](https://mp.weixin.qq.com/s/kIHxM5RWDE3wdOk4Ate9-Q)]**
+
+- `2024.01.29`  腾讯发表多模态大模型最新综述，从26个主流大模型看多模态效果提升关键方法.   **[[PDF](https://mp.weixin.qq.com/s/AyGmKYtWew1pY7oLdaXS-A)]**
+
+- `2024.01.29`  今日arXiv最热NLP大模型论文：伯克利&DeepMind联合研究，RaLMSpec让检索增强LLM速度提升2-7倍！   **[[PDF](https://mp.weixin.qq.com/s/Z0D6YSqJ2geQnt_fGq_rbA)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+- `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
+
+
+
+
+   
   <!-- 3.2 --> 
     <a href="https://mp.weixin.qq.com/s/jq1JR-WSc6dJ7rZ70Bs3Mg" target="_blank">微软发布多模态版ChatGPT！取名“宇宙一代”</a>
     |
@@ -3078,9 +3082,9 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <!-- 2024.09.21 -->
     <a href="https://mp.weixin.qq.com/s/tDv4s2yjpAdulyKI4nvuGA" target="_blank">读博对心理有持续负面影响？终于有论文证实了！确实是真的！</a>
     |
-    <a href="https://mp.weixin.qq.com/s/r5HINwOcjb9X_kGHWtiIvw" target="_blank">大模型的威力，远不只是聊天框</a>
-    |
 
+
+- `2024.09.21`  大模型的威力，远不只是聊天框   **[[PDF](https://mp.weixin.qq.com/s/r5HINwOcjb9X_kGHWtiIvw)]**
 
 - `2024.09.23`  o1的提示词：简单才是王道！   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
 
