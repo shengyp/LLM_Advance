@@ -95,39 +95,39 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.10`  《降临》作者特德·姜：ChatGPT是网上所有文本的模糊图像.   **[[PDF](https://c.m.163.com/news/a/HT8G8Q5D0514R9P4.html?from=wap_redirect&spss=adap_pc&referFrom=&spssid=b47d7dfcb453a07bed6fb92e35d179fc&spsw=2&isFromH5Share=article)]**
 
-- `2024.02.11`  专访之江实验室副主任鲍虎军：ChatGPT凭何搅动人工智能的“一池春水”？   **[[PDF](https://mp.weixin.qq.com/s/95yMvBW18fu7WjclTDNAIA)]**
+- `2023.02.10`  专访之江实验室副主任鲍虎军：ChatGPT凭何搅动人工智能的“一池春水”？   **[[PDF](https://mp.weixin.qq.com/s/95yMvBW18fu7WjclTDNAIA)]**
 
-- `2024.02.12`  ChatGPT背后模型被证实具有人类心智！斯坦福新研究炸了，知名学者：“这一天终于来了”   **[[PDF](https://mp.weixin.qq.com/s/zgrJVFvkqG69BrQCky193A)]**
+- `2023.02.12`  ChatGPT背后模型被证实具有人类心智！斯坦福新研究炸了，知名学者：“这一天终于来了”   **[[PDF](https://mp.weixin.qq.com/s/zgrJVFvkqG69BrQCky193A)]**
 
-- `2024.02.12`  全面学习 ChatGPT，机器之心准备了 89 篇文章合集   **[[PDF](https://mp.weixin.qq.com/s/Q7MxzgY_8nLjhwxGtQwLlg)]**
+- `2023.02.12`  全面学习 ChatGPT，机器之心准备了 89 篇文章合集   **[[PDF](https://mp.weixin.qq.com/s/Q7MxzgY_8nLjhwxGtQwLlg)]**
 
-- `2024.02.13`  ChatGPT国内赛道开卷，互联网大佬带资3.5亿宣布入场   **[[PDF](https://mp.weixin.qq.com/s/t6Vbt_X1gn4UeWk6g9yoMQ)]**
+- `2023.02.13`  ChatGPT国内赛道开卷，互联网大佬带资3.5亿宣布入场   **[[PDF](https://mp.weixin.qq.com/s/t6Vbt_X1gn4UeWk6g9yoMQ)]**
 
-- `2024.02.13`  无法阻止ChatGPT杀入学术圈，Nature一周连发两文引发大辩论   **[[PDF](https://mp.weixin.qq.com/s/sWq-cTfsyprY5DS5iEnepQ)]**
+- `2023.02.13`  无法阻止ChatGPT杀入学术圈，Nature一周连发两文引发大辩论   **[[PDF](https://mp.weixin.qq.com/s/sWq-cTfsyprY5DS5iEnepQ)]**
 
-- `2024.02.13`  访谈实录｜停止对ChatGPT的空洞唱和，不如反思人类社会的诸多设计   **[[PDF](https://mp.weixin.qq.com/s/L3LeYW3a62RQHhuTqZvPgQ)]**
+- `2023.02.13`  访谈实录｜停止对ChatGPT的空洞唱和，不如反思人类社会的诸多设计   **[[PDF](https://mp.weixin.qq.com/s/L3LeYW3a62RQHhuTqZvPgQ)]**
 
-- `2024.02.13`  ChatGPT通过美国执业医师资格考试？医疗人工智能会取代还是帮助医生   **[[PDF](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=582413)]**
+- `2023.02.13`  ChatGPT通过美国执业医师资格考试？医疗人工智能会取代还是帮助医生   **[[PDF](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=582413)]**
 
-- `2024.02.13`  让ChatGPT长“手”！Meta爆火新论文，让语言模型学会自主使用工具   **[[PDF](https://mp.weixin.qq.com/s/nca9jMOXgMKfhA8bo0FQvw)]**
+- `2023.02.13`  让ChatGPT长“手”！Meta爆火新论文，让语言模型学会自主使用工具   **[[PDF](https://mp.weixin.qq.com/s/nca9jMOXgMKfhA8bo0FQvw)]**
 
-- `2024.02.14`  ChatGPT加持下的微软New Bing 错误频出，别只骂谷歌的Bard了   **[[PDF](https://mp.weixin.qq.com/s/E7k-wdNlke4Q5LRmpJVEHg)]**
+- `2023.02.14`  ChatGPT加持下的微软New Bing 错误频出，别只骂谷歌的Bard了   **[[PDF](https://mp.weixin.qq.com/s/E7k-wdNlke4Q5LRmpJVEHg)]**
 
-- `2024.02.14`  ChatGPT风口上的微软，解散了工业元宇宙应用团队   **[[PDF](https://mp.weixin.qq.com/s/V4APFyQjEBy52OUHcoY1Mw)]**
+- `2023.02.14`  ChatGPT风口上的微软，解散了工业元宇宙应用团队   **[[PDF](https://mp.weixin.qq.com/s/V4APFyQjEBy52OUHcoY1Mw)]**
 
-- `2024.02.14`  抢中国版ChatGPT首发的公司们   **[[PDF](https://mp.weixin.qq.com/s/K7qhJhLkUY5eVJ1N506Zqg)]**
+- `2023.02.14`  抢中国版ChatGPT首发的公司们   **[[PDF](https://mp.weixin.qq.com/s/K7qhJhLkUY5eVJ1N506Zqg)]**
 
-- `2024.02.15`  【chatGPT】和chatGPT结对编程的6小时   **[[PDF](https://mp.weixin.qq.com/s/WEVCUXqGrBb2hAcSe063gA)]**
+- `2023.02.15`  【chatGPT】和chatGPT结对编程的6小时   **[[PDF](https://mp.weixin.qq.com/s/WEVCUXqGrBb2hAcSe063gA)]**
 
-- `2024.02.15`  ChatGPT 数据集之谜   **[[PDF](https://mp.weixin.qq.com/s/Vv45QCU_rGEeU8IHBrIBcQ)]**
+- `2023.02.15`  ChatGPT 数据集之谜   **[[PDF](https://mp.weixin.qq.com/s/Vv45QCU_rGEeU8IHBrIBcQ)]**
 
-- `2024.02.15`  ChatGPT版Bing被调戏到生气发飙，ChatGPT被证实具有人类心智   **[[PDF](https://mp.weixin.qq.com/s/T0ShM0IhtNrwPRbkDA6eGg)]**
+- `2023.02.15`  ChatGPT版Bing被调戏到生气发飙，ChatGPT被证实具有人类心智   **[[PDF](https://mp.weixin.qq.com/s/T0ShM0IhtNrwPRbkDA6eGg)]**
 
-- `2024.02.15`  S级秘术！指导ChatGPT训练一个神经网络的超详细「指令」来啦！   **[[PDF](https://mp.weixin.qq.com/s/QmP9EJmvbVZ0YN3EMT0eJQ)]**
+- `2023.02.15`  S级秘术！指导ChatGPT训练一个神经网络的超详细「指令」来啦！   **[[PDF](https://mp.weixin.qq.com/s/QmP9EJmvbVZ0YN3EMT0eJQ)]**
 
-- `2024.02.16`  AI大佬不满ChatGPT：亟待完善ChatGPT的道德护栏   **[[PDF](https://mp.weixin.qq.com/s/-oExxnCNJD4N7wE1TVa1AQ)]**
+- `2023.02.16`  AI大佬不满ChatGPT：亟待完善ChatGPT的道德护栏   **[[PDF](https://mp.weixin.qq.com/s/-oExxnCNJD4N7wE1TVa1AQ)]**
 
-- `2024.02.16`  用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗   **[[PDF](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ)]**
+- `2023.02.16`  用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗   **[[PDF](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ)]**
 
 - `2023.02.17`  日烧70万美元的ChatGPT如何融入搜索引擎   **[[PDF](https://mp.weixin.qq.com/s/ZJQYcnqbwlBV1ra0rnX1uw)]**
 
@@ -165,7 +165,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.26`  用ChatGPT操控机器人，微软开启居家机器人新纪元！   **[[PDF](https://mp.weixin.qq.com/s/jbdr8fHaXsdWWzWrxEkbDQ)]**
 
-- `2023.02.26`  追赶ChatGPT的难点与平替   **[[PDF](https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA)]**
+- `2023.02.24`  追赶ChatGPT的难点与平替   **[[PDF](https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA)]**
 
 - `2023.02.27`  没有这些，别妄谈做ChatGPT了   **[[PDF](https://mp.weixin.qq.com/s/LdugdTl0Dy8vVLlXXwZBMQ)]**  
 
@@ -183,11 +183,10 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.03.03`  「国际科技信息中心SCITIC论坛」从ChatGPT、流浪地球、虚拟数字人、AIGC探索数字化创意，展望人类与AI的共创   **[[PDF](https://mp.weixin.qq.com/s/O1bGfAgGjrsUjJxy5WmL1A)]**
 
+- `2023.03.04`  “ChatGPT与未来教育”沙龙成功举办   **[[PDF](https://mp.weixin.qq.com/s/6p_Vtdkp0Nk8-qmh2TFHcg)]**
 
 
-  <!-- 3.4 --> 
-    <a href="https://mp.weixin.qq.com/s/6p_Vtdkp0Nk8-qmh2TFHcg" target="_blank">“ChatGPT与未来教育”沙龙成功举办</a>
-    |
+
   <!-- 3.6 --> 
     <a href="https://mp.weixin.qq.com/s/AalsOJ2fdHziYhvUle0jnA" target="_blank">UCL汪军呼吁创新：后ChatGPT通用人工智能理论及其应用</a>
     |
