@@ -71,7 +71,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.24`  今日arXiv最热NLP大模型论文：北京大学警惕ChatGPT等大模型遏制人类的创新能力.   **[[PDF](https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg)]**
 
-- `2024.01.21`  Hinton、LeCun、Bengio、清华马维英等人当选2023 ACM Fellow！   **[[PDF](https://mp.weixin.qq.com/s/zdr48aEHiMdKxxRdNKYrEw)]**
+- `2024.01.25`  Hinton、LeCun、Bengio、清华马维英等人当选2023 ACM Fellow！   **[[PDF](https://mp.weixin.qq.com/s/zdr48aEHiMdKxxRdNKYrEw)]**
 
 - `2024.01.26`  OpenAI发布新模型！ChatGPT性能重磅提升，API大幅降价，GPT-4 「变懒」被修复.   **[[PDF](https://mp.weixin.qq.com/s/CdQf6nvtzSSyhu-9rOeJTA)]**
 
