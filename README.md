@@ -166,38 +166,39 @@ This is a paper list for , which also cont.
 
 - `2023.02.28`  腾讯类ChatGPT保密项目爆出，张正友带队研发「混元助手」   **[[LINK](https://www.toutiao.com/article/7205092404427391491/?app=news_article&timestamp=1677604032&use_new_style=1&req_id=2023030101071244407EB724AE152211E2&group_id=7205092404427391491&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c1150a4e-a242-47a8-8128-13fa59a3e23d&source=m_redirect)]** 
 
-- `2023.02.28`  已上线公测！打开就能用的“中国版ChatGPT”，速来过招   **[[PDF](https://mp.weixin.qq.com/s/pmDhA-TjT2HnHBT2cowouQ)]** 
+- `2023.02.28`  已上线公测！打开就能用的“中国版ChatGPT”，速来过招   **[[LINK](https://mp.weixin.qq.com/s/pmDhA-TjT2HnHBT2cowouQ)]** 
 
-- `2023.02.28`  打造ChatGPT的团队：平均年龄32岁！华人成员：清北+名校深造   **[[PDF](https://mp.weixin.qq.com/s/XXJJxQbqR-WtYW3l3nB-9w)]** 
+- `2023.02.28`  打造ChatGPT的团队：平均年龄32岁！华人成员：清北+名校深造   **[[LINK](https://mp.weixin.qq.com/s/XXJJxQbqR-WtYW3l3nB-9w)]** 
 
-- `2023.03.03`  哈工大张民：ChatGPT之后，NLP还有12个待解决命题   **[[PDF](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA)]** 
+- `2023.03.03`  哈工大张民：ChatGPT之后，NLP还有12个待解决命题   **[[LINK](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA)]** 
 
-- `2023.03.03`  LeCun：ChatGPT无法实现通用人工智能，但ALM技术路线可以！   **[[PDF](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]** 
+- `2023.03.03`  LeCun：ChatGPT无法实现通用人工智能，但ALM技术路线可以！   **[[LINK](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]** 
 
-- `2023.03.03`  「国际科技信息中心SCITIC论坛」从ChatGPT、流浪地球、虚拟数字人、AIGC探索数字化创意，展望人类与AI的共创   **[[PDF](https://mp.weixin.qq.com/s/O1bGfAgGjrsUjJxy5WmL1A)]**
+- `2023.03.03`  「国际科技信息中心SCITIC论坛」从ChatGPT、流浪地球、虚拟数字人、AIGC探索数字化创意，展望人类与AI的共创   **[[LINK](https://mp.weixin.qq.com/s/O1bGfAgGjrsUjJxy5WmL1A)]**
 
-- `2023.03.04`  “ChatGPT与未来教育”沙龙成功举办   **[[PDF](https://mp.weixin.qq.com/s/6p_Vtdkp0Nk8-qmh2TFHcg)]**
+- `2023.03.04`  “ChatGPT与未来教育”沙龙成功举办   **[[LINK](https://mp.weixin.qq.com/s/6p_Vtdkp0Nk8-qmh2TFHcg)]**
 
-- `2023.03.06`  UCL汪军呼吁创新：后ChatGPT通用人工智能理论及其应用   **[[PDF](https://mp.weixin.qq.com/s/AalsOJ2fdHziYhvUle0jnA)]**
+- `2023.03.06`  UCL汪军呼吁创新：后ChatGPT通用人工智能理论及其应用   **[[LINK](https://mp.weixin.qq.com/s/AalsOJ2fdHziYhvUle0jnA)]**
 
-- `2023.03.06`  科技部部长谈ChatGPT时，举了这样两个例子   **[[PDF](https://mp.weixin.qq.com/s/Zt_McLEDOtVR9F8qLrsQGw)]**
+- `2023.03.06`  科技部部长谈ChatGPT时，举了这样两个例子   **[[LINK](https://mp.weixin.qq.com/s/Zt_McLEDOtVR9F8qLrsQGw)]**
 
-- `2023.03.07`  邱锡鹏教授：大型语言模型的能力分析与应用   **[[PDF](https://mp.weixin.qq.com/s/pqaABIbvZZz9P4fxxbtuCQ)]**
+- `2023.03.07`  邱锡鹏教授：大型语言模型的能力分析与应用   **[[LINK](https://mp.weixin.qq.com/s/pqaABIbvZZz9P4fxxbtuCQ)]**
 
-- `2023.03.08`  大神李沐加入AI大模型创业，导师Alex Smola是创始人   **[[PDF](https://mp.weixin.qq.com/s/YwYHJblMpI5e8vSRvv2mVw)]**
+- `2023.03.08`  大神李沐加入AI大模型创业，导师Alex Smola是创始人   **[[LINK](https://mp.weixin.qq.com/s/YwYHJblMpI5e8vSRvv2mVw)]**
 
-- `2023.03.08`  一人改代码搞崩推特，马斯克气疯：全部重写！   **[[PDF](https://mp.weixin.qq.com/s/w8QEP_muckcJbpQkfhEG5g)]**
+- `2023.03.08`  一人改代码搞崩推特，马斯克气疯：全部重写！   **[[LINK](https://mp.weixin.qq.com/s/w8QEP_muckcJbpQkfhEG5g)]**
 
-- `2023.03.08`  重磅！谷歌发布5620亿参数多模态模型PaLM-E，机器人操控无所不能   **[[PDF](https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA)]**
+- `2023.03.08`  重磅！谷歌发布5620亿参数多模态模型PaLM-E，机器人操控无所不能   **[[LINK](https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA)]**
 
+- `2023.03.10`  ChatGPT之后我们要做什么？丨文本生成中的知识和控制   **[[LINK](https://mp.weixin.qq.com/s/LwGxuy05hes6iV8MQ6yL4w)]**
+
+- `2023.03.10`  ChatGPT之后我们要做什么？丨文本生成中的知识和控制   **[[LINK](https://mp.weixin.qq.com/s/LwGxuy05hes6iV8MQ6yL4w)]**
+
+- `2023.03.10`  王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天   **[[LINK](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ)]**
 
 
 
   <!-- 3.10 --> 
-    <a href="https://mp.weixin.qq.com/s/LwGxuy05hes6iV8MQ6yL4w" target="_blank">ChatGPT之后我们要做什么？丨文本生成中的知识和控制</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ" target="_blank">王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天</a>
-    |
     <a href="https://mp.weixin.qq.com/s/O4bK0dO_E8iKXe1U839NMw" target="_blank">GPT-4将于下周发布，微软德国CTO：将提供完全不同的可能性</a>
     |
     <a href="https://mp.weixin.qq.com/s/JiEn377_ULqqA5H9MhM3yg" target="_blank">活动实录｜胡芳槐博士、王昊奋博士“ChatGPT探索语言未来”线上圆桌会精彩发言</a>
@@ -224,15 +225,15 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247545200&idx=2&sn=841715268d0613e305278e8b0d22eb3e&chksm=970f19a6a07890b072de9fa9407d188c9b80b18ef754c87ab60345ed0ac8e6ae4b1a99582993&scene=126&sessionid=1678957154&subscene=227&key=5099f4dd3766303d4613a285f14c61afbf7628466bb0da35da9aef257d8a46527b855d2f1f6d0248f201b023f2e944818e592b7a8b710f0fb4987476d2eb133c297481d317210d0da18143054e8154398495e0334528d9cb272d4abdce5082eadebc21662226c85669579c3015bb1fb1376fe7cb1cbf52c3e87b4eb047968bf4&ascene=0&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=6309001c&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQwPk%2BHDb22Sdd7j0Khzo%2B9xLbAQIE97dBBAEAAAAAAKaGLk0s3SgAAAAOpnltbLcz9gKNyK89dVj0Ca7muIpPdbBDQJ0VoOUYXqR87P%2FP%2FkuC467GBdDTrZjiraPHFsnjbUSqRvPdrvYu%2BUg9JrJlfTJEYX0ZrOfidxDiRmvfk0RMx5FqWpZizOE0WMPTpcCwMB1EOHG3dQcqq%2B2TrAJ2nHBNMfzef%2Bq8NQk5klrnxeIRpaBFWk8ZdLbJ2JbkX37NaFKOz3RSl75XtB5a1gp97BNyb1aVRssaaCCEg2TG2J4%2F%2FhwFhn9Uq8d09zWptQ%3D%3D&acctmode=0&pass_ticket=%2B4sMkpWSdgE7DVxPfLwwdiC0NJyLzer%2BjQUSarkDhq8DLddF4%2F7IPJTOPz%2FUp9CkSGFzWiTvvHAnvwOzvKRt%2Bg%3D%3D&wx_header=1&fontgear=2" target="_blank">惊呼！在Mac上可以跑LLaMA啦！附上详细教程</a>
     |
-  <!-- 3.15 --> 
-    <a href="https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw" target="_blank">GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/TnP4s2-ivmJnKcV79MjAtQ" target="_blank">【他山之石】GPT-4发布！史上最强大模型来了</a>
-    | 
-    <a href="https://news.cqu.edu.cn/archives/medias/content/2023/03/03/c46908d2d41f34d665e249864e018badd8be32fd.html" target="_blank">【上游新闻】漫谈ChatGPT|重庆大学大数据与软件学院院长：看好ChatGPT未来在软件开发中“代码智能”研究领域的潜力</a>
-    |
-- `2023.03.15`  【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API   **[[PDF](https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g)]**
 
+
+- `2023.03.15`  【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API   **[[LINK](https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g)]**
+
+- `2023.03.15`  GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？   **[[LINK](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)]**
+
+- `2023.03.15`  【他山之石】GPT-4发布！史上最强大模型来了   **[[LINK](https://mp.weixin.qq.com/s/TnP4s2-ivmJnKcV79MjAtQ)]**
+
+- `2023.03.15`  【上游新闻】漫谈ChatGPT|重庆大学大数据与软件学院院长：看好ChatGPT未来在软件开发中“代码智能”研究领域的潜力   **[[LINK](https://news.cqu.edu.cn/archives/medias/content/2023/03/03/c46908d2d41f34d665e249864e018badd8be32fd.html)]**
 
 
   <!-- 3.16 --> 
