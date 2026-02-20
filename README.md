@@ -107,49 +107,42 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.02.13`  访谈实录｜停止对ChatGPT的空洞唱和，不如反思人类社会的诸多设计   **[[PDF](https://mp.weixin.qq.com/s/L3LeYW3a62RQHhuTqZvPgQ)]**
 
-  <!-- 2.13 -->
+- `2024.02.13`  ChatGPT通过美国执业医师资格考试？医疗人工智能会取代还是帮助医生   **[[PDF](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=582413)]**
 
-    <a href="https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=582413" target="_blank">ChatGPT通过美国执业医师资格考试？医疗人工智能会取代还是帮助医生</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/nca9jMOXgMKfhA8bo0FQvw" target="_blank">让ChatGPT长“手”！Meta爆火新论文，让语言模型学会自主使用工具</a>
-    |
-  <!-- 2.14 -->
-    <a href="https://mp.weixin.qq.com/s/E7k-wdNlke4Q5LRmpJVEHg" target="_blank">ChatGPT加持下的微软New Bing 错误频出，别只骂谷歌的Bard了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/V4APFyQjEBy52OUHcoY1Mw" target="_blank">ChatGPT风口上的微软，解散了工业元宇宙应用团队</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/K7qhJhLkUY5eVJ1N506Zqg" target="_blank">抢中国版ChatGPT首发的公司们</a>
-    |
-  <!-- 2.15 -->
-    <a href="https://mp.weixin.qq.com/s/WEVCUXqGrBb2hAcSe063gA" target="_blank">【chatGPT】和chatGPT结对编程的6小时</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/Vv45QCU_rGEeU8IHBrIBcQ" target="_blank">ChatGPT 数据集之谜</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/T0ShM0IhtNrwPRbkDA6eGg" target="_blank">ChatGPT版Bing被调戏到生气发飙，ChatGPT被证实具有人类心智</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/QmP9EJmvbVZ0YN3EMT0eJQ" target="_blank">S级秘术！指导ChatGPT训练一个神经网络的超详细「指令」来啦！</a>
-    |  
-  <!-- 2.16 -->
-    <a href="https://mp.weixin.qq.com/s/-oExxnCNJD4N7wE1TVa1AQ" target="_blank">AI大佬不满ChatGPT：亟待完善ChatGPT的道德护栏</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ" target="_blank">用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗</a>
-    |
-  <!-- 2.17 -->
-    <a href="https://mp.weixin.qq.com/s/ZJQYcnqbwlBV1ra0rnX1uw" target="_blank">日烧70万美元的ChatGPT如何融入搜索引擎</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Cdf1it7mDA2Nd-MGllIGdg" target="_blank">超越GPT 3.5的小模型来了！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/tBbDRdnFrmSv1X2ttpw6Zg" target="_blank">ChatGPT逼急谷歌，劈柴发全员信：别慌，迟到也能赢！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/43kKLcFkJkTA5XbiCYxglw" target="_blank">张家俊：关于ChatGPT八个技术问题的猜想</a>
-    |
-  <!-- 2.20 -->
-    <a href="https://mp.weixin.qq.com/s/Ef2347Mn3VeM19F0j-EUDQ" target="_blank">OpenAI透露ChatGPT未来发展计划：要与人类价值保持一致</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/AzWbE7z1gBlxN2q1x6cYng" target="_blank">跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/WpGaIZVAVlbchu8kgHVtJg" target="_blank">港大全面封杀ChatGPT；重新思考ChatGPT抄袭检测；挣钱多的人智商更高？｜热点回顾</a>
-    |
+- `2024.02.13`  让ChatGPT长“手”！Meta爆火新论文，让语言模型学会自主使用工具   **[[PDF](https://mp.weixin.qq.com/s/nca9jMOXgMKfhA8bo0FQvw)]**
+
+- `2024.02.14`  ChatGPT加持下的微软New Bing 错误频出，别只骂谷歌的Bard了   **[[PDF](https://mp.weixin.qq.com/s/E7k-wdNlke4Q5LRmpJVEHg)]**
+
+- `2024.02.14`  ChatGPT风口上的微软，解散了工业元宇宙应用团队   **[[PDF](https://mp.weixin.qq.com/s/V4APFyQjEBy52OUHcoY1Mw)]**
+
+- `2024.02.14`  抢中国版ChatGPT首发的公司们   **[[PDF](https://mp.weixin.qq.com/s/K7qhJhLkUY5eVJ1N506Zqg)]**
+
+- `2024.02.15`  【chatGPT】和chatGPT结对编程的6小时   **[[PDF](https://mp.weixin.qq.com/s/WEVCUXqGrBb2hAcSe063gA)]**
+
+- `2024.02.15`  ChatGPT 数据集之谜   **[[PDF](https://mp.weixin.qq.com/s/Vv45QCU_rGEeU8IHBrIBcQ)]**
+
+- `2024.02.15`  ChatGPT版Bing被调戏到生气发飙，ChatGPT被证实具有人类心智   **[[PDF](https://mp.weixin.qq.com/s/T0ShM0IhtNrwPRbkDA6eGg)]**
+
+- `2024.02.15`  S级秘术！指导ChatGPT训练一个神经网络的超详细「指令」来啦！   **[[PDF](https://mp.weixin.qq.com/s/QmP9EJmvbVZ0YN3EMT0eJQ)]**
+
+- `2024.02.16`  AI大佬不满ChatGPT：亟待完善ChatGPT的道德护栏   **[[PDF](https://mp.weixin.qq.com/s/-oExxnCNJD4N7wE1TVa1AQ)]**
+
+- `2024.02.16`  用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗   **[[PDF](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ)]**
+
+- `2023.02.17`  日烧70万美元的ChatGPT如何融入搜索引擎   **[[PDF](https://mp.weixin.qq.com/s/ZJQYcnqbwlBV1ra0rnX1uw)]**
+
+- `2023.02.17`  超越GPT 3.5的小模型来了！   **[[PDF](https://mp.weixin.qq.com/s/Cdf1it7mDA2Nd-MGllIGdg)]**
+
+- `2023.02.17`  ChatGPT逼急谷歌，劈柴发全员信：别慌，迟到也能赢！   **[[PDF](https://mp.weixin.qq.com/s/tBbDRdnFrmSv1X2ttpw6Zg)]**
+
+- `2023.02.17`  张家俊：关于ChatGPT八个技术问题的猜想   **[[PDF](https://mp.weixin.qq.com/s/43kKLcFkJkTA5XbiCYxglw)]**
+
+- `2023.02.20`  OpenAI透露ChatGPT未来发展计划：要与人类价值保持一致   **[[PDF](https://mp.weixin.qq.com/s/Ef2347Mn3VeM19F0j-EUDQ)]**
+
+- `2023.02.20`  跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文   **[[PDF](https://mp.weixin.qq.com/s/AzWbE7z1gBlxN2q1x6cYng)]**
+
+- `2023.02.20`  港大全面封杀ChatGPT；重新思考ChatGPT抄袭检测；挣钱多的人智商更高？｜热点回顾   **[[PDF](https://mp.weixin.qq.com/s/WpGaIZVAVlbchu8kgHVtJg)]**
+
   <!-- 2.21 -->
     <a href="https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA" target="_blank">为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的</a>
     |
@@ -159,22 +152,18 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/cdbw1klu7svpPIdKcMIA9A" target="_blank">跟AI唠嗑，年入33万美金！ChatGPT时代的必备新技能</a>
     |     
-  <!-- 2.22 -->
-    <a href="https://mp.weixin.qq.com/s/p0s6FmEof2gkb0jrHBo3JA" target="_blank">GPT系列的数据集之谜</a>
-    |
-  <!-- 2.23 -->
-    <a href="https://mp.weixin.qq.com/s/5qaxr0-X2U3zNopseDn52A" target="_blank">ChatGPT劲敌团队发布，可轻松引导ChatGPT不要输出有害言论！</a>
-    |
-  <!-- 2.24 --> 
-    <a href="https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA" target="_blank">追赶ChatGPT的难点与平替</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ZRAuV_ZBW-lESrZ-u2Uorw" target="_blank">硅谷大佬：我为什么要逃离谷歌？</a>
-    |
-  <!-- 2.25 --> 
-    <a href="https://mp.weixin.qq.com/s/fT5N740d4ZXag2SpMHZNIw" target="_blank">张家俊：关于ChatGPT八个技术问题的猜想</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ZzxsOf8HaNcJUV3xIpWlOw" target="_blank">开源版GPT-3来了？Meta发布LLaMa，多数任务效果超越GPT-3，已开源</a>
-    |   
+
+- `2023.02.22`  GPT系列的数据集之谜   **[[PDF](https://mp.weixin.qq.com/s/p0s6FmEof2gkb0jrHBo3JA)]**
+
+- `2023.02.23`  ChatGPT劲敌团队发布，可轻松引导ChatGPT不要输出有害言论！   **[[PDF](https://mp.weixin.qq.com/s/5qaxr0-X2U3zNopseDn52A)]**
+
+- `2023.02.24`  追赶ChatGPT的难点与平替   **[[PDF](https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA)]**
+
+- `2023.02.24`  硅谷大佬：我为什么要逃离谷歌？   **[[PDF](https://mp.weixin.qq.com/s/ZRAuV_ZBW-lESrZ-u2Uorw)]**
+
+- `2023.02.25`  开源版GPT-3来了？Meta发布LLaMa，多数任务效果超越GPT-3，已开源   **[[PDF](https://mp.weixin.qq.com/s/ZzxsOf8HaNcJUV3xIpWlOw)]**
+
+- `2023.02.25`  张家俊：关于ChatGPT八个技术问题的猜想   **[[PDF](https://mp.weixin.qq.com/s/fT5N740d4ZXag2SpMHZNIw)]**
 
 - `2023.02.26`  用ChatGPT操控机器人，微软开启居家机器人新纪元！   **[[PDF](https://mp.weixin.qq.com/s/jbdr8fHaXsdWWzWrxEkbDQ)]**
 
