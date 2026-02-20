@@ -3029,7 +3029,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.09.23`  o1的提示词：简单才是王道！   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
 
-- `2024.09.23`  西安一高校老师实名公开举报！397页PDF痛诉同院老师学术不端，评审推诿包庇   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
+- `2024.09.23`  西安一高校老师实名公开举报！397页PDF痛诉同院老师学术不端，评审推诿包庇   **[[PDF](https://mp.weixin.qq.com/s/JmC_b1Tb4ymaMrQnr-Aiaw)]**
 
 - `2024.09.24`  Sam Altman罕见发长文：ASI终将至，准备好迎接“智能时代”吧！深度学习是有效路径   **[[PDF](https://mp.weixin.qq.com/s/NhcTravDbOroPWT4500hkA)]**
 
@@ -3037,11 +3037,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.09.25`  我薅到了63小时的3090卡   **[[PDF](https://mp.weixin.qq.com/s/UYzIFZdRjVu_in88xEqahg)]**
 
-- `2024.09.26`  张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]** 
+- `2024.09.26`  张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演   **[[PDF](https://mp.weixin.qq.com/s/2rK59hPV8C_PeDsT8Ii73w)]** 
 
 - `2024.09.26`  突发！OpenAI CTO离职，同日奥特曼被曝将获得股权   **[[PDF](https://mp.weixin.qq.com/s/kC_4Fsh4FKrsP0WzL37RHg)]** 
 
-- `2024.09.27`  三只羊卢总的醉酒录音，说方言吐脏话，AI合成能到吗   **[[PDF](https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA)]** 
+- `2024.09.27`  三只羊卢总的醉酒录音，说方言吐脏话，AI合成能到吗   **[[PDF](https://mp.weixin.qq.com/s/DrGG7ehTVA0dQ6JeviBX6A)]** 
 
 - `2024.09.27`  LLM 我们距离应用还差什么？   **[[PDF](https://mp.weixin.qq.com/s/saG4LFq97WA356RdaCcQvQ)]** 
 
