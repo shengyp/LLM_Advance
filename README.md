@@ -686,18 +686,17 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.05.06`  离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的   **[[PDF](https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ)]** 
 
-   <!-- 5.7 -->
-    <a href="https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA" target="_blank">达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力</a>
-    |
-   <!-- 5.8 -->
-    <a href="https://mp.weixin.qq.com/s/1kMFFtL9o1yEfkl_N-Q_kQ" target="_blank">他山之石丨复杂推理：大语言模型的北极星能力</a>
-    |   
-    <a href="https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA" target="_blank">可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA" target="_blank">大语言模型（LLM）分布式训练框架总结</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg" target="_blank">还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！</a>
-    |
+- `2023.05.07`  达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力   **[[PDF](https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA)]** 
+
+- `2023.05.08`  他山之石丨复杂推理：大语言模型的北极星能力   **[[PDF](https://mp.weixin.qq.com/s/1kMFFtL9o1yEfkl_N-Q_kQ)]** 
+
+- `2023.05.08`  可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了   **[[PDF](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA)]** 
+
+- `2023.05.08`  大语言模型（LLM）分布式训练框架总结   **[[PDF](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA)]** 
+
+- `2023.05.08`  还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！   **[[PDF](https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg)]** 
+
+
    <!-- 5.9 -->
     <a href="https://mp.weixin.qq.com/s/QeAV6hOLAlfZgW_azTiCLw" target="_blank">FCS 2023｜数研院发表面向序贯决策任务的大模型算法综述</a>
     |
