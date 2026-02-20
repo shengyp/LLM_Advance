@@ -175,11 +175,10 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/ZzxsOf8HaNcJUV3xIpWlOw" target="_blank">开源版GPT-3来了？Meta发布LLaMa，多数任务效果超越GPT-3，已开源</a>
     |   
-  <!-- 2.26 --> 
-    <a href="https://mp.weixin.qq.com/s/jbdr8fHaXsdWWzWrxEkbDQ" target="_blank">用ChatGPT操控机器人，微软开启居家机器人新纪元！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA" target="_blank">追赶ChatGPT的难点与平替</a>
-    |
+
+- `2023.02.26`  用ChatGPT操控机器人，微软开启居家机器人新纪元！   **[[PDF](https://mp.weixin.qq.com/s/jbdr8fHaXsdWWzWrxEkbDQ)]**
+
+- `2023.02.26`  追赶ChatGPT的难点与平替   **[[PDF](https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA)]**
 
 - `2023.02.27`  没有这些，别妄谈做ChatGPT了   **[[PDF](https://mp.weixin.qq.com/s/LdugdTl0Dy8vVLlXXwZBMQ)]**  
 
@@ -2994,9 +2993,9 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/9huW7gmAk5M6dkVQntGhvQ" target="_blank">国产！首个实时视频交互的功能面世，智谱硬实力炸场KDD顶会</a>
     |
-    <!-- 2024.08.30 -->
-    <a href="https://mp.weixin.qq.com/s/WSzGpypjlOrl3HIwf7ENNg" target="_blank">MM 2024 Oral: 大模型带你鉴赏世界名画！同济大学发布</a>
-    |
+
+- `2024.08.30`  MM 2024 Oral: 大模型带你鉴赏世界名画！同济大学发布   **[[PDF](https://mp.weixin.qq.com/s/WSzGpypjlOrl3HIwf7ENNg)]** 
+    
     <!-- 2024.09.03 -->
     <a href="https://mp.weixin.qq.com/s/KoUoPN6Kw_GBek8bwy7OkQ" target="_blank">MM 34页，超200篇文献，浙江大学最新综述，揭秘大语言模型中知识的利用机制</a>
     |
