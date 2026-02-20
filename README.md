@@ -181,23 +181,21 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.03.04`  “ChatGPT与未来教育”沙龙成功举办   **[[PDF](https://mp.weixin.qq.com/s/6p_Vtdkp0Nk8-qmh2TFHcg)]**
 
+- `2023.03.06`  UCL汪军呼吁创新：后ChatGPT通用人工智能理论及其应用   **[[PDF](https://mp.weixin.qq.com/s/AalsOJ2fdHziYhvUle0jnA)]**
+
+- `2023.03.06`  科技部部长谈ChatGPT时，举了这样两个例子   **[[PDF](https://mp.weixin.qq.com/s/Zt_McLEDOtVR9F8qLrsQGw)]**
+
+- `2023.03.07`  邱锡鹏教授：大型语言模型的能力分析与应用   **[[PDF](https://mp.weixin.qq.com/s/pqaABIbvZZz9P4fxxbtuCQ)]**
+
+- `2023.03.08`  大神李沐加入AI大模型创业，导师Alex Smola是创始人   **[[PDF](https://mp.weixin.qq.com/s/YwYHJblMpI5e8vSRvv2mVw)]**
+
+- `2023.03.08`  一人改代码搞崩推特，马斯克气疯：全部重写！   **[[PDF](https://mp.weixin.qq.com/s/w8QEP_muckcJbpQkfhEG5g)]**
+
+- `2023.03.08`  重磅！谷歌发布5620亿参数多模态模型PaLM-E，机器人操控无所不能   **[[PDF](https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA)]**
 
 
-  <!-- 3.6 --> 
-    <a href="https://mp.weixin.qq.com/s/AalsOJ2fdHziYhvUle0jnA" target="_blank">UCL汪军呼吁创新：后ChatGPT通用人工智能理论及其应用</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Zt_McLEDOtVR9F8qLrsQGw" target="_blank">科技部部长谈ChatGPT时，举了这样两个例子</a>
-    |
-  <!-- 3.7 --> 
-    <a href="https://mp.weixin.qq.com/s/pqaABIbvZZz9P4fxxbtuCQ" target="_blank">邱锡鹏教授：大型语言模型的能力分析与应用</a>
-    | 
-  <!-- 3.8 --> 
-    <a href="https://mp.weixin.qq.com/s/YwYHJblMpI5e8vSRvv2mVw" target="_blank">大神李沐加入AI大模型创业，导师Alex Smola是创始人</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/w8QEP_muckcJbpQkfhEG5g" target="_blank">一人改代码搞崩推特，马斯克气疯：全部重写！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA" target="_blank">重磅！谷歌发布5620亿参数多模态模型PaLM-E，机器人操控无所不能</a>
-    |
+
+
   <!-- 3.10 --> 
     <a href="https://mp.weixin.qq.com/s/LwGxuy05hes6iV8MQ6yL4w" target="_blank">ChatGPT之后我们要做什么？丨文本生成中的知识和控制</a>
     |
