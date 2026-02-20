@@ -666,34 +666,32 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/CjwkWqgXFz6FaCqY_AE-Tw" target="_blank">后GPT时代，多模态是最大的机会</a>
     |
 
-- `2023.05.05`  ChatGPT调研报告（2023）   **[[PDF](https://mp.weixin.qq.com/s/L3-Byo-DciVDrADwNmKQvg)]** 
+- `2023.05.05`  ChatGPT调研报告（2023）   **[[LINK](https://mp.weixin.qq.com/s/L3-Byo-DciVDrADwNmKQvg)]** 
 
-- `2023.05.05`  ChatLLM Network: More brains, More intelligence   **[[PDF](https://mp.weixin.qq.com/s/JzGoH3n6ACFDzJhOkiOZlA)]** 
+- `2023.05.05`  ChatLLM Network: More brains, More intelligence   **[[LINK](https://mp.weixin.qq.com/s/JzGoH3n6ACFDzJhOkiOZlA)]** 
 
-- `2023.05.05`  微软Bing突然爆炸级更新！BingChat全面开放，下一代搜索要来啦！   **[[PDF](https://mp.weixin.qq.com/s/OZjPnNE5aOOZqCQY6cG_fA)]** 
+- `2023.05.05`  微软Bing突然爆炸级更新！BingChat全面开放，下一代搜索要来啦！   **[[LINK](https://mp.weixin.qq.com/s/OZjPnNE5aOOZqCQY6cG_fA)]** 
 
-- `2023.05.05`  UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5   **[[PDF](https://mp.weixin.qq.com/s/luro5hI-JajzVhw8Xw_gaQ)]** 
+- `2023.05.05`  UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5   **[[LINK](https://mp.weixin.qq.com/s/luro5hI-JajzVhw8Xw_gaQ)]** 
 
-- `2023.05.06`  最新研究，GPT-4暴露了缺点！无法完全理解语言歧义！   **[[PDF](https://mp.weixin.qq.com/s/GimP7w9n4SKmba9WPV4MGQ)]** 
+- `2023.05.06`  最新研究，GPT-4暴露了缺点！无法完全理解语言歧义！   **[[LINK](https://mp.weixin.qq.com/s/GimP7w9n4SKmba9WPV4MGQ)]** 
 
-- `2023.05.06`  离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的   **[[PDF](https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ)]** 
+- `2023.05.06`  离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的   **[[LINK](https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ)]** 
 
-- `2023.05.07`  达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力   **[[PDF](https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA)]** 
+- `2023.05.07`  达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力   **[[LINK](https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA)]** 
 
-- `2023.05.08`  他山之石丨复杂推理：大语言模型的北极星能力   **[[PDF](https://mp.weixin.qq.com/s/1kMFFtL9o1yEfkl_N-Q_kQ)]** 
+- `2023.05.08`  他山之石丨复杂推理：大语言模型的北极星能力   **[[LINK](https://mp.weixin.qq.com/s/1kMFFtL9o1yEfkl_N-Q_kQ)]** 
 
-- `2023.05.08`  可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了   **[[PDF](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA)]** 
+- `2023.05.08`  可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了   **[[LINK](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA)]** 
 
-- `2023.05.08`  大语言模型（LLM）分布式训练框架总结   **[[PDF](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA)]** 
+- `2023.05.08`  大语言模型（LLM）分布式训练框架总结   **[[LINK](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA)]** 
 
-- `2023.05.08`  还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！   **[[PDF](https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg)]** 
+- `2023.05.08`  还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！   **[[LINK](https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg)]** 
 
+- `2023.05.09`  FCS 2023｜数研院发表面向序贯决策任务的大模型算法综述   **[[LINK](https://mp.weixin.qq.com/s/QeAV6hOLAlfZgW_azTiCLw)]** 
 
-   <!-- 5.9 -->
-    <a href="https://mp.weixin.qq.com/s/QeAV6hOLAlfZgW_azTiCLw" target="_blank">FCS 2023｜数研院发表面向序贯决策任务的大模型算法综述</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/NFWrTmJxAPNhrs6K8Ylj3w" target="_blank">GPT-4 开始内测 32000 输入长度的版本了！你收到邀请了吗?</a>
-    | 
+- `2023.05.09`  GPT-4 开始内测 32000 输入长度的版本了！你收到邀请了吗?   **[[LINK](https://mp.weixin.qq.com/s/NFWrTmJxAPNhrs6K8Ylj3w)]** 
+
    <!-- 5.10 -->
     <a href="https://mp.weixin.qq.com/s/elVSpp_pQKp_XCgWLmhwRQ" target="_blank">能看图、会聊天，还会跨模态推理和定位，能落地复杂场景的DetGPT来了</a>
     |
@@ -2000,12 +1998,12 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/g7zyD-Eewm-tmo7Bj-8w3w" target="_blank">今日arXiv最热大模型论文：斯坦福大学分析3.2万篇大模型HuggingFace文档后指出：现状堪忧</a>
     | 
     <!-- 2024.02.29 --> 
-    <a href="https://mp.weixin.qq.com/s/66I6xDqav9tSa170jZpoiQ" target="_blank">字节被爆正在秘密研发「文生视频」等多款AI产品！</a>
-    |     
-    <a href="https://mp.weixin.qq.com/s/66I6xDqav9tSa170jZpoiQ" target="_blank">今日arXiv最热NLP大模型论文：中科院发布！针对初学者的大语言模型综述</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/NyWHPZ3jGvxBxE4wUIOVdQ" target="_blank">复旦发布！通过集成小推理引擎，赋能大模型逻辑推理能力</a>
-    |
+- `2024.02.29`  字节被爆正在秘密研发「文生视频」等多款AI产品！   **[[LINK](https://mp.weixin.qq.com/s/66I6xDqav9tSa170jZpoiQ)]** 
+
+- `2024.02.29`  今日arXiv最热NLP大模型论文：中科院发布！针对初学者的大语言模型综述   **[[LINK](https://mp.weixin.qq.com/s/66I6xDqav9tSa170jZpoiQ)]** 
+
+- `2024.02.29`  复旦发布！通过集成小推理引擎，赋能大模型逻辑推理能力   **[[LINK](https://mp.weixin.qq.com/s/NyWHPZ3jGvxBxE4wUIOVdQ)]** 
+
     <!-- 2024.03.01 --> 
     <a href="https://mp.weixin.qq.com/s/V1nofWNn70shUb764dK1NA" target="_blank">今日arXiv最热大模型论文：点击即可播放！港中文发布大模型写歌神器！</a>
     |
