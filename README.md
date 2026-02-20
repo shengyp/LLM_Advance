@@ -1798,25 +1798,23 @@ This is a paper list for , which also cont.
     |
 
 
-	- `2024.01.04`  吴恩达最新推出基于大模型的《AI高级检索》课程，限时免费白嫖！   **[[PDF](https://mp.weixin.qq.com/s/8GZPnm8tq2Dqgvj1iAfNAw)]**
+	- `2024.01.04`  吴恩达最新推出基于大模型的《AI高级检索》课程，限时免费白嫖！   **[[LINK](https://mp.weixin.qq.com/s/8GZPnm8tq2Dqgvj1iAfNAw)]**
     
-	- `2024.01.04`  GPU短缺、Agent兴起、虚假信息扩散，李飞飞&斯坦福HAI对24年的AI预测   **[[PDF](https://mp.weixin.qq.com/s/oRY6RmCLtsppi3m7aTW0Vw)]**
+	- `2024.01.04`  GPU短缺、Agent兴起、虚假信息扩散，李飞飞&斯坦福HAI对24年的AI预测   **[[LINK](https://mp.weixin.qq.com/s/oRY6RmCLtsppi3m7aTW0Vw)]**
 
-	- `2024.01.04`  LeCun 自曝拒绝谷歌研究主管offer！只想专心做研究   **[[PDF](https://mp.weixin.qq.com/s/BphxUTjC_Xne3ZMWBGFdIw)]**
+	- `2024.01.04`  LeCun 自曝拒绝谷歌研究主管offer！只想专心做研究   **[[LINK](https://mp.weixin.qq.com/s/BphxUTjC_Xne3ZMWBGFdIw)]**
 
-	- `2024.01.05`  斯坦福机器人炒虾爆火网络，谷歌DeepMind发布机器人最新进展，2024智能机器人元年到来？   **[[PDF](https://mp.weixin.qq.com/s/AV2hYEFolP679PnLmQ97kQ)]**
+	- `2024.01.05`  斯坦福机器人炒虾爆火网络，谷歌DeepMind发布机器人最新进展，2024智能机器人元年到来？   **[[LINK](https://mp.weixin.qq.com/s/AV2hYEFolP679PnLmQ97kQ)]**
 
-	- `2024.01.05`  OpenAI董事会正考虑新的董事会人选，奥特曼不在其中   **[[PDF](https://mp.weixin.qq.com/s/WE_rfYFhjr7h0DN7VPYGrw)]**
+	- `2024.01.05`  OpenAI董事会正考虑新的董事会人选，奥特曼不在其中   **[[LINK](https://mp.weixin.qq.com/s/WE_rfYFhjr7h0DN7VPYGrw)]**
 
+  - `2024.01.06`  专补大模型短板的RAG有哪些新进展？这篇综述讲明白了   **[[LINK](https://mp.weixin.qq.com/s/yZo-HcGuWFQE8B63hZkqVQ)]**
 
+  - `2024.01.06`  斯坦福爆火机器人自爆失败内幕！炒虾做家务逗猫都是人类遥控的，AI厨师和女仆还很遥远   **[[LINK](https://mp.weixin.qq.com/s/tVEEmySQCCve-9b43CI6Qw)]**
+
+  - `2024.01.06`  新加坡国立大学发布图文预训练框架 CosMo，助力长文本理解   **[[LINK](https://mp.weixin.qq.com/s/MK9i7L5zuY-sSa5GoRuAAg)]**
 
     <!-- 2024.01.06 --> 
-    <a href="https://mp.weixin.qq.com/s/yZo-HcGuWFQE8B63hZkqVQ" target="_blank">专补大模型短板的RAG有哪些新进展？这篇综述讲明白了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/tVEEmySQCCve-9b43CI6Qw" target="_blank">斯坦福爆火机器人自爆失败内幕！炒虾做家务逗猫都是人类遥控的，AI厨师和女仆还很遥远</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/MK9i7L5zuY-sSa5GoRuAAg" target="_blank">新加坡国立大学发布图文预训练框架 CosMo，助力长文本理解</a>
-    |
     <a href="https://mp.weixin.qq.com/s/cAF1HQnvNBhKCof9nUrigQ" target="_blank">谷歌被爆正在开发高级版Bard，欲对标 ChatGPT Plus</a>
     |     
     <!-- 2024.01.07 --> 
@@ -2278,11 +2276,11 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/rsM4jtt_RdELxanobceqkQ" target="_blank">离世界模型更近一步！Meta开源OpenEQA，评估AI Agent情景理解能力</a>
     |
-    <!-- 2024.04.18 -->     
-    <a href="https://mp.weixin.qq.com/s/0PmivxUXBwarKvUrAO_Uag" target="_blank">Stable Diffusion 3 API 发布！超越Midjourney v6和DALL-E 3</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/s-prTajnQzMTt1NFEM0gWg" target="_blank">波士顿动力抛弃液压机器人Atlas，推出全新电动化机器人，动作超灵活</a>
-    | 
+  - `2024.04.18`  Stable Diffusion 3 API 发布！超越Midjourney v6和DALL-E 3   **[[LINK](https://mp.weixin.qq.com/s/0PmivxUXBwarKvUrAO_Uag)]**
+
+  - `2024.04.18`  波士顿动力抛弃液压机器人Atlas，推出全新电动化机器人，动作超灵活   **[[LINK](https://mp.weixin.qq.com/s/s-prTajnQzMTt1NFEM0gWg)]**
+
+    
     <!-- 2024.04.19 -->     
     <a href="https://mp.weixin.qq.com/s/0bHnV1g3z7_CJG_6deOyuQ" target="_blank">最强开源大模型 Llama 3震撼发布！开源模型将追上GPT-4，4000亿参数模型也在路上</a>
     | 
