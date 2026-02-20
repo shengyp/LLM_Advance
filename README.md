@@ -147,8 +147,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.21`  GPT版超级马里奥来了！用文字生成游戏关卡自己玩是一种什么样的体验？   **[[PDF](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247543844&idx=2&sn=86bf4a024fb5f4a00a3fb9f4a8620285&chksm=970f04f2a0788de43019dc247ed314c39d6ef94f16ef9c21c2c9123ef84806853197a44045d9&scene=126&sessionid=1677321842&subscene=227#rd)]**
 
-- `2023.02.21`  为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的   **[[PDF](https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA)]**
-
 - `2023.02.21`  跟AI唠嗑，年入33万美金！ChatGPT时代的必备新技能   **[[PDF](https://mp.weixin.qq.com/s/cdbw1klu7svpPIdKcMIA9A)]**
 
 - `2023.02.22`  GPT系列的数据集之谜   **[[PDF](https://mp.weixin.qq.com/s/p0s6FmEof2gkb0jrHBo3JA)]**
@@ -164,8 +162,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 - `2023.02.25`  张家俊：关于ChatGPT八个技术问题的猜想   **[[PDF](https://mp.weixin.qq.com/s/fT5N740d4ZXag2SpMHZNIw)]**
 
 - `2023.02.26`  用ChatGPT操控机器人，微软开启居家机器人新纪元！   **[[PDF](https://mp.weixin.qq.com/s/jbdr8fHaXsdWWzWrxEkbDQ)]**
-
-- `2023.02.24`  追赶ChatGPT的难点与平替   **[[PDF](https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA)]**
 
 - `2023.02.27`  没有这些，别妄谈做ChatGPT了   **[[PDF](https://mp.weixin.qq.com/s/LdugdTl0Dy8vVLlXXwZBMQ)]**  
 
