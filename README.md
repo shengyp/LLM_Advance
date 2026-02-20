@@ -18,32 +18,23 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.07`  挑战ChatGPT，谷歌正式发布Bard，CEO亲自下场邀请测试.   **[[PDF](https://mp.weixin.qq.com/s/RQ9k9RTQGKyy6C6k4w58zw)]**
 
+- `2023.02.07`  ChatGPT爆火，LeCun心态崩了！称大语言模型是邪路，Meta模型3天惨遭下线.   **[[PDF](https://mp.weixin.qq.com/s/oRb-IGKAjVsm5WfpZuj1Kw)]**
+
+- `2023.02.07`  多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源.   **[[PDF](https://mp.weixin.qq.com/s/e4h1pN7T6uBBvzdxf4zfSw)]**
+
 - `2023.02.08`  ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结.   **[[PDF](https://mp.weixin.qq.com/s/IR6uCpit0TpVzDjYz6eTtQ)]**
 
+- `2023.02.08`  ChatGPT背后的经济账.   **[[PDF](https://mp.weixin.qq.com/s/BzDMHgstOwX9voOYsKmGlg)]**
+
+- `2023.02.08`  危！ChatGPT一出，这10大职业可能先丢饭碗.   **[[PDF](https://mp.weixin.qq.com/s/N9zNwgyfP4wbkhmdcc7N9g)]**
+
 - `2023.02.09`  谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿.   **[[PDF](https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA)]**
-
-
-
-
-    <a href="https://mp.weixin.qq.com/s/vhm5tbDPoFN4rcfK3eJxqw" target="_blank">开局打爆谷歌，微软ChatGPT版必应亲测：强到发指！</a>
-    |
-  <!-- 2.7 -->
-    <a href="https://mp.weixin.qq.com/s/oRb-IGKAjVsm5WfpZuj1Kw" target="_blank">ChatGPT爆火，LeCun心态崩了！称大语言模型是邪路，Meta模型3天惨遭下线</a>
-    |
-
-    <a href="https://mp.weixin.qq.com/s/e4h1pN7T6uBBvzdxf4zfSw" target="_blank">多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源</a>
-    |
-  <!-- 2.8 -->
-    <a href="https://mp.weixin.qq.com/s/BzDMHgstOwX9voOYsKmGlg" target="_blank">ChatGPT背后的经济账</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/N9zNwgyfP4wbkhmdcc7N9g" target="_blank">危！ChatGPT一出，这10大职业可能先丢饭碗</a>
-    |
-
- 
 
 - `2023.02.09`  谷歌版ChatGPT翻车了！市值暴跌7000亿.   **[[PDF](https://mp.weixin.qq.com/s/TcV88Wi2J0SmHNoYfYmUaw)]**
 
 - `2023.02.09`  首篇ChatGPT辅助写作的论文，已在arXiv发表！   **[[PDF](https://mp.weixin.qq.com/s/Ha_VnWA99G6vzz8mkc9UpA)]**
+
+- `2023.02.10`  开局打爆谷歌，微软ChatGPT版必应亲测：强到发指！   **[[PDF](https://mp.weixin.qq.com/s/vhm5tbDPoFN4rcfK3eJxqw)]**
 
 - `2023.03.01`  GPT全家桶再添一员！看论文神器，ResearchGPT，可立即试用.   **[[PDF](https://mp.weixin.qq.com/s/op2k0IA2ukQGsQl6FXNd8Q)]**
 
@@ -189,12 +180,10 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/HHhh3BWEknQHfy6Pl0wvBA" target="_blank">追赶ChatGPT的难点与平替</a>
     |
-  <!-- 2.27 --> 
-    <a href="https://mp.weixin.qq.com/s/LdugdTl0Dy8vVLlXXwZBMQ" target="_blank">没有这些，别妄谈做ChatGPT了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/OLolffPy_9NZ9BSZXEIygA" target="_blank">强强联合！谷歌大模型团队并入DeepMind！誓要赶上ChatGPT进度</a>
-    |
- 
+
+- `2023.02.27`  没有这些，别妄谈做ChatGPT了   **[[PDF](https://mp.weixin.qq.com/s/LdugdTl0Dy8vVLlXXwZBMQ)]**  
+
+- `2023.02.27`  强强联合！谷歌大模型团队并入DeepMind！誓要赶上ChatGPT进度   **[[PDF](https://mp.weixin.qq.com/s/OLolffPy_9NZ9BSZXEIygA)]**  
 
 - `2023.02.28`  腾讯类ChatGPT保密项目爆出，张正友带队研发「混元助手」   **[[PDF](https://www.toutiao.com/article/7205092404427391491/?app=news_article&timestamp=1677604032&use_new_style=1&req_id=2023030101071244407EB724AE152211E2&group_id=7205092404427391491&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c1150a4e-a242-47a8-8128-13fa59a3e23d&source=m_redirect)]** 
 
