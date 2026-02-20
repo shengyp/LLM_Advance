@@ -93,7 +93,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
-- `2024.02.11`  《降临》作者特德·姜：ChatGPT是网上所有文本的模糊图像.   **[[PDF](https://c.m.163.com/news/a/HT8G8Q5D0514R9P4.html?from=wap_redirect&spss=adap_pc&referFrom=&spssid=b47d7dfcb453a07bed6fb92e35d179fc&spsw=2&isFromH5Share=article)]**
+- `2023.02.10`  《降临》作者特德·姜：ChatGPT是网上所有文本的模糊图像.   **[[PDF](https://c.m.163.com/news/a/HT8G8Q5D0514R9P4.html?from=wap_redirect&spss=adap_pc&referFrom=&spssid=b47d7dfcb453a07bed6fb92e35d179fc&spsw=2&isFromH5Share=article)]**
 
 - `2024.02.11`  专访之江实验室副主任鲍虎军：ChatGPT凭何搅动人工智能的“一池春水”？   **[[PDF](https://mp.weixin.qq.com/s/95yMvBW18fu7WjclTDNAIA)]**
 
