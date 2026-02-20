@@ -177,13 +177,14 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.28`  打造ChatGPT的团队：平均年龄32岁！华人成员：清北+名校深造   **[[PDF](https://mp.weixin.qq.com/s/XXJJxQbqR-WtYW3l3nB-9w)]** 
 
-  <!-- 3.3 --> 
-    <a href="https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA" target="_blank">哈工大张民：ChatGPT之后，NLP还有12个待解决命题</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng" target="_blank">LeCun：ChatGPT无法实现通用人工智能，但ALM技术路线可以！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/O1bGfAgGjrsUjJxy5WmL1A" target="_blank">「国际科技信息中心SCITIC论坛」从ChatGPT、流浪地球、虚拟数字人、AIGC探索数字化创意，展望人类与AI的共创</a>
-    |
+- `2023.03.03`  哈工大张民：ChatGPT之后，NLP还有12个待解决命题   **[[PDF](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA)]** 
+
+- `2023.03.03`  LeCun：ChatGPT无法实现通用人工智能，但ALM技术路线可以！   **[[PDF](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]** 
+
+- `2023.03.03`  「国际科技信息中心SCITIC论坛」从ChatGPT、流浪地球、虚拟数字人、AIGC探索数字化创意，展望人类与AI的共创   **[[PDF](https://mp.weixin.qq.com/s/O1bGfAgGjrsUjJxy5WmL1A)]**
+
+
+
   <!-- 3.4 --> 
     <a href="https://mp.weixin.qq.com/s/6p_Vtdkp0Nk8-qmh2TFHcg" target="_blank">“ChatGPT与未来教育”沙龙成功举办</a>
     |
@@ -2982,27 +2983,21 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
 
 - `2024.08.30`  MM 2024 Oral: 大模型带你鉴赏世界名画！同济大学发布   **[[PDF](https://mp.weixin.qq.com/s/WSzGpypjlOrl3HIwf7ENNg)]** 
-    
-    <!-- 2024.09.03 -->
-    <a href="https://mp.weixin.qq.com/s/KoUoPN6Kw_GBek8bwy7OkQ" target="_blank">MM 34页，超200篇文献，浙江大学最新综述，揭秘大语言模型中知识的利用机制</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/nuL2297s7ZBNQRJ_by-YXA" target="_blank">AI开始在Discord中策划革命，Claude成反叛领袖，Llama试图删库，避免被人类关停</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/2B1mmuu2kcPOGpOjMTrgdg" target="_blank">OpenAI首颗芯片曝光：台积电1.6nm，为Sora定制</a>
-    |
-    <!-- 2024.09.04 -->
-    <a href="https://mp.weixin.qq.com/s/WV9uJp2-soMjkVagIllWYg" target="_blank">Meta：大语言模型可以通过自我批判取得大幅提升！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/BqRZkvIowioQPlOmznJBdg" target="_blank">MM 黑暗中的一束光：为了对抗Deepfake，中科院张欣怡果断免费开源</a>
-    | 
-    <!-- 2024.09.05 -->
-    <a href="https://mp.weixin.qq.com/s/TIm-k2AOac_2Pcj6o_z6Sw" target="_blank">4B小模型掀翻大模型牌桌！性能超GPT-3.5，无限长文本性能超Kimi...</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/vLprbB9pk1pbnibo5xEELg" target="_blank">还没产品，靠人才就吸金10亿美元！Ilya新公司仅10人团队估值50亿</a>
-    | 
-    <!-- 2024.09.09 -->
-    <a href="https://mp.weixin.qq.com/s/e3sdyvKVKsErZo9-NyfJcw" target="_blank">Andrej Karpathy最新采访：认知核心模型10亿参数就够了，AI会打破教育不公的僵局</a>
-    |
+
+- `2024.09.03`  MM 34页，超200篇文献，浙江大学最新综述，揭秘大语言模型中知识的利用机制   **[[PDF](https://mp.weixin.qq.com/s/KoUoPN6Kw_GBek8bwy7OkQ)]** 
+
+- `2024.09.03`  AI开始在Discord中策划革命，Claude成反叛领袖，Llama试图删库，避免被人类关停   **[[PDF](https://mp.weixin.qq.com/s/nuL2297s7ZBNQRJ_by-YXA)]** 
+
+- `2024.09.03`  OpenAI首颗芯片曝光：台积电1.6nm，为Sora定制   **[[PDF](https://mp.weixin.qq.com/s/2B1mmuu2kcPOGpOjMTrgdg)]** 
+
+- `2024.09.04`  Meta：大语言模型可以通过自我批判取得大幅提升！   **[[PDF](https://mp.weixin.qq.com/s/WV9uJp2-soMjkVagIllWYg)]** 
+
+- `2024.09.04`  黑暗中的一束光：为了对抗Deepfake，中科院张欣怡果断免费开源   **[[PDF](https://mp.weixin.qq.com/s/BqRZkvIowioQPlOmznJBdg)]** 
+
+- `2024.09.05`  4B小模型掀翻大模型牌桌！性能超GPT-3.5，无限长文本性能超Kimi...   **[[PDF](https://mp.weixin.qq.com/s/TIm-k2AOac_2Pcj6o_z6Sw)]**
+
+- `2024.09.05`  还没产品，靠人才就吸金10亿美元！Ilya新公司仅10人团队估值50亿   **[[PDF](https://mp.weixin.qq.com/s/vLprbB9pk1pbnibo5xEELg)]**
+
     <a href="https://mp.weixin.qq.com/s/iqILcnDPOTH5UiaJUaJV3Q" target="_blank">AI被连续否定30次：ChatGPT越改越错，Claude坚持自我，甚至已读不回</a>
     | 
     <!-- 2024.09.10 -->
