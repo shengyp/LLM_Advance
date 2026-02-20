@@ -310,6 +310,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://www.toutiao.com/article/7213261622469607992/?app=news_article&timestamp=1679579120&use_new_style=1&req_id=202303232145193AE94C4FED7A3220A1B1&group_id=7213261622469607992&wxshare_count=3&tt_from=weixin_moments&utm_source=weixin_moments&utm_medium=toutiao_android&utm_campaign=client_share&share_token=897f6d9c-1d7f-459c-ac76-8f3b13027ee3&source=m_redirect&wid=1679587324167" target="_blank">GPT-4太强，OpenAI也不懂！智能到底是怎么突然「涌现」的？</a>
     |
+
   <!-- 3.23 -->
     <a href="https://mp.weixin.qq.com/s/PVcagh4wza5MRM0afMVDBw" target="_blank">ChatGPT这么牛，我们应该如何兼顾发展和治理？</a>
     | 
@@ -681,10 +682,10 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/luro5hI-JajzVhw8Xw_gaQ" target="_blank">UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5</a>
     |
    <!-- 5.6 -->
-    <a href="https://mp.weixin.qq.com/s/GimP7w9n4SKmba9WPV4MGQ" target="_blank">最新研究，GPT-4暴露了缺点！无法完全理解语言歧义！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ" target="_blank">离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的</a>
-    |
+- `2023.05.06`  最新研究，GPT-4暴露了缺点！无法完全理解语言歧义！   **[[PDF](https://mp.weixin.qq.com/s/GimP7w9n4SKmba9WPV4MGQ)]** 
+
+- `2023.05.06`  离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的   **[[PDF](https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ)]** 
+
    <!-- 5.7 -->
     <a href="https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA" target="_blank">达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力</a>
     |
@@ -1147,12 +1148,12 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <!-- 7.24 -->
     <a href="https://mp.weixin.qq.com/s/JsCoUcuCg4ylKkPMvNouEw" target="_blank"> 伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战</a>
     | 
-    <!-- 7.25 -->  
-    <!-- 7.26 -->
-    <a href="https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ" target="_blank"> 比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA" target="_blank"> Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型</a>
-    |
+
+- `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[PDF](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
+
+- `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[PDF](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
+
+
     <!-- 7.31 -->
     <a href="https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA" target="_blank"> 谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型</a>
     |
@@ -2409,10 +2410,10 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/-1zkqjnlFA_6c8mjMPX62w" target="_blank">今日arXiv最热NLP大模型论文：NAACL24实锤语言学对大模型“负优化”，抽象语义表示+思维链有损表现</a>
     |
     <!-- 2024.05.11 -->     
-    <a href="https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA" target="_blank">30%参数达到92%的表现，大模型稀疏化方法显神通</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT" target="_blank">两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招</a>
-    |
+  - `2024.05.11`  30%参数达到92%的表现，大模型稀疏化方法显神通   **[[PDF](https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA)]**
+
+  - `2024.05.11`  两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招   **[[PDF](https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT)]**
+
     <!-- 2024.05.12 -->     
     <a href="https://mp.weixin.qq.com/s/7MTELAEO8sdgI9eekTTT0w" target="_blank">真要这么卷？某国产大模型定价下调90%，百万 tokens 只需 1 元！</a>
     |
@@ -2492,15 +2493,13 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/5hxleiSLaaijgbO6dmeK4A" target="_blank">今日arXiv最热大模型论文：忘记"也是一门学问：机器如何忘记自己学到的知识？</a>
     |
     <!-- 2024.05.26 -->     
-    <a href="https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw" target="_blank">ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究</a>
-    |
+  - `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[PDF](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
+
+  - `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[PDF](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
+
+  - `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[PDF](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
+
     <!-- 2024.05.27 -->     
-    <a href="https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg" target="_blank">重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业</a>
-    |
-    <a href="https://" target="_blank">今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA" target="_blank">今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？</a>
-    |
     <a href="https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ" target="_blank">上交提出TrustGAIN，提出6G网络中可信AIGC新模式！</a>
     |
     <!-- 2024.05.28 -->     
@@ -2703,12 +2702,14 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/522-Vx796M3qoXyds2wDyQ" target="_blank">法国创业团队抢先OpenAI发布Her！主打公开免费，Pytorch之父马斯克围观</a>
     |
     <!-- 2024.07.06 -->
-    <a href="https://mp.weixin.qq.com/s/ccowcipzBp11Dr5ppXU5GA" target="_blank">又一家技术+产品双杀的大模型创业公司！一款测试，让其WAIC大会展位火爆</a>
+    <a href="" target="_blank"></a>
     |
     <a href="https://mp.weixin.qq.com/s/H8mQxtpRj0P8sRnkCg0bIg" target="_blank">参数更新量仅为LoRA的5%，性能不减反升！南加大提出高效精调法LaMDA</a>
     |
     <a href="https://mp.weixin.qq.com/s/dF4QltattjndvXMX92gutA" target="_blank">上交&阿里：掀开多模态大模型的头盖骨，解密黑盒模型推理过程</a>
     |
+  - `2024.07.06`  又一家技术+产品双杀的大模型创业公司！一款测试，让其WAIC大会展位火爆   **[[PDF](https://mp.weixin.qq.com/s/ccowcipzBp11Dr5ppXU5GA)]**
+
     <!-- 2024.07.08 -->
     <a href="https://mp.weixin.qq.com/s/LrIQ4Y2_iHOkiQcs7qNrXQ" target="_blank">守口如瓶，OpenAI刻意隐瞒的黑客攻击事件时隔一年被证实</a>
     |
@@ -2934,12 +2935,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/svQVzlXkqqXFQCIrzaY2vQ" target="_blank">浙江大学发布全能多模态大模型OmniBind，刷榜13大benchmark</a>
     | 
     <!-- 2024.08.19 -->
-    <a href="https://mp.weixin.qq.com/s/5L8pCW0NT9daHrBY_Nbatg" target="_blank">别等GPT-4o啦，国产「开源版」GPT-4o 来了！支持全模态、无障碍交流</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/tRYJipmY_5FqLwR8AOekug" target="_blank">faiss向量数据库测试《三体》全集，这家国产AI加速卡，把性能提了7倍！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/9t7agKVtj56jduL4uJF4jA" target="_blank">小模型站起来了，浏览器里跑出SOTA，抱抱脸：快逃，合成数据不是未来</a>
-    | 
+- `2024.08.19`  别等GPT-4o啦，国产「开源版」GPT-4o 来了！支持全模态、无障碍交流   **[[PDF](https://mp.weixin.qq.com/s/5L8pCW0NT9daHrBY_Nbatg)]** 
+   
+- `2024.08.19`  faiss向量数据库测试《三体》全集，这家国产AI加速卡，把性能提了7倍！   **[[PDF](https://mp.weixin.qq.com/s/tRYJipmY_5FqLwR8AOekug)]** 
+
+- `2024.08.19`  小模型站起来了，浏览器里跑出SOTA，抱抱脸：快逃，合成数据不是未来   **[[PDF](https://mp.weixin.qq.com/s/9t7agKVtj56jduL4uJF4jA)]** 
     <!-- 2024.08.20 -->
     <a href="https://mp.weixin.qq.com/s/OzDp8nEvhcl6lE7Fxnt87g" target="_blank">率先测了一把阿里「世界最强」数学大模型后，我深吸一口气。。</a>
     |
@@ -2962,11 +2962,10 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/eEjSujDZWrCT-h9APR4e1A" target="_blank">AI终于杀死了Leetcode！网友：面试神器已到位</a>
     |
-    <!-- 2024.08.27 -->
-    <a href="https://mp.weixin.qq.com/s/R_xQMpFLaOZ0lPwyW3EtJg" target="_blank">又一家国产厂商的大模型API官宣免费！还能免费微调，囤卡的哭了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/8qBW9BoLsmxpGi9_PJmqCA" target="_blank">突发！扎克伯格发布公开信，曝了个大瓜！马斯克冲在一线吃瓜</a>
-    |
+- `2024.08.27`  又一家国产厂商的大模型API官宣免费！还能免费微调，囤卡的哭了   **[[PDF](https://mp.weixin.qq.com/s/R_xQMpFLaOZ0lPwyW3EtJg)]** 
+
+- `2024.08.27`  突发！扎克伯格发布公开信，曝了个大瓜！马斯克冲在一线吃瓜   **[[PDF](https://mp.weixin.qq.com/s/8qBW9BoLsmxpGi9_PJmqCA)]** 
+
 - `2024.08.28`  GPT-6曝光！阉割版「草莓」秋季兑现   **[[PDF](https://mp.weixin.qq.com/s/lRfz2kiepCdHLRjOO_II1Q)]** 
 
 - `2024.08.28`  今日arXiv最热大模型论文：港大&微软发布AgentGen提高大模型规划能力，8B模型接近GPT-4水平   **[[PDF](https://mp.weixin.qq.com/s/7fEXy231MYZjA_7WuLh-Lg)]** 
