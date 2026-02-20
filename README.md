@@ -2998,24 +2998,19 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.09.05`  还没产品，靠人才就吸金10亿美元！Ilya新公司仅10人团队估值50亿   **[[PDF](https://mp.weixin.qq.com/s/vLprbB9pk1pbnibo5xEELg)]**
 
-    <a href="https://mp.weixin.qq.com/s/iqILcnDPOTH5UiaJUaJV3Q" target="_blank">AI被连续否定30次：ChatGPT越改越错，Claude坚持自我，甚至已读不回</a>
-    | 
-    <!-- 2024.09.10 -->
-    <a href="https://mp.weixin.qq.com/s/-i3M7Ywa6UScYRjfXhvqJA" target="_blank">iPhone 16发布！苹果A18芯片连跨两代，专为AI设计！盘点苹果2024秋季发布会新升级</a>
-    |
-    <!-- 2024.09.11 -->
-    <a href="https://mp.weixin.qq.com/s/e3sdyvKVKsErZo9-NyfJcw" target="_blank">200美元/月的ChatGPT Pro版上线？OpenAI草莓模型曝两周内发布，但模型表现要打个问号？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/TkljI1or0q0Rx389AviUEw" target="_blank">LLM对齐综述｜迈向可扩展的大模型自动对齐，中科院软件所&阿里千问发布</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/tkFv70Pqhn5Y-Aw4_CKoYQ" target="_blank">全球首发！Vidu 让任意主体保持一致，视频生成进入新阶段！</a>
-    |
-    <!-- 2024.09.12 -->
-    <a href="https://mp.weixin.qq.com/s/eZNxdtCIvdpXK82fnVHehg" target="_blank">34岁山大教授，突发心梗猝死，天妒英才</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/i0vRw-D0QwK_rMsyQl6S7A" target="_blank">AI创业圈，找到了GPU算力的高端解法</a>
-    |
+- `2024.09.05`  AI被连续否定30次：ChatGPT越改越错，Claude坚持自我，甚至已读不回   **[[PDF](https://mp.weixin.qq.com/s/iqILcnDPOTH5UiaJUaJV3Q)]**
 
+- `2024.09.10`  iPhone 16发布！苹果A18芯片连跨两代，专为AI设计！盘点苹果2024秋季发布会新升级   **[[PDF](https://mp.weixin.qq.com/s/-i3M7Ywa6UScYRjfXhvqJA)]**
+
+- `2024.09.11`  200美元/月的ChatGPT Pro版上线？OpenAI草莓模型曝两周内发布，但模型表现要打个问号？   **[[PDF](https://mp.weixin.qq.com/s/e3sdyvKVKsErZo9-NyfJcw)]**
+
+- `2024.09.11`  LLM对齐综述｜迈向可扩展的大模型自动对齐，中科院软件所&阿里千问发布   **[[PDF](https://mp.weixin.qq.com/s/TkljI1or0q0Rx389AviUEw)]**
+
+- `2024.09.11`  全球首发！Vidu 让任意主体保持一致，视频生成进入新阶段！   **[[PDF](https://mp.weixin.qq.com/s/tkFv70Pqhn5Y-Aw4_CKoYQ)]**
+
+- `2024.09.12`  34岁山大教授，突发心梗猝死，天妒英才   **[[PDF](https://mp.weixin.qq.com/s/eZNxdtCIvdpXK82fnVHehg)]**
+
+- `2024.09.12`  AI创业圈，找到了GPU算力的高端解法   **[[PDF](https://mp.weixin.qq.com/s/i0vRw-D0QwK_rMsyQl6S7A)]**
 
 - `2024.09.13`  深夜空降！OpenAI草莓正式发布，命名o1， GPT-4o被碾压！   **[[PDF](https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA)]** 
 
@@ -3029,7 +3024,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.09.23`  o1的提示词：简单才是王道！   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
 
-- `2024.09.23`  西安一高校老师实名公开举报！397页PDF痛诉同院老师学术不端，评审推诿包庇   **[[PDF](https://mp.weixin.qq.com/s/JmC_b1Tb4ymaMrQnr-Aiaw)]**
+- `2024.09.23`  西安一高校老师实名公开举报！397页PDF痛诉同院老师学术不端，评审推诿包庇   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]**
 
 - `2024.09.24`  Sam Altman罕见发长文：ASI终将至，准备好迎接“智能时代”吧！深度学习是有效路径   **[[PDF](https://mp.weixin.qq.com/s/NhcTravDbOroPWT4500hkA)]**
 
@@ -3037,11 +3032,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.09.25`  我薅到了63小时的3090卡   **[[PDF](https://mp.weixin.qq.com/s/UYzIFZdRjVu_in88xEqahg)]**
 
-- `2024.09.26`  张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演   **[[PDF](https://mp.weixin.qq.com/s/2rK59hPV8C_PeDsT8Ii73w)]** 
+- `2024.09.26`  张俊林详细拆解o1：OpenAI o1完整训练过程逆向推演   **[[PDF](https://mp.weixin.qq.com/s/EKuPbbecY6ETRF90RskqsQ)]** 
 
 - `2024.09.26`  突发！OpenAI CTO离职，同日奥特曼被曝将获得股权   **[[PDF](https://mp.weixin.qq.com/s/kC_4Fsh4FKrsP0WzL37RHg)]** 
 
-- `2024.09.27`  三只羊卢总的醉酒录音，说方言吐脏话，AI合成能到吗   **[[PDF](https://mp.weixin.qq.com/s/DrGG7ehTVA0dQ6JeviBX6A)]** 
+- `2024.09.27`  三只羊卢总的醉酒录音，说方言吐脏话，AI合成能到吗   **[[PDF](https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA)]** 
 
 - `2024.09.27`  LLM 我们距离应用还差什么？   **[[PDF](https://mp.weixin.qq.com/s/saG4LFq97WA356RdaCcQvQ)]** 
 
