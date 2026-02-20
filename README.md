@@ -228,14 +228,16 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247545200&idx=2&sn=841715268d0613e305278e8b0d22eb3e&chksm=970f19a6a07890b072de9fa9407d188c9b80b18ef754c87ab60345ed0ac8e6ae4b1a99582993&scene=126&sessionid=1678957154&subscene=227&key=5099f4dd3766303d4613a285f14c61afbf7628466bb0da35da9aef257d8a46527b855d2f1f6d0248f201b023f2e944818e592b7a8b710f0fb4987476d2eb133c297481d317210d0da18143054e8154398495e0334528d9cb272d4abdce5082eadebc21662226c85669579c3015bb1fb1376fe7cb1cbf52c3e87b4eb047968bf4&ascene=0&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=6309001c&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQwPk%2BHDb22Sdd7j0Khzo%2B9xLbAQIE97dBBAEAAAAAAKaGLk0s3SgAAAAOpnltbLcz9gKNyK89dVj0Ca7muIpPdbBDQJ0VoOUYXqR87P%2FP%2FkuC467GBdDTrZjiraPHFsnjbUSqRvPdrvYu%2BUg9JrJlfTJEYX0ZrOfidxDiRmvfk0RMx5FqWpZizOE0WMPTpcCwMB1EOHG3dQcqq%2B2TrAJ2nHBNMfzef%2Bq8NQk5klrnxeIRpaBFWk8ZdLbJ2JbkX37NaFKOz3RSl75XtB5a1gp97BNyb1aVRssaaCCEg2TG2J4%2F%2FhwFhn9Uq8d09zWptQ%3D%3D&acctmode=0&pass_ticket=%2B4sMkpWSdgE7DVxPfLwwdiC0NJyLzer%2BjQUSarkDhq8DLddF4%2F7IPJTOPz%2FUp9CkSGFzWiTvvHAnvwOzvKRt%2Bg%3D%3D&wx_header=1&fontgear=2" target="_blank">惊呼！在Mac上可以跑LLaMA啦！附上详细教程</a>
     |
   <!-- 3.15 --> 
-    <a href="https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g" target="_blank">【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API</a>
-    |
     <a href="https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw" target="_blank">GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？</a>
     |
     <a href="https://mp.weixin.qq.com/s/TnP4s2-ivmJnKcV79MjAtQ" target="_blank">【他山之石】GPT-4发布！史上最强大模型来了</a>
     | 
     <a href="https://news.cqu.edu.cn/archives/medias/content/2023/03/03/c46908d2d41f34d665e249864e018badd8be32fd.html" target="_blank">【上游新闻】漫谈ChatGPT|重庆大学大数据与软件学院院长：看好ChatGPT未来在软件开发中“代码智能”研究领域的潜力</a>
     |
+- `2023.03.15`  【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API   **[[PDF](https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g)]**
+
+
+
   <!-- 3.16 --> 
     <a href="https://mp.weixin.qq.com/s/wkTciKHC8jmYacvp3lg8xA" target="_blank">GPT-4简单初体验，和ChatGPT试用效果对比</a>
     |
@@ -267,8 +269,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/e_T16M13SR69ckEnavhFDQ" target="_blank">如何利用ChatGPT进行Rebuttal，搞科研！</a>
     |
   <!-- 3.20 --> 
-    <a href="https://mp.weixin.qq.com/s/OC95vSF8rpSuFRth79nzUw" target="_blank">任正非最新谈中美、科技、ChatGPT</a>
-    |
     <a href="https://mp.weixin.qq.com/s/MmYi1i2O911lqd0tP-jBVg" target="_blank">【他山之石】田渊栋：关于GPT-4的一些感想</a>
     |
     <a href="https://mp.weixin.qq.com/s/PnSoJ4j8SlR4OOYzxPwECA" target="_blank">突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才</a>
@@ -281,6 +281,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/OM7XiKE4q1Y8m_d7O2FW1g" target="_blank">ChatGPT的10个平替项目，玩转AIGC</a>
     |
+- `2023.03.20`  任正非最新谈中美、科技、ChatGPT   **[[PDF](https://mp.weixin.qq.com/s/OC95vSF8rpSuFRth79nzUw)]**
+
+
+
+
   <!-- 3.21 --> 
     <a href="https://mp.weixin.qq.com/s/bctQc93slqYEu8UKaNhekg" target="_blank">ChatGPT崩了！全球宕机超12小时，打工人叫苦连天</a>
     |
@@ -2962,18 +2967,15 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/8qBW9BoLsmxpGi9_PJmqCA" target="_blank">突发！扎克伯格发布公开信，曝了个大瓜！马斯克冲在一线吃瓜</a>
     |
-    <!-- 2024.08.28 -->
-    <a href="https://mp.weixin.qq.com/s/lRfz2kiepCdHLRjOO_II1Q" target="_blank">GPT-6曝光！阉割版「草莓」秋季兑现</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/7fEXy231MYZjA_7WuLh-Lg" target="_blank">今日arXiv最热大模型论文：港大&微软发布AgentGen提高大模型规划能力，8B模型接近GPT-4水平</a>
-    |
-    <!-- 2024.08.29 -->
-    <a href="https://mp.weixin.qq.com/s/bzewUabj2S_9a_uIEyHbUA" target="_blank">英伟达发布财报，意外掉血10000亿，OpenAI拉来新融资输血，将突破1000亿估值</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/wznULzweEx-m5W5JjH33Ow" target="_blank">AI游戏革命！谷歌推出GameNGen，实时生成游戏画面，每秒20帧实时模拟</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/9huW7gmAk5M6dkVQntGhvQ" target="_blank">国产！首个实时视频交互的功能面世，智谱硬实力炸场KDD顶会</a>
-    |
+- `2024.08.28`  GPT-6曝光！阉割版「草莓」秋季兑现   **[[PDF](https://mp.weixin.qq.com/s/lRfz2kiepCdHLRjOO_II1Q)]** 
+
+- `2024.08.28`  今日arXiv最热大模型论文：港大&微软发布AgentGen提高大模型规划能力，8B模型接近GPT-4水平   **[[PDF](https://mp.weixin.qq.com/s/7fEXy231MYZjA_7WuLh-Lg)]** 
+
+- `2024.08.29`  英伟达发布财报，意外掉血10000亿，OpenAI拉来新融资输血，将突破1000亿估值   **[[PDF](https://mp.weixin.qq.com/s/bzewUabj2S_9a_uIEyHbUA)]** 
+
+- `2024.08.29`  AI游戏革命！谷歌推出GameNGen，实时生成游戏画面，每秒20帧实时模拟   **[[PDF](https://mp.weixin.qq.com/s/wznULzweEx-m5W5JjH33Ow)]** 
+
+- `2024.08.29`  国产！首个实时视频交互的功能面世，智谱硬实力炸场KDD顶会   **[[PDF](https://mp.weixin.qq.com/s/9huW7gmAk5M6dkVQntGhvQ)]** 
 
 - `2024.08.30`  MM 2024 Oral: 大模型带你鉴赏世界名画！同济大学发布   **[[PDF](https://mp.weixin.qq.com/s/WSzGpypjlOrl3HIwf7ENNg)]** 
 
