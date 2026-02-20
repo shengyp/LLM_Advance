@@ -20,9 +20,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2023.02.08`  ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结.   **[[PDF](https://mp.weixin.qq.com/s/IR6uCpit0TpVzDjYz6eTtQ)]**
 
+- `2023.02.09`  谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿.   **[[PDF](https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA)]**
 
-    <a href="https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA" target="_blank">谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿</a>
-    |
+
+
+
     <a href="https://mp.weixin.qq.com/s/vhm5tbDPoFN4rcfK3eJxqw" target="_blank">开局打爆谷歌，微软ChatGPT版必应亲测：强到发指！</a>
     |
   <!-- 2.7 -->
@@ -36,21 +38,12 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/N9zNwgyfP4wbkhmdcc7N9g" target="_blank">危！ChatGPT一出，这10大职业可能先丢饭碗</a>
     |
-  <!-- 2.9 -->
-    <a href="https://mp.weixin.qq.com/s/TcV88Wi2J0SmHNoYfYmUaw" target="_blank">谷歌版ChatGPT翻车了！市值暴跌7000亿</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Ha_VnWA99G6vzz8mkc9UpA" target="_blank">首篇ChatGPT辅助写作的论文，已在arXiv发表！</a>
-    |
+
  
 
+- `2023.02.09`  谷歌版ChatGPT翻车了！市值暴跌7000亿.   **[[PDF](https://mp.weixin.qq.com/s/TcV88Wi2J0SmHNoYfYmUaw)]**
 
-- `2023.02.10`  ChatGPT保姆级注册教程.   **[[PDF](https://mp.weixin.qq.com/s/Mf4MBpN761M8yI79aaRPeA)]**
-
-- `2023.02.10`  从爆火的chatGPT讲起: 自然语言生成式AI的前世今生.   **[[PDF](https://mp.weixin.qq.com/s/q1dgUI-AvTu81e0aFSdLJQ)]**
-
-
-
-
+- `2023.02.09`  首篇ChatGPT辅助写作的论文，已在arXiv发表！   **[[PDF](https://mp.weixin.qq.com/s/Ha_VnWA99G6vzz8mkc9UpA)]**
 
 - `2023.03.01`  GPT全家桶再添一员！看论文神器，ResearchGPT，可立即试用.   **[[PDF](https://mp.weixin.qq.com/s/op2k0IA2ukQGsQl6FXNd8Q)]**
 
@@ -109,26 +102,22 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `2024.01.21`  碾压华尔街，GPT-4 选股收益超 40%.   **[[PDF](https://mp.weixin.qq.com/s/70mXmWRwarHVcCeaAIpJrw)]**
 
+- `2024.02.11`  《降临》作者特德·姜：ChatGPT是网上所有文本的模糊图像.   **[[PDF](https://c.m.163.com/news/a/HT8G8Q5D0514R9P4.html?from=wap_redirect&spss=adap_pc&referFrom=&spssid=b47d7dfcb453a07bed6fb92e35d179fc&spsw=2&isFromH5Share=article)]**
 
+- `2024.02.11`  专访之江实验室副主任鲍虎军：ChatGPT凭何搅动人工智能的“一池春水”？   **[[PDF](https://mp.weixin.qq.com/s/95yMvBW18fu7WjclTDNAIA)]**
 
- <!-- 2.11 -->
-    <a href="https://c.m.163.com/news/a/HT8G8Q5D0514R9P4.html?from=wap_redirect&spss=adap_pc&referFrom=&spssid=b47d7dfcb453a07bed6fb92e35d179fc&spsw=2&isFromH5Share=article" target="_blank">《降临》作者特德·姜：ChatGPT是网上所有文本的模糊图像</a>
-    |           
-    <a href="https://mp.weixin.qq.com/s/95yMvBW18fu7WjclTDNAIA" target="_blank">专访之江实验室副主任鲍虎军：ChatGPT凭何搅动人工智能的“一池春水”？</a>
-    |
-  <!-- 2.12 -->
-    <a href="https://mp.weixin.qq.com/s/zgrJVFvkqG69BrQCky193A" target="_blank">ChatGPT背后模型被证实具有人类心智！斯坦福新研究炸了，知名学者：“这一天终于来了”</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Q7MxzgY_8nLjhwxGtQwLlg" target="_blank">全面学习 ChatGPT，机器之心准备了 89 篇文章合集</a>
-    |
+- `2024.02.12`  ChatGPT背后模型被证实具有人类心智！斯坦福新研究炸了，知名学者：“这一天终于来了”   **[[PDF](https://mp.weixin.qq.com/s/zgrJVFvkqG69BrQCky193A)]**
+
+- `2024.02.12`  全面学习 ChatGPT，机器之心准备了 89 篇文章合集   **[[PDF](https://mp.weixin.qq.com/s/Q7MxzgY_8nLjhwxGtQwLlg)]**
+
+- `2024.02.13`  ChatGPT国内赛道开卷，互联网大佬带资3.5亿宣布入场   **[[PDF](https://mp.weixin.qq.com/s/t6Vbt_X1gn4UeWk6g9yoMQ)]**
+
+- `2024.02.13`  无法阻止ChatGPT杀入学术圈，Nature一周连发两文引发大辩论   **[[PDF](https://mp.weixin.qq.com/s/sWq-cTfsyprY5DS5iEnepQ)]**
+
+- `2024.02.13`  访谈实录｜停止对ChatGPT的空洞唱和，不如反思人类社会的诸多设计   **[[PDF](https://mp.weixin.qq.com/s/L3LeYW3a62RQHhuTqZvPgQ)]**
+
   <!-- 2.13 -->
-    <a href="https://mp.weixin.qq.com/s/t6Vbt_X1gn4UeWk6g9yoMQ" target="_blank">ChatGPT国内赛道开卷，互联网大佬带资3.5亿宣布入场</a>
-    |    
-    <a href="https://mp.weixin.qq.com/s/sWq-cTfsyprY5DS5iEnepQ" target="_blank">无法阻止ChatGPT杀入学术圈，Nature一周连发两文引发大辩论</a>
-    | 
-  <!-- 2.13 -->
-    <a href="https://mp.weixin.qq.com/s/L3LeYW3a62RQHhuTqZvPgQ" target="_blank">访谈实录｜停止对ChatGPT的空洞唱和，不如反思人类社会的诸多设计</a>
-    |
+
     <a href="https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=582413" target="_blank">ChatGPT通过美国执业医师资格考试？医疗人工智能会取代还是帮助医生</a>
     | 
     <a href="https://mp.weixin.qq.com/s/nca9jMOXgMKfhA8bo0FQvw" target="_blank">让ChatGPT长“手”！Meta爆火新论文，让语言模型学会自主使用工具</a>
@@ -205,16 +194,13 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/OLolffPy_9NZ9BSZXEIygA" target="_blank">强强联合！谷歌大模型团队并入DeepMind！誓要赶上ChatGPT进度</a>
     |
-  <!-- 2.28 --> 
-    <a href="https://www.toutiao.com/article/7205092404427391491/?app=news_article&timestamp=1677604032&use_new_style=1&req_id=2023030101071244407EB724AE152211E2&group_id=7205092404427391491&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c1150a4e-a242-47a8-8128-13fa59a3e23d&source=m_redirect" target="_blank">腾讯类ChatGPT保密项目爆出，张正友带队研发「混元助手」</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/pmDhA-TjT2HnHBT2cowouQ" target="_blank">已上线公测！打开就能用的“中国版ChatGPT”，速来过招</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/XXJJxQbqR-WtYW3l3nB-9w" target="_blank">打造ChatGPT的团队：平均年龄32岁！华人成员：清北+名校深造</a>
-    |
+ 
 
+- `2023.02.28`  腾讯类ChatGPT保密项目爆出，张正友带队研发「混元助手」   **[[PDF](https://www.toutiao.com/article/7205092404427391491/?app=news_article&timestamp=1677604032&use_new_style=1&req_id=2023030101071244407EB724AE152211E2&group_id=7205092404427391491&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c1150a4e-a242-47a8-8128-13fa59a3e23d&source=m_redirect)]** 
 
-   
+- `2023.02.28`  已上线公测！打开就能用的“中国版ChatGPT”，速来过招   **[[PDF](https://mp.weixin.qq.com/s/pmDhA-TjT2HnHBT2cowouQ)]** 
+
+- `2023.02.28`  打造ChatGPT的团队：平均年龄32岁！华人成员：清北+名校深造   **[[PDF](https://mp.weixin.qq.com/s/XXJJxQbqR-WtYW3l3nB-9w)]** 
 
   <!-- 3.3 --> 
     <a href="https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA" target="_blank">哈工大张民：ChatGPT之后，NLP还有12个待解决命题</a>
@@ -3059,18 +3045,15 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/i0vRw-D0QwK_rMsyQl6S7A" target="_blank">AI创业圈，找到了GPU算力的高端解法</a>
     |
-    <!-- 2024.09.13 -->
-    <a href="https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA" target="_blank">深夜空降！OpenAI草莓正式发布，命名o1， GPT-4o被碾压！</a>
-    |
-    <!-- 2024.09.19 -->
-    <a href="https://mp.weixin.qq.com/s/EpLFd3ZRICxhbGyPLsX2bg" target="_blank">AI美女屠版小红书火了，被当真人推流，颜值博主慌了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/MFGAeiE_dSAj-E1Pxtu6fg" target="_blank">英伟达Jim Fan预测：未来2~3年机器人将迎来“GPT-3时刻”</a>
-    |
-    <!-- 2024.09.21 -->
-    <a href="https://mp.weixin.qq.com/s/tDv4s2yjpAdulyKI4nvuGA" target="_blank">读博对心理有持续负面影响？终于有论文证实了！确实是真的！</a>
-    |
 
+
+- `2024.09.13`  深夜空降！OpenAI草莓正式发布，命名o1， GPT-4o被碾压！   **[[PDF](https://mp.weixin.qq.com/s/P4eM7o0z-NlAyXnNOmK8GA)]** 
+
+- `2024.09.19`  AI美女屠版小红书火了，被当真人推流，颜值博主慌了   **[[PDF](https://mp.weixin.qq.com/s/EpLFd3ZRICxhbGyPLsX2bg)]**
+
+- `2024.09.19`  英伟达Jim Fan预测：未来2~3年机器人将迎来“GPT-3时刻”   **[[PDF](https://mp.weixin.qq.com/s/MFGAeiE_dSAj-E1Pxtu6fg)]**
+
+- `2024.09.21`  读博对心理有持续负面影响？终于有论文证实了！确实是真的！   **[[PDF](https://mp.weixin.qq.com/s/tDv4s2yjpAdulyKI4nvuGA)]**
 
 - `2024.09.21`  大模型的威力，远不只是聊天框   **[[PDF](https://mp.weixin.qq.com/s/r5HINwOcjb9X_kGHWtiIvw)]**
 
