@@ -196,15 +196,13 @@ This is a paper list for , which also cont.
 
 - `2023.03.10`  王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天   **[[LINK](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ)]**
 
+- `2023.03.10`  GPT-4将于下周发布，微软德国CTO：将提供完全不同的可能性   **[[LINK](https://mp.weixin.qq.com/s/O4bK0dO_E8iKXe1U839NMw)]**
+
+- `2023.03.10`  活动实录｜胡芳槐博士、王昊奋博士“ChatGPT探索语言未来”线上圆桌会精彩发言   **[[LINK](https://mp.weixin.qq.com/s/JiEn377_ULqqA5H9MhM3yg)]**
+
+- `2023.03.10`  乔姆斯基：ChatGPT的虚假承诺   **[[LINK](https://mp.weixin.qq.com/s/yknwdKSJ1qkr0HcJcsSn6A)]**
 
 
-  <!-- 3.10 --> 
-    <a href="https://mp.weixin.qq.com/s/O4bK0dO_E8iKXe1U839NMw" target="_blank">GPT-4将于下周发布，微软德国CTO：将提供完全不同的可能性</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/JiEn377_ULqqA5H9MhM3yg" target="_blank">活动实录｜胡芳槐博士、王昊奋博士“ChatGPT探索语言未来”线上圆桌会精彩发言</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/yknwdKSJ1qkr0HcJcsSn6A" target="_blank">乔姆斯基：ChatGPT的虚假承诺</a>
-    |
   <!-- 3.11 --> 
     <a href="https://mp.weixin.qq.com/s/443qWf9oqPlwVLxfz-bi_Q" target="_blank">巅峰对话：ChatGPT爆火之后，AIGC元年真的到来了？| 甲子光年</a>
     |
@@ -2700,29 +2698,24 @@ This is a paper list for , which also cont.
 
   - `2024.07.06`  上交&阿里：掀开多模态大模型的头盖骨，解密黑盒模型推理过程   **[[LINK](https://mp.weixin.qq.com/s/dF4QltattjndvXMX92gutA)]**
 
+  - `2024.07.08`  守口如瓶，OpenAI刻意隐瞒的黑客攻击事件时隔一年被证实   **[[LINK](https://mp.weixin.qq.com/s/LrIQ4Y2_iHOkiQcs7qNrXQ)]**
 
-    <!-- 2024.07.08 -->
-    <a href="https://mp.weixin.qq.com/s/LrIQ4Y2_iHOkiQcs7qNrXQ" target="_blank">守口如瓶，OpenAI刻意隐瞒的黑客攻击事件时隔一年被证实</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/V1gc1D2l7BNpgkyfWrGp_w" target="_blank">思路打开！腾讯造了10亿个角色，驱动数据合成！7B模型效果打爆了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/pUlZIWYZB-zIhU4FnmU0ag" target="_blank">大模型时代的蓝海任务，GPT4V准确率不足10%，港科大发布指代理解基准RefCOCO</a>
-    |
-    <!-- 2024.07.09 -->
-    <a href="https://mp.weixin.qq.com/s/nSKABLyetABRK7D2acj9HA" target="_blank">李彦宏：开源模型是智商税！傅盛：付费的闭源大模型才是！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/y21ii5AxErt-x3mFsAXW2w" target="_blank">微软&清华提出全新预训练范式，指令预训练让8B模型实力暴涨！实力碾压70B模型</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/FN99wEL9Oq2bMEMC33t1aQ" target="_blank">阿里发布大模型发布图结构长文本处理智能体，超越GPT-4-128k</a>
-    |
-    <!-- 2024.07.10 -->
-    <a href="https://mp.weixin.qq.com/s/AEOAayq_uPWlj0CdCDwMaQ" target="_blank">中国AI论文数量全球第一！中科院拿下研究机构双第一，腾讯企业排第三</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/BpaleVMvqHyjh2r6ARGdjw" target="_blank">新国立祭出视频生成“无限宝石“：2300帧仅需5分钟，提速100倍</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/6M6LDfjeinb2IeG7c4zvtQ" target="_blank">上交发布MG-LLaVA，基于多粒度指令调整，横扫视觉大模型榜单</a>
-    |
-    <!-- 2024.07.11 -->
+  - `2024.07.08`  思路打开！腾讯造了10亿个角色，驱动数据合成！7B模型效果打爆了   **[[LINK](https://mp.weixin.qq.com/s/V1gc1D2l7BNpgkyfWrGp_w)]**
+
+  - `2024.07.08`  大模型时代的蓝海任务，GPT4V准确率不足10%，港科大发布指代理解基准RefCOCO   **[[LINK](https://mp.weixin.qq.com/s/pUlZIWYZB-zIhU4FnmU0ag)]**
+
+  - `2024.07.09`  李彦宏：开源模型是智商税！傅盛：付费的闭源大模型才是！   **[[LINK](https://mp.weixin.qq.com/s/nSKABLyetABRK7D2acj9HA)]**
+
+  - `2024.07.09`  微软&清华提出全新预训练范式，指令预训练让8B模型实力暴涨！实力碾压70B模型   **[[LINK](https://mp.weixin.qq.com/s/y21ii5AxErt-x3mFsAXW2w)]**
+
+  - `2024.07.09`  阿里发布大模型发布图结构长文本处理智能体，超越GPT-4-128k   **[[LINK](https://mp.weixin.qq.com/s/FN99wEL9Oq2bMEMC33t1aQ)]**
+
+  - `2024.07.10`  中国AI论文数量全球第一！中科院拿下研究机构双第一，腾讯企业排第三   **[[LINK](https://mp.weixin.qq.com/s/AEOAayq_uPWlj0CdCDwMaQ)]**
+
+  - `2024.07.10`  新国立祭出视频生成“无限宝石“：2300帧仅需5分钟，提速100倍   **[[LINK](https://mp.weixin.qq.com/s/BpaleVMvqHyjh2r6ARGdjw)]**
+
+  - `2024.07.10`  上交发布MG-LLaVA，基于多粒度指令调整，横扫视觉大模型榜单   **[[LINK](https://mp.weixin.qq.com/s/6M6LDfjeinb2IeG7c4zvtQ)]**
+
   - `2024.07.11`  微软宣布放弃OpenAI观察员席位，苹果也将搁置，反垄断见效？   **[[LINK](https://mp.weixin.qq.com/s/gWtI1HMFg1_qk0GbnBAI6A)]**
 
   - `2024.07.11`  全现金！6.65亿美刀！AMD大手一挥收购欧洲最大私人AI实验室   **[[LINK](https://mp.weixin.qq.com/s/aUhhgQ1c_UaX9naqWyg_8Q)]**
