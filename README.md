@@ -2420,13 +2420,12 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     |
     <a href="https://mp.weixin.qq.com/s/dX8X_VjFnAIBOCAIHvxEbg" target="_blank">今日arXiv最热NLP大模型论文：揭露大语言模型短板，北京大学提出事件推理测试基准</a>
     |
-    <!-- 2024.05.13 -->     
-    <a href="https://mp.weixin.qq.com/s/srLx0nwIQHJbsrvfq5SdwA" target="_blank">百万级ChatGPT对话曝光！AI竟然经常被"调戏"？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ndaXbtSNpuF645tFTddP6Q" target="_blank">从零开始手搓GPU，照着英伟达CUDA来，只用两个星期</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Ter_ekb_GSX2wcXRtBCenA" target="_blank">今日arXiv最热CV大模型论文：国产开源视觉大模型InternVL 1.5发布，赶超GPT-4V水准</a>
-    |
+  - `2024.05.13`  百万级ChatGPT对话曝光！AI竟然经常被"调戏"？   **[[PDF](https://mp.weixin.qq.com/s/srLx0nwIQHJbsrvfq5SdwA)]**
+
+  - `2024.05.13`  从零开始手搓GPU，照着英伟达CUDA来，只用两个星期   **[[PDF](https://mp.weixin.qq.com/s/ndaXbtSNpuF645tFTddP6Q)]**
+
+  - `2024.05.13`  今日arXiv最热CV大模型论文：国产开源视觉大模型InternVL 1.5发布，赶超GPT-4V水准   **[[PDF](https://mp.weixin.qq.com/s/Ter_ekb_GSX2wcXRtBCenA)]**
+
     <!-- 2024.05.14 -->     
     <a href="https://mp.weixin.qq.com/s/yuD-7RFdiIshZsRwz85gCA" target="_blank">OpenAI爆炸更新：GPT-4免费了！新模型GPT-4o发布，视觉、语音能力大幅增强，速度起飞，API打骨折</a>
     |
@@ -2731,12 +2730,12 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
     <a href="https://mp.weixin.qq.com/s/6M6LDfjeinb2IeG7c4zvtQ" target="_blank">上交发布MG-LLaVA，基于多粒度指令调整，横扫视觉大模型榜单</a>
     |
     <!-- 2024.07.11 -->
-    <a href="https://mp.weixin.qq.com/s/gWtI1HMFg1_qk0GbnBAI6A" target="_blank">微软宣布放弃OpenAI观察员席位，苹果也将搁置，反垄断见效？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/aUhhgQ1c_UaX9naqWyg_8Q" target="_blank">全现金！6.65亿美刀！AMD大手一挥收购欧洲最大私人AI实验室</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/1oPI5N_0hxq1DT1cbRjR-A" target="_blank">DeepMind CEO称AI智力不如猫！LeCun持相同看法！曝光谷歌新项目AI将突破聊天限制</a>
-    |
+  - `2024.07.11`  微软宣布放弃OpenAI观察员席位，苹果也将搁置，反垄断见效？   **[[PDF](https://mp.weixin.qq.com/s/gWtI1HMFg1_qk0GbnBAI6A)]**
+
+  - `2024.07.11`  全现金！6.65亿美刀！AMD大手一挥收购欧洲最大私人AI实验室   **[[PDF](https://mp.weixin.qq.com/s/aUhhgQ1c_UaX9naqWyg_8Q)]**
+
+  - `2024.07.11`  DeepMind CEO称AI智力不如猫！LeCun持相同看法！曝光谷歌新项目AI将突破聊天限制   **[[PDF](https://mp.weixin.qq.com/s/1oPI5N_0hxq1DT1cbRjR-A)]**
+
     <!-- 2024.07.13 -->
     <a href="https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg" target="_blank">OpenAI神秘項目「草莓」曝光！自我进化已超越人类智能？马斯克嘲讽：回形针灾难</a>
     | 
