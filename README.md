@@ -1135,11 +1135,11 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/JsCoUcuCg4ylKkPMvNouEw" target="_blank"> 伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战</a>
     | 
 
-- `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[PDF](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
+- `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[LINK](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
 
-- `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[PDF](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
+- `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[LINK](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
 
-- `2023.07.31`  谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型   **[[PDF](https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA)]** 
+- `2023.07.31`  谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型   **[[LINK](https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA)]** 
 
 
 
@@ -1791,25 +1791,25 @@ This is a paper list for , which also cont.
     |
 
 
-	- `2024.01.04`  吴恩达最新推出基于大模型的《AI高级检索》课程，限时免费白嫖！   **[[LINK](https://mp.weixin.qq.com/s/8GZPnm8tq2Dqgvj1iAfNAw)]**
+	 - `2024.01.04`  吴恩达最新推出基于大模型的《AI高级检索》课程，限时免费白嫖！   **[[LINK](https://mp.weixin.qq.com/s/8GZPnm8tq2Dqgvj1iAfNAw)]**
     
-	- `2024.01.04`  GPU短缺、Agent兴起、虚假信息扩散，李飞飞&斯坦福HAI对24年的AI预测   **[[LINK](https://mp.weixin.qq.com/s/oRY6RmCLtsppi3m7aTW0Vw)]**
+	 - `2024.01.04`  GPU短缺、Agent兴起、虚假信息扩散，李飞飞&斯坦福HAI对24年的AI预测   **[[LINK](https://mp.weixin.qq.com/s/oRY6RmCLtsppi3m7aTW0Vw)]**
 
-	- `2024.01.04`  LeCun 自曝拒绝谷歌研究主管offer！只想专心做研究   **[[LINK](https://mp.weixin.qq.com/s/BphxUTjC_Xne3ZMWBGFdIw)]**
+	 - `2024.01.04`  LeCun 自曝拒绝谷歌研究主管offer！只想专心做研究   **[[LINK](https://mp.weixin.qq.com/s/BphxUTjC_Xne3ZMWBGFdIw)]**
 
-	- `2024.01.05`  斯坦福机器人炒虾爆火网络，谷歌DeepMind发布机器人最新进展，2024智能机器人元年到来？   **[[LINK](https://mp.weixin.qq.com/s/AV2hYEFolP679PnLmQ97kQ)]**
+	 - `2024.01.05`  斯坦福机器人炒虾爆火网络，谷歌DeepMind发布机器人最新进展，2024智能机器人元年到来？   **[[LINK](https://mp.weixin.qq.com/s/AV2hYEFolP679PnLmQ97kQ)]**
 
-	- `2024.01.05`  OpenAI董事会正考虑新的董事会人选，奥特曼不在其中   **[[LINK](https://mp.weixin.qq.com/s/WE_rfYFhjr7h0DN7VPYGrw)]**
+	 - `2024.01.05`  OpenAI董事会正考虑新的董事会人选，奥特曼不在其中   **[[LINK](https://mp.weixin.qq.com/s/WE_rfYFhjr7h0DN7VPYGrw)]**
 
-  - `2024.01.06`  专补大模型短板的RAG有哪些新进展？这篇综述讲明白了   **[[LINK](https://mp.weixin.qq.com/s/yZo-HcGuWFQE8B63hZkqVQ)]**
+   - `2024.01.06`  专补大模型短板的RAG有哪些新进展？这篇综述讲明白了   **[[LINK](https://mp.weixin.qq.com/s/yZo-HcGuWFQE8B63hZkqVQ)]**
 
-  - `2024.01.06`  斯坦福爆火机器人自爆失败内幕！炒虾做家务逗猫都是人类遥控的，AI厨师和女仆还很遥远   **[[LINK](https://mp.weixin.qq.com/s/tVEEmySQCCve-9b43CI6Qw)]**
+   - `2024.01.06`  斯坦福爆火机器人自爆失败内幕！炒虾做家务逗猫都是人类遥控的，AI厨师和女仆还很遥远   **[[LINK](https://mp.weixin.qq.com/s/tVEEmySQCCve-9b43CI6Qw)]**
 
-  - `2024.01.06`  新加坡国立大学发布图文预训练框架 CosMo，助力长文本理解   **[[LINK](https://mp.weixin.qq.com/s/MK9i7L5zuY-sSa5GoRuAAg)]**
+   - `2024.01.06`  新加坡国立大学发布图文预训练框架 CosMo，助力长文本理解   **[[LINK](https://mp.weixin.qq.com/s/MK9i7L5zuY-sSa5GoRuAAg)]**
 
-    <!-- 2024.01.06 --> 
-    <a href="https://mp.weixin.qq.com/s/cAF1HQnvNBhKCof9nUrigQ" target="_blank">谷歌被爆正在开发高级版Bard，欲对标 ChatGPT Plus</a>
-    |     
+   - `2024.01.06`  谷歌被爆正在开发高级版Bard，欲对标 ChatGPT Plus   **[[LINK](https://mp.weixin.qq.com/s/cAF1HQnvNBhKCof9nUrigQ)]**
+
+
     <!-- 2024.01.07 --> 
     <a href="https://mp.weixin.qq.com/s/4T5E4ekQirocILbfu6ICdA" target="_blank">对于领域任务:大语言模型、NLP建模、Agents适用场景探讨</a>
     |
@@ -2273,12 +2273,11 @@ This is a paper list for , which also cont.
 
   - `2024.04.18`  波士顿动力抛弃液压机器人Atlas，推出全新电动化机器人，动作超灵活   **[[LINK](https://mp.weixin.qq.com/s/s-prTajnQzMTt1NFEM0gWg)]**
 
-    
-    <!-- 2024.04.19 -->     
-    <a href="https://mp.weixin.qq.com/s/0bHnV1g3z7_CJG_6deOyuQ" target="_blank">最强开源大模型 Llama 3震撼发布！开源模型将追上GPT-4，4000亿参数模型也在路上</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/ViM1tgbOY8kiqGwASw2rPA" target="_blank">微软刚刚发布了VASA-1：单张照片生成超现实真人视频，还没开源但是性能SOTA</a>
-    | 
+  - `2024.04.19`  最强开源大模型 Llama 3震撼发布！开源模型将追上GPT-4，4000亿参数模型也在路上   **[[LINK](https://mp.weixin.qq.com/s/0bHnV1g3z7_CJG_6deOyuQ)]**
+
+  - `2024.04.19`  微软刚刚发布了VASA-1：单张照片生成超现实真人视频，还没开源但是性能SOTA   **[[LINK](https://mp.weixin.qq.com/s/ViM1tgbOY8kiqGwASw2rPA)]**
+ 
+
     <!-- 2024.04.20 -->     
     <a href="https://mp.weixin.qq.com/s/T-8WBSsMgpJa3NqN6Kpn4Q" target="_blank">2024 QS排名发布！计算机MIT霸榜，清华11，北大15</a>
     | 
