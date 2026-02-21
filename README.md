@@ -2386,17 +2386,16 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/-1zkqjnlFA_6c8mjMPX62w" target="_blank">今日arXiv最热NLP大模型论文：NAACL24实锤语言学对大模型“负优化”，抽象语义表示+思维链有损表现</a>
     |
     <!-- 2024.05.11 -->     
-  - `2024.05.11`  30%参数达到92%的表现，大模型稀疏化方法显神通   **[[PDF](https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA)]**
+  - `2024.05.11`  30%参数达到92%的表现，大模型稀疏化方法显神通   **[[Link](https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA)]**
 
-  - `2024.05.11`  两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招   **[[PDF](https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT)]**
+  - `2024.05.11`  两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招   **[[Link](https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT)]**
 
-    <!-- 2024.05.12 -->     
-    <a href="https://mp.weixin.qq.com/s/7MTELAEO8sdgI9eekTTT0w" target="_blank">真要这么卷？某国产大模型定价下调90%，百万 tokens 只需 1 元！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ltDj7mU9FezvkdokUzPxmA" target="_blank">清华发布Temporal Scaling Law，解释时间尺度对大模型表现的影响</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/dX8X_VjFnAIBOCAIHvxEbg" target="_blank">今日arXiv最热NLP大模型论文：揭露大语言模型短板，北京大学提出事件推理测试基准</a>
-    |
+  - `2024.05.12`  真要这么卷？某国产大模型定价下调90%，百万 tokens 只需 1 元！   **[[Link](https://mp.weixin.qq.com/s/7MTELAEO8sdgI9eekTTT0w)]**
+
+  - `2024.05.12`  清华发布Temporal Scaling Law，解释时间尺度对大模型表现的影响   **[[Link](https://mp.weixin.qq.com/s/ltDj7mU9FezvkdokUzPxmA)]**
+
+  - `2024.05.12`  今日arXiv最热NLP大模型论文：揭露大语言模型短板，北京大学提出事件推理测试基准   **[[Link](https://mp.weixin.qq.com/s/dX8X_VjFnAIBOCAIHvxEbg)]**
+
   - `2024.05.13`  百万级ChatGPT对话曝光！AI竟然经常被"调戏"？   **[[PDF](https://mp.weixin.qq.com/s/srLx0nwIQHJbsrvfq5SdwA)]**
 
   - `2024.05.13`  从零开始手搓GPU，照着英伟达CUDA来，只用两个星期   **[[PDF](https://mp.weixin.qq.com/s/ndaXbtSNpuF645tFTddP6Q)]**
@@ -2710,7 +2709,7 @@ This is a paper list for , which also cont.
 
   - `2024.07.13`  斯坦福提出大模型最强架构TTT，超越Transformers   **[[LINK](https://mp.weixin.qq.com/s/F6BivMB3CGe50TA4PSyVHA)]**
 
-  
+
     <!-- 2024.07.14 -->
     <a href="https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg" target="_blank">孟晚舟：不要选择和机器竞争的职业，萝卜无人车会是特洛伊木马吗？</a>
     | 
