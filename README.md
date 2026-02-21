@@ -192,8 +192,6 @@ This is a paper list for , which also cont.
 
 - `2023.03.10`  ChatGPT之后我们要做什么？丨文本生成中的知识和控制   **[[LINK](https://mp.weixin.qq.com/s/LwGxuy05hes6iV8MQ6yL4w)]**
 
-- `2023.03.10`  ChatGPT之后我们要做什么？丨文本生成中的知识和控制   **[[LINK](https://mp.weixin.qq.com/s/LwGxuy05hes6iV8MQ6yL4w)]**
-
 - `2023.03.10`  王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天   **[[LINK](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ)]**
 
 - `2023.03.10`  GPT-4将于下周发布，微软德国CTO：将提供完全不同的可能性   **[[LINK](https://mp.weixin.qq.com/s/O4bK0dO_E8iKXe1U839NMw)]**
@@ -2476,15 +2474,16 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/5hxleiSLaaijgbO6dmeK4A" target="_blank">今日arXiv最热大模型论文：忘记"也是一门学问：机器如何忘记自己学到的知识？</a>
     |
     <!-- 2024.05.26 -->     
-  - `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[PDF](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
+  - `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[LINK](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
 
-  - `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[PDF](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
+  - `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[LINK](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
 
-  - `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[PDF](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
+  - `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[LINK](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
 
-    <!-- 2024.05.27 -->     
-    <a href="https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ" target="_blank">上交提出TrustGAIN，提出6G网络中可信AIGC新模式！</a>
-    |
+  - `2024.05.27`  上交提出TrustGAIN，提出6G网络中可信AIGC新模式！   **[[LINK](https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ)]**
+
+
+
     <!-- 2024.05.28 -->     
     <a href="https://m" target="_blank">我手握多篇顶会一作，引用量几百，却连个像样的博士offer都申请不到</a>
     |
@@ -2515,12 +2514,10 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/w4lgx6EojEk1OoJ29AYCtA" target="_blank">高效训练超越LoRA，北航发布MoRA</a>
     |
     <!-- 2024.06.01 -->     
-    <a href="https://mp.weixin.qq.com/s/y9Opp0dxrAQ4Ghi8LwmuAA" target="_blank">GPT-4o遭破解！大神搞出越狱版本，OpenAI紧急封杀，安全小组被打脸</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/0By4E0pI3PdWM1asvA83wg" target="_blank">Anthropic公司CEO谈AI发展：Cluade安全超过商业利益</a>
-    |
-    <a href="https://m" target="_blank">ChemLL</a>
-    |
+  - `2024.06.01`  GPT-4o遭破解！大神搞出越狱版本，OpenAI紧急封杀，安全小组被打脸   **[[LINK](https://mp.weixin.qq.com/s/y9Opp0dxrAQ4Ghi8LwmuAA)]**
+
+  - `2024.06.01`  Anthropic公司CEO谈AI发展：Cluade安全超过商业利益   **[[LINK](https://mp.weixin.qq.com/s/0By4E0pI3PdWM1asvA83wg)]**
+
     <!-- 2024.06.03 -->     
     <a href="https://mp.weixin.qq.com/s/hvHMKopEDAkhk5eyZe-DXg" target="_blank">抄袭瓜！斯坦福作者已删库跑路！面壁和刘知远老师的最新回应</a>
     |
@@ -2560,12 +2557,12 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/sIhuthR_4O3Ck8u9ucfLpw" target="_blank">GPT-4o仅排第二！北大港大等6所高校联手，发布权威多模态大模型榜单！</a>
     |      
     <!-- 2024.06.10 -->  
-    <a href="https://mp.weixin.qq.com/s/UKNV9yQWB6d102IX8IhG9w" target="_blank">“我，在阿里月薪6万，端午离职后突然惊醒：人越努力，只会越平庸”</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/xOOsxU1MtdyHwcLG-jUI4Q" target="_blank">OpenAI与核聚变公司寻求合作，白宫拨款1.8亿美元用于核聚变商业化研究</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/B4iQA5fi1h_3beI5t64nJA" target="_blank">4000亿薪酬被驳回！马斯克再次讨薪</a>
-    |
+  - `2024.06.10`  “我，在阿里月薪6万，端午离职后突然惊醒：人越努力，只会越平庸”   **[[LINK](https://mp.weixin.qq.com/s/UKNV9yQWB6d102IX8IhG9w)]**
+
+  - `2024.06.10`  OpenAI与核聚变公司寻求合作，白宫拨款1.8亿美元用于核聚变商业化研究   **[[LINK](https://mp.weixin.qq.com/s/xOOsxU1MtdyHwcLG-jUI4Q)]**
+
+  - `2024.06.10`  4000亿薪酬被驳回！马斯克再次讨薪   **[[LINK](https://mp.weixin.qq.com/s/B4iQA5fi1h_3beI5t64nJA)]**
+
     <!-- 2024.06.11 -->
     <a href="https://mp.weixin.qq.com/s/DSDGnDVO41jRjad2cusaQg" target="_blank">马斯克怒了，禁止员工使用苹果设备，抨击库克出卖数据给OpenAI</a>
     |  
