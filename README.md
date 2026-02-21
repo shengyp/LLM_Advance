@@ -2898,11 +2898,10 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/CloWiUUrmW5YexWJ4kbDdg" target="_blank">排行榜断层第一！Cosine推出“最强、最接近人类”的AI程序员！</a>
     |
     <!-- 2024.08.14 -->
-    <a href="https://mp.weixin.qq.com/s/HxX1zC0Jxk-h78umYRSMpg" target="_blank">谷歌「Her」来啦！发布Gemini Live语音模式，现场演示两次翻车</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/xVB7ZiCsrNbCrQZKb2mwjA" target="_blank">最强智能体Agent Q发布！Llama 3零样本成功率提升340%</a>
-    |
-    <!-- 2024.08.15 -->
+- `2024.08.14`  谷歌「Her」来啦！发布Gemini Live语音模式，现场演示两次翻车   **[[LINK](https://mp.weixin.qq.com/s/HxX1zC0Jxk-h78umYRSMpg)]**  
+
+- `2024.08.14`  最强智能体Agent Q发布！Llama 3零样本成功率提升340%   **[[LINK](https://mp.weixin.qq.com/s/xVB7ZiCsrNbCrQZKb2mwjA)]** 
+
 - `2024.08.15`  香港理工：你精心设计的prompt，很容易被用户套出来！   **[[LINK](https://mp.weixin.qq.com/s/RMwPScSP2y4KnSXkmoslhQ)]**  
 
 - `2024.08.15`  刚刚！ACL2024最佳论文开奖！GloVe获时间检验奖   **[[LINK](https://mp.weixin.qq.com/s/Ut44yD4pu6SvQNSGGn6MIA)]** 
