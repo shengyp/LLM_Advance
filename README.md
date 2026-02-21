@@ -1135,25 +1135,20 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/JsCoUcuCg4ylKkPMvNouEw" target="_blank"> 伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战</a>
     | 
 
-- `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[LINK](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
+  - `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[LINK](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
 
-- `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[LINK](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
+  - `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[LINK](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
 
-- `2023.07.31`  谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型   **[[LINK](https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA)]** 
+  - `2023.07.31`  谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型   **[[LINK](https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA)]** 
 
+  - `2023.08.01`  中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据   **[[LINK](https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ)]**
 
+  - `2023.08.01`  NewHope——具有99% GPT-4编程能力的开源模型   **[[LINK](https://zhuanlan.zhihu.com/p/647158457?utm_medium=social&utm_oi=35893092024320&utm_psn=1669809028556533760&utm_source=wechat_session&s_r=0)]**
 
-    <!-- 8.1 -->
-    <a href="https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ" target="_blank">中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据</a>
-    | 
-    <a href="https://zhuanlan.zhihu.com/p/647158457?utm_medium=social&utm_oi=35893092024320&utm_psn=1669809028556533760&utm_source=wechat_session&s_r=0" target="_blank">NewHope——具有99% GPT-4编程能力的开源模型</a>
-    |
-    <!-- 8.3 -->
-    <a href="https://mp.weixin.qq.com/s/jHCbqgp5Do_rjkiTd2Ws_g" target="_blank">谷歌创始人布林重返职场，投入研发AI杀手锏！预计下半年推出下一代通用模型『Gemini』，和OpenAI的终局之战！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/LS6YWylk9r425YTvBJ0bYQ" target="_blank">马毅、LeCun联合发布EMP-SSL，突破自监督学习效率极限</a>
-    |   
-    <!-- 8.4 -->
+  - `2023.08.03`  谷歌创始人布林重返职场，投入研发AI杀手锏！预计下半年推出下一代通用模型『Gemini』，和OpenAI的终局之战！   **[[LINK](https://mp.weixin.qq.com/s/jHCbqgp5Do_rjkiTd2Ws_g)]**
+
+  - `2023.08.03`  马毅、LeCun联合发布EMP-SSL，突破自监督学习效率极限   **[[LINK](https://mp.weixin.qq.com/s/LS6YWylk9r425YTvBJ0bYQ)]**
+ 
   - `2024.08.04`  权重量化对大模型涌现能力的影响   **[[LINK](https://mp.weixin.qq.com/s/bJ6Q1eKGuQTRg27hpMEEmA)]** 
   
   - `2024.08.08`  MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生   **[[LINK](https://mp.weixin.qq.com/s/PGsY3vXSdzWn7QFp-4yERw)]** 
