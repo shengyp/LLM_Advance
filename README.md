@@ -1152,13 +1152,13 @@ This is a paper list for , which also cont.
   - `2024.08.04`  权重量化对大模型涌现能力的影响   **[[LINK](https://mp.weixin.qq.com/s/bJ6Q1eKGuQTRg27hpMEEmA)]** 
   
   - `2024.08.08`  MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生   **[[LINK](https://mp.weixin.qq.com/s/PGsY3vXSdzWn7QFp-4yERw)]** 
-    <!-- 8.9 -->
-    <a href="https://mp.weixin.qq.com/s/8zf2nPZAN89jEDiEJN6ZuQ" target="_blank">OpenAI公布GPT4的爬虫工具-GPTBot，遵守爬虫协议，可用于模型训练</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/UdI9UAe0Uqu48-OxQj_arQ" target="_blank">首个中文版大语言模型综述来了！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw" target="_blank">ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！</a>
-    |
+
+  - `2024.08.09`  OpenAI公布GPT4的爬虫工具-GPTBot，遵守爬虫协议，可用于模型训练   **[[LINK](https://mp.weixin.qq.com/s/8zf2nPZAN89jEDiEJN6ZuQ)]** 
+
+  - `2024.08.09`  首个中文版大语言模型综述来了！   **[[LINK](https://mp.weixin.qq.com/s/UdI9UAe0Uqu48-OxQj_arQ)]** 
+
+  - `2024.08.09`  ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！   **[[LINK](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw)]** 
+
     <!-- 8.10 -->
     <a href="https://mp.weixin.qq.com/s/xBF6AUVMHE2BXqJlzukB2A" target="_blank">清华面壁智能推出大模型「最强工具全家桶」，接入16000+真实API，媲美ChatGPT</a>
     |
@@ -2708,11 +2708,9 @@ This is a paper list for , which also cont.
 
   - `2024.07.13`  OpenAI神秘項目「草莓」曝光！自我进化已超越人类智能？马斯克嘲讽：回形针灾难   **[[LINK](https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg)]**
 
-    <!-- 2024.07.13 -->
-    <a href="" target="_blank"></a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/F6BivMB3CGe50TA4PSyVHA" target="_blank">斯坦福提出大模型最强架构TTT，超越Transformers</a>
-    | 
+  - `2024.07.13`  斯坦福提出大模型最强架构TTT，超越Transformers   **[[LINK](https://mp.weixin.qq.com/s/F6BivMB3CGe50TA4PSyVHA)]**
+
+  
     <!-- 2024.07.14 -->
     <a href="https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg" target="_blank">孟晚舟：不要选择和机器竞争的职业，萝卜无人车会是特洛伊木马吗？</a>
     | 
@@ -2769,13 +2767,12 @@ This is a paper list for , which also cont.
 
 - `2024.07.21`  胳膊肘往外拐？AMD的AI GPU助推器增加对英伟达的支持   **[[LINK](https://mp.weixin.qq.com/s/HsqaOWkSgBdLzG2lRqMHWQ)]**
 
-    <!-- 2024.07.22 -->
-    <a href="https://mp.weixin.qq.com/s/6edjgPnyvxgxUF3ul8ZrnA" target="_blank">IMO数学竞赛第5题是何方神圣？大模型全军覆没了…</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/vQ88uTC8x1R32RUg1SzYkg" target="_blank">中科院张家俊团队最新综述，谈大模型研究的新领域：多模型协作</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/jfuL2uEflSie4XerSJRrIQ" target="_blank">ICML2024: 华中科大发现大模型具有自我认知</a>
-    |
+- `2024.07.22`  IMO数学竞赛第5题是何方神圣？大模型全军覆没了…   **[[LINK](https://mp.weixin.qq.com/s/6edjgPnyvxgxUF3ul8ZrnA)]**
+
+- `2024.07.22`  中科院张家俊团队最新综述，谈大模型研究的新领域：多模型协作   **[[LINK](https://mp.weixin.qq.com/s/vQ88uTC8x1R32RUg1SzYkg)]**
+
+- `2024.07.22`  ICML2024: 华中科大发现大模型具有自我认知   **[[LINK](https://mp.weixin.qq.com/s/jfuL2uEflSie4XerSJRrIQ)]**
+
 - `2024.07.23`  Llama 3.1要来啦？！测试性能战胜GPT-4o   **[[LINK](https://mp.weixin.qq.com/s/cbaGul6PUdTyGd-YDhyK6w)]**    
 
 - `2024.07.23`  英伟达又涨了！“中国特供”B20芯片被曝，马斯克豪掷10万块H100训Grok，算力是GPT-4的四倍！   **[[LINK](https://mp.weixin.qq.com/s/V-ZmVRCYjABD2WqCTrPG5Q)]**    
@@ -2811,12 +2808,8 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/z_x718kwKYFb_bfgQUkqag" target="_blank">华为诺亚发布无限上下文大模型，超越SoTA 4.3%</a>
     |
     <!-- 2024.07.29 -->
-    <a href="https://mp.weixin.qq.com/s/P4tl4X8vXUjktWc-LBxAWg" target="_blank">一万亿token！34亿张图像，扩大10倍！史上最大开源多模态数据集MINT-1T发布！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Js0Dvte5H7RsT4GsndGleA" target="_blank">Apple intelligence 正式开启测试！第一波文本工具测试体验来啦！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Lr9VZF6pOPFwm_FTq65f4w" target="_blank">今日arXiv最热大模型论文：北京大学最新综述：视觉大模型中的漏洞与攻防对抗</a>
-    |
+- `2024.07.29`  Apple intelligence 正式开启测试！第一波文本工具测试体验来啦！   **[[LINK](https://mp.weixin.qq.com/s/Js0Dvte5H7RsT4GsndGleA)]**
+
 - `2024.07.30`  一万亿token！34亿张图像，扩大10倍！史上最大开源多模态数据集MINT-1T发布！   **[[LINK](https://mp.weixin.qq.com/s/P4tl4X8vXUjktWc-LBxAWg)]** 
 
 - `2024.07.30`  今日arXiv最热大模型论文：北京大学最新综述：视觉大模型中的漏洞与攻防对抗   **[[LINK](https://mp.weixin.qq.com/s/Lr9VZF6pOPFwm_FTq65f4w)]** 
