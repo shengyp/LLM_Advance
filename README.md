@@ -425,10 +425,9 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/iM7el66k7yrl-ZUKCpwz2g" target="_blank">ChatGPT在意大利被禁，OpenAI被限20天内补救</a>
     | 
   <!-- 4.2 -->
-    <a href="https://mp.weixin.qq.com/s/kFFPORQOz6VP9F6rZHokyw" target="_blank">中国人民大学卢志武：ChatGPT对多模态通用生成模型的重要启发</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww" target="_blank">3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow</a>
-    | 
+- `2023.04.02`  中国人民大学卢志武：ChatGPT对多模态通用生成模型的重要启发   **[[LINK](https://mp.weixin.qq.com/s/kFFPORQOz6VP9F6rZHokyw)]**
+
+- `2023.04.02`  3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow   **[[LINK](https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww)]**
   <!-- 4.3 -->
     <a href="https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA" target="_blank">智能化时代的软件工程：拥抱大模型的正确姿势</a>
     |
@@ -1157,11 +1156,9 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/LS6YWylk9r425YTvBJ0bYQ" target="_blank">马毅、LeCun联合发布EMP-SSL，突破自监督学习效率极限</a>
     |   
     <!-- 8.4 -->
-    <a href="https://mp.weixin.qq.com/s/bJ6Q1eKGuQTRg27hpMEEmA" target="_blank">权重量化对大模型涌现能力的影响</a>
-    | 
-    <!-- 8.8 -->
-    <a href="https://mp.weixin.qq.com/s/PGsY3vXSdzWn7QFp-4yERw" target="_blank">MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生</a>
-    | 
+  - `2024.08.04`  权重量化对大模型涌现能力的影响   **[[LINK](https://mp.weixin.qq.com/s/bJ6Q1eKGuQTRg27hpMEEmA)]** 
+  
+  - `2024.08.08`  MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生   **[[LINK](https://mp.weixin.qq.com/s/PGsY3vXSdzWn7QFp-4yERw)]** 
     <!-- 8.9 -->
     <a href="https://mp.weixin.qq.com/s/8zf2nPZAN89jEDiEJN6ZuQ" target="_blank">OpenAI公布GPT4的爬虫工具-GPTBot，遵守爬虫协议，可用于模型训练</a>
     |
@@ -2775,12 +2772,12 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/UA6elWUX5irbF3q-bZ9mig" target="_blank">香港大学：教你如何一眼识破Sora合成的视频！</a>
     |    
     <!-- 2024.07.21 -->
-    <a href="https://mp.weixin.qq.com/s/zrZM8cxTlvHwHxNMZFaZeA" target="_blank">IMO奥数中国憾失第一！浙江选手史皓嘉获全场唯一满分</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/6RGyoDSbCoWv0ZMggdMGMw" target="_blank">CrowdStrike更新致850万Windows设备宕机，微软紧急救火！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/HsqaOWkSgBdLzG2lRqMHWQ" target="_blank">胳膊肘往外拐？AMD的AI GPU助推器增加对英伟达的支持</a>
-    |
+- `2024.07.21`  IMO奥数中国憾失第一！浙江选手史皓嘉获全场唯一满分   **[[LINK](https://mp.weixin.qq.com/s/zrZM8cxTlvHwHxNMZFaZeA)]**
+    
+- `2024.07.21`  CrowdStrike更新致850万Windows设备宕机，微软紧急救火！   **[[LINK](https://mp.weixin.qq.com/s/6RGyoDSbCoWv0ZMggdMGMw)]**
+
+- `2024.07.21`  胳膊肘往外拐？AMD的AI GPU助推器增加对英伟达的支持   **[[LINK](https://mp.weixin.qq.com/s/HsqaOWkSgBdLzG2lRqMHWQ)]**
+
     <!-- 2024.07.22 -->
     <a href="https://mp.weixin.qq.com/s/6edjgPnyvxgxUF3ul8ZrnA" target="_blank">IMO数学竞赛第5题是何方神圣？大模型全军覆没了…</a>
     |
@@ -2788,13 +2785,12 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/jfuL2uEflSie4XerSJRrIQ" target="_blank">ICML2024: 华中科大发现大模型具有自我认知</a>
     |
-    <!-- 2024.07.23 -->
-    <a href="https://mp.weixin.qq.com/s/cbaGul6PUdTyGd-YDhyK6w" target="_blank">Llama 3.1要来啦？！测试性能战胜GPT-4o</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/V-ZmVRCYjABD2WqCTrPG5Q" target="_blank">英伟达又涨了！“中国特供”B20芯片被曝，马斯克豪掷10万块H100训Grok，算力是GPT-4的四倍！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/nEedz8_wb7qnvtd9ENBKOg" target="_blank">ACL2024主会：中科院发布表格理解大模型Table-LLaVA，刷榜23项指标</a>
-    |     
+- `2024.07.23`  Llama 3.1要来啦？！测试性能战胜GPT-4o   **[[LINK](https://mp.weixin.qq.com/s/cbaGul6PUdTyGd-YDhyK6w)]**    
+
+- `2024.07.23`  英伟达又涨了！“中国特供”B20芯片被曝，马斯克豪掷10万块H100训Grok，算力是GPT-4的四倍！   **[[LINK](https://mp.weixin.qq.com/s/V-ZmVRCYjABD2WqCTrPG5Q)]**    
+
+- `2024.07.23`  ACL2024主会：中科院发布表格理解大模型Table-LLaVA，刷榜23项指标   **[[LINK](https://mp.weixin.qq.com/s/nEedz8_wb7qnvtd9ENBKOg)]**   
+
     <!-- 2024.07.24 -->
     <a href="https://mp.weixin.qq.com/s/rtmu5sdwK_rPndAaJKhjLQ" target="_blank">开源Llama 3.1一夜成最强大模型！超越闭源GPT-4o，OpenAI坐不住了</a>
     | 
@@ -2830,18 +2826,15 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/Lr9VZF6pOPFwm_FTq65f4w" target="_blank">今日arXiv最热大模型论文：北京大学最新综述：视觉大模型中的漏洞与攻防对抗</a>
     |
-    <!-- 2024.07.30 -->
-    <a href="https://mp.weixin.qq.com/s/P4tl4X8vXUjktWc-LBxAWg" target="_blank">一万亿token！34亿张图像，扩大10倍！史上最大开源多模态数据集MINT-1T发布！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Lr9VZF6pOPFwm_FTq65f4w" target="_blank">今日arXiv最热大模型论文：北京大学最新综述：视觉大模型中的漏洞与攻防对抗</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Lr9VZF6pOPFwm_FTq65f4w" target="_blank">今日arXiv最热大模型论文：北京大学最新综述：视觉大模型中的漏洞与攻防对抗</a>
-    |
-    <!-- 2024.07.31 -->
-    <a href="https://mp.weixin.qq.com/s/eSIS1vd1vMUzwnva4yNjVQ" target="_blank">重磅惊喜！OpenAI突然上线GPT-4o超长输出模型！「Her」高级语音模式已开放测试！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/LupPcFuStZ0Al6iwpSEa7Q" target="_blank">大模型“挣钱”新方法！用GPT-4优化众筹文稿，提高筹款成功率11.9%！</a>
-    |
+- `2024.07.30`  一万亿token！34亿张图像，扩大10倍！史上最大开源多模态数据集MINT-1T发布！   **[[LINK](https://mp.weixin.qq.com/s/P4tl4X8vXUjktWc-LBxAWg)]** 
+
+- `2024.07.30`  今日arXiv最热大模型论文：北京大学最新综述：视觉大模型中的漏洞与攻防对抗   **[[LINK](https://mp.weixin.qq.com/s/Lr9VZF6pOPFwm_FTq65f4w)]** 
+
+- `2024.07.31`  重磅惊喜！OpenAI突然上线GPT-4o超长输出模型！「Her」高级语音模式已开放测试！   **[[LINK](https://mp.weixin.qq.com/s/eSIS1vd1vMUzwnva4yNjVQ)]** 
+
+- `2024.07.31`  大模型“挣钱”新方法！用GPT-4优化众筹文稿，提高筹款成功率11.9%！   **[[LINK](https://mp.weixin.qq.com/s/LupPcFuStZ0Al6iwpSEa7Q)]** 
+
+
     <a href="https://mp.weixin.qq.com/s/PJhlg_iz_zdZhsZ7unwdhg" target="_blank">北京大学：利用好不确定性，8B小模型也能超越GPT-4</a>
     |
     <!-- 2024.08.01 -->
