@@ -2754,28 +2754,24 @@ This is a paper list for , which also cont.
 
 - `2024.07.24`  复旦大学：没钱标数据的有福了！利用合成数据就能大幅提升大模型归纳推理能力   **[[LINK](https://mp.weixin.qq.com/s/ndc4a8uKTlvJgUWtPkKXgg)]** 
 
-    <!-- 2024.07.25 -->
-    <a href="https://mp.weixin.qq.com/s/BmCxHPzAM0HJ7pcDMwDolQ" target="_blank">重磅！Mistral Large 2深夜发布！Llama3.1仅一天被超越，最强开源再易主</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/fSc0Szi-zO6YVwp2oV8Uhg" target="_blank">终于有人把大模型的内部一致性和自反馈讲明白了</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/M3dAx9PSP8x7NA1HC85zzA" target="_blank">减轻幻觉新SOTA，7B模型自迭代训练效果超越GPT-4，上海AI lab发布</a>
-    |
-    <!-- 2024.07.26 -->
-    <a href="https://mp.weixin.qq.com/s/zqQZzpZdLFwW6_VUohfZjw" target="_blank">免费不限次！智谱清影一上线就被玩疯了，国产AI视频生成卷起来了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/bnp6QyJ7eOnTSOs717N_eQ" target="_blank">谷歌再被OpenAI截胡？训练数学AI拿下IMO银牌，不及SearchGPT放了空响...</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/z5o_Hw-sgMVtIqZv3h-mwQ" target="_blank">AI浪潮下的“首届”奥运会！巴黎2024开幕在即，AI运动员助手、AI裁判员齐上场</a>
-    |
-    <!-- 2024.07.28 -->
-    <a href="https://mp.weixin.qq.com/s/VjuNGOmgJb7p3AodtlZEcA" target="_blank">密苏里大学许东：大模型时代，Prompt 为生物信息学研究带来新动力丨IJAIRR</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/HV4biaJ4cgPS3cq54Z8-sg" target="_blank">小模型狂飙！6家巨头争相发布小模型，Andrej Karpathy：大语言模型的尺寸竞争正在倒退...</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/z_x718kwKYFb_bfgQUkqag" target="_blank">华为诺亚发布无限上下文大模型，超越SoTA 4.3%</a>
-    |
-    <!-- 2024.07.29 -->
+- `2024.07.25`  重磅！Mistral Large 2深夜发布！Llama3.1仅一天被超越，最强开源再易主   **[[LINK](https://mp.weixin.qq.com/s/BmCxHPzAM0HJ7pcDMwDolQ)]** 
+
+- `2024.07.25`  终于有人把大模型的内部一致性和自反馈讲明白了   **[[LINK](https://mp.weixin.qq.com/s/fSc0Szi-zO6YVwp2oV8Uhg)]** 
+
+- `2024.07.25`  减轻幻觉新SOTA，7B模型自迭代训练效果超越GPT-4，上海AI lab发布   **[[LINK](https://mp.weixin.qq.com/s/M3dAx9PSP8x7NA1HC85zzA)]** 
+
+- `2024.07.26`  免费不限次！智谱清影一上线就被玩疯了，国产AI视频生成卷起来了   **[[LINK](https://mp.weixin.qq.com/s/zqQZzpZdLFwW6_VUohfZjw)]**
+
+- `2024.07.26`  谷歌再被OpenAI截胡？训练数学AI拿下IMO银牌，不及SearchGPT放了空响...   **[[LINK](https://mp.weixin.qq.com/s/bnp6QyJ7eOnTSOs717N_eQ)]**
+
+- `2024.07.26`  AI浪潮下的“首届”奥运会！巴黎2024开幕在即，AI运动员助手、AI裁判员齐上场   **[[LINK](https://mp.weixin.qq.com/s/z5o_Hw-sgMVtIqZv3h-mwQ)]**
+
+- `2024.07.28`  密苏里大学许东：大模型时代，Prompt 为生物信息学研究带来新动力丨IJAIRR   **[[LINK](https://mp.weixin.qq.com/s/VjuNGOmgJb7p3AodtlZEcA)]**
+
+- `2024.07.28`  小模型狂飙！6家巨头争相发布小模型，Andrej Karpathy：大语言模型的尺寸竞争正在倒退...   **[[LINK](https://mp.weixin.qq.com/s/HV4biaJ4cgPS3cq54Z8-sg)]**
+
+- `2024.07.28`  华为诺亚发布无限上下文大模型，超越SoTA 4.3%   **[[LINK](https://mp.weixin.qq.com/s/z_x718kwKYFb_bfgQUkqag)]**
+
 - `2024.07.29`  Apple intelligence 正式开启测试！第一波文本工具测试体验来啦！   **[[LINK](https://mp.weixin.qq.com/s/Js0Dvte5H7RsT4GsndGleA)]**
 
 - `2024.07.30`  一万亿token！34亿张图像，扩大10倍！史上最大开源多模态数据集MINT-1T发布！   **[[LINK](https://mp.weixin.qq.com/s/P4tl4X8vXUjktWc-LBxAWg)]** 
