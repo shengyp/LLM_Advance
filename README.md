@@ -2384,13 +2384,14 @@ This is a paper list for , which also cont.
 
 - `2024.05.13`  今日arXiv最热CV大模型论文：国产开源视觉大模型InternVL 1.5发布，赶超GPT-4V水准   **[[PDF](https://mp.weixin.qq.com/s/Ter_ekb_GSX2wcXRtBCenA)]**
 
-    <!-- 2024.05.14 -->     
-    <a href="https://mp.weixin.qq.com/s/yuD-7RFdiIshZsRwz85gCA" target="_blank">OpenAI爆炸更新：GPT-4免费了！新模型GPT-4o发布，视觉、语音能力大幅增强，速度起飞，API打骨折</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/zgXCo1P-zltQIH9OoTfkrA" target="_blank">今日arXiv最热大模型论文：减少语法错误，竟成了突破口！识别AI生成文本，AUROC达98.7%</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/NI4juWbm9jOjhK2hCM8KQA" target="_blank">牛皮吹破？大模型长输入能力不能拿来做上下文学习</a>
-    |
+- `2024.05.14`  OpenAI爆炸更新：GPT-4免费了！新模型GPT-4o发布，视觉、语音能力大幅增强，速度起飞，API打骨折   **[[PDF](https://mp.weixin.qq.com/s/yuD-7RFdiIshZsRwz85gCA)]**
+
+- `2024.05.14`  今日arXiv最热大模型论文：减少语法错误，竟成了突破口！识别AI生成文本，AUROC达98.7%   **[[PDF](https://mp.weixin.qq.com/s/zgXCo1P-zltQIH9OoTfkrA)]**
+
+- `2024.05.14`  牛皮吹破？大模型长输入能力不能拿来做上下文学习   **[[PDF](https://mp.weixin.qq.com/s/NI4juWbm9jOjhK2hCM8KQA)]**
+
+
+
     <!-- 2024.05.15 -->     
     <a href="https://mp.weixin.qq.com/s/pkAcMpxOGoHqiZ7MHaVpaA" target="_blank">终于！OpenAI首席科学家 Ilya 离职</a>
     |
@@ -2411,6 +2412,10 @@ This is a paper list for , which also cont.
     <!-- 2024.05.18 -->     
     <a href="https://mp.weixin.qq.com/s/9-FPj_EIFj418aHkiLIEKA" target="_blank">突发！OpenAI超级对齐团队老大自曝离职原因！牵出管理内幕</a>
     |
+
+
+
+
     <a href="https://mp.weixin.qq.com/s/dGTKoBzJRhrdSVMfTxYz5g" target="_blank">今日arXiv最热大模型论文：图灵测试中，GPT-4仍不及人类！</a>
     |
     <!-- 2024.05.20 -->     
@@ -2433,12 +2438,11 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/Zl2UUFVvfs0wkMjG6lFokQ" target="_blank">今日arXiv最热大模型论文：AI"参审"，论文评审迎来"神助攻"？</a>
     |
     <!-- 2024.05.24 -->     
-    <a href="https:xx" target="_blank">ICML2024高分论文！大模型计算效率暴涨至200%，来自中国AI公司</a>
-    |
     <a href="https://mp.weixin.qq.com/s/mVevNuhP6fZtODwaBDZYiA" target="_blank">今日arXiv最热大模型论文：LoRA又有新用途，学得少忘得也少，成持续学习关键！</a>
     |
     <a href="https://mp.weixin.qq.com/s/1SmShJnpZ4870BZ7Uvfc9A" target="_blank">大语言模型的创意"魔法"：召唤隐藏的联想思维</a>
     |
+- `2024.05.24`  ICML2024高分论文！大模型计算效率暴涨至200%，来自中国AI公司   **[[LINK](https://)]**
     <!-- 2024.05.25 -->     
     <a href="https://mp.weixin.qq.com/s/Y6WeiimYpDZ3AF_n-YRWNw" target="_blank">李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行</a>
     | 
@@ -2447,8 +2451,7 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/ufzGBqOX9GAqTZhNsc0Q0w" target="_blank">推特热帖：大语言模型自荐能够替代的20种人类工作！快来看你是否需要转行！</a>
     |
     <a href="https://mp.weixin.qq.com/s/5hxleiSLaaijgbO6dmeK4A" target="_blank">今日arXiv最热大模型论文：忘记"也是一门学问：机器如何忘记自己学到的知识？</a>
-    |
-    <!-- 2024.05.26 -->     
+    |   
 - `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[LINK](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
 
 - `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[LINK](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
@@ -2456,11 +2459,11 @@ This is a paper list for , which also cont.
 - `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[LINK](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
 
 - `2024.05.27`  上交提出TrustGAIN，提出6G网络中可信AIGC新模式！   **[[LINK](https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ)]**
-    <!-- 2024.05.28 -->     
-    <a href="https://m" target="_blank">我手握多篇顶会一作，引用量几百，却连个像样的博士offer都申请不到</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/E50Z_gomCYQQXbXUB15Yvw" target="_blank">马斯克xAI融资60亿美元，宣布打造世界第一超算中心，10万张H100GPU</a>
-    |
+
+- `2024.05.28`  我手握多篇顶会一作，引用量几百，却连个像样的博士offer都申请不到   **[[LINK](https://)]**
+
+- `2024.05.28`  马斯克xAI融资60亿美元，宣布打造世界第一超算中心，10万张H100GPU   **[[LINK](https://mp.weixin.qq.com/s/E50Z_gomCYQQXbXUB15Yvw)]**
+
     <!-- 2024.05.29 -->     
     <a href="https://mp.weixin.qq.com/s/DfBd3C1Of-TkKEhV5tvpOQ" target="_blank">今日arXiv最热NLP大模型论文：清华大学提出IFT对齐算法，打破SFT与RLHF局限性</a>
     |
@@ -2477,18 +2480,15 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/oXdj09kRJ3pFwJ0Qpi72_g" target="_blank"> 今日arXiv最热大模型论文：13位作者，200篇文献，腾讯最新综述高效多模态大模型：性能要强，规模要小</a>
     |
     <!-- 2024.05.30 -->     
-    <a href="https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw" target="_blank">清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片</a>
-    |
-    <a href="https://m" target="_blank">ChemLL</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/HoyeS7NSOsKnMXKGr1jrSA" target="_blank">告别人工！智谱AI新神器将数据标注成本卷到接近0</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/w4lgx6EojEk1OoJ29AYCtA" target="_blank">高效训练超越LoRA，北航发布MoRA</a>
-    |
-    <!-- 2024.06.01 -->     
-  - `2024.06.01`  GPT-4o遭破解！大神搞出越狱版本，OpenAI紧急封杀，安全小组被打脸   **[[LINK](https://mp.weixin.qq.com/s/y9Opp0dxrAQ4Ghi8LwmuAA)]**
+- `2024.05.30`  清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片   **[[LINK](https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw)]**
 
-  - `2024.06.01`  Anthropic公司CEO谈AI发展：Cluade安全超过商业利益   **[[LINK](https://mp.weixin.qq.com/s/0By4E0pI3PdWM1asvA83wg)]**
+- `2024.05.30`  告别人工！智谱AI新神器将数据标注成本卷到接近0   **[[LINK](https://mp.weixin.qq.com/s/HoyeS7NSOsKnMXKGr1jrSA)]**
+
+- `2024.05.30`  高效训练超越LoRA，北航发布MoRA   **[[LINK](https://mp.weixin.qq.com/s/w4lgx6EojEk1OoJ29AYCtA)]**
+   
+- `2024.06.01`  GPT-4o遭破解！大神搞出越狱版本，OpenAI紧急封杀，安全小组被打脸   **[[LINK](https://mp.weixin.qq.com/s/y9Opp0dxrAQ4Ghi8LwmuAA)]**
+
+- `2024.06.01`  Anthropic公司CEO谈AI发展：Cluade安全超过商业利益   **[[LINK](https://mp.weixin.qq.com/s/0By4E0pI3PdWM1asvA83wg)]**
 
     <!-- 2024.06.03 -->     
     <a href="https://mp.weixin.qq.com/s/hvHMKopEDAkhk5eyZe-DXg" target="_blank">抄袭瓜！斯坦福作者已删库跑路！面壁和刘知远老师的最新回应</a>
