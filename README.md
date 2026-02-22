@@ -2363,11 +2363,10 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/ptJSDjM80uCZ4hewcyQs9g" target="_blank">今日arXiv最热大模型论文：浙江大学：如何减轻视觉大模型中的幻觉问题</a>
     |
     <!-- 2024.05.10 -->     
-    <a href="https://mp.weixin.qq.com/s/FRA-NvgFG3LfbzQZQDg-lQ" target="_blank">Neuralink首个脑机接口患者：打游戏、搞研究两不误，重获自主能力</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/-1zkqjnlFA_6c8mjMPX62w" target="_blank">今日arXiv最热NLP大模型论文：NAACL24实锤语言学对大模型“负优化”，抽象语义表示+思维链有损表现</a>
-    |
-    <!-- 2024.05.11 -->     
+- `2024.05.10`  Neuralink首个脑机接口患者：打游戏、搞研究两不误，重获自主能力   **[[Link](https://mp.weixin.qq.com/s/FRA-NvgFG3LfbzQZQDg-lQ)]**
+
+- `2024.05.10`  今日arXiv最热NLP大模型论文：NAACL24实锤语言学对大模型“负优化”，抽象语义表示+思维链有损表现   **[[Link](https://mp.weixin.qq.com/s/-1zkqjnlFA_6c8mjMPX62w)]**
+    
 - `2024.05.11`  30%参数达到92%的表现，大模型稀疏化方法显神通   **[[Link](https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA)]**
 
 - `2024.05.11`  两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招   **[[Link](https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT)]**
@@ -2683,10 +2682,9 @@ This is a paper list for , which also cont.
 
 - `2024.07.13`  斯坦福提出大模型最强架构TTT，超越Transformers   **[[LINK](https://mp.weixin.qq.com/s/F6BivMB3CGe50TA4PSyVHA)]**
 
+- `2024.07.14`  孟晚舟：不要选择和机器竞争的职业，萝卜无人车会是特洛伊木马吗？   **[[LINK](https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg)]**
 
     <!-- 2024.07.14 -->
-    <a href="https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg" target="_blank">孟晚舟：不要选择和机器竞争的职业，萝卜无人车会是特洛伊木马吗？</a>
-    | 
     <a href="https://mp.weixin.qq.com/s/pAJXxr3wfvveEWnUhyRg6g" target="_blank">老外整了个领先的幻觉检测模型Lynx</a>
     |
     <!-- 2024.07.15 -->
@@ -2726,14 +2724,12 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/PSo7JclnG6m-qJank9-Y7w" target="_blank">清华大学联合斯坦福大学提出混合注意力机制MoA，大模型解码速率提高6倍</a>
     |
-    <!-- 2024.07.20 -->
-    <a href="https://mp.weixin.qq.com/s/8VNn1EP0EvM0IMp0MHkC_Q" target="_blank">杀毒软件打翻系统！微软史上最大规模蓝屏原因曝光，马斯克怒喷：这是史上最大的IT失败！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/4Yzdv55bfKmWkuNyapEUyg" target="_blank">哪些政策“操纵”着股市？电子科大用大模型模拟揭示股市涨跌背后的规律</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/UA6elWUX5irbF3q-bZ9mig" target="_blank">香港大学：教你如何一眼识破Sora合成的视频！</a>
-    |    
-    <!-- 2024.07.21 -->
+- `2024.07.20`  杀毒软件打翻系统！微软史上最大规模蓝屏原因曝光，马斯克怒喷：这是史上最大的IT失败！   **[[LINK](https://mp.weixin.qq.com/s/8VNn1EP0EvM0IMp0MHkC_Q)]**
+
+- `2024.07.20`  哪些政策“操纵”着股市？电子科大用大模型模拟揭示股市涨跌背后的规律   **[[LINK](https://mp.weixin.qq.com/s/4Yzdv55bfKmWkuNyapEUyg)]**
+
+- `2024.07.20`  香港大学：教你如何一眼识破Sora合成的视频！   **[[LINK](https://mp.weixin.qq.com/s/UA6elWUX5irbF3q-bZ9mig)]**
+
 - `2024.07.21`  IMO奥数中国憾失第一！浙江选手史皓嘉获全场唯一满分   **[[LINK](https://mp.weixin.qq.com/s/zrZM8cxTlvHwHxNMZFaZeA)]**
     
 - `2024.07.21`  CrowdStrike更新致850万Windows设备宕机，微软紧急救火！   **[[LINK](https://mp.weixin.qq.com/s/6RGyoDSbCoWv0ZMggdMGMw)]**
