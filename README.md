@@ -2748,13 +2748,12 @@ This is a paper list for , which also cont.
 
 - `2024.07.23`  ACL2024主会：中科院发布表格理解大模型Table-LLaVA，刷榜23项指标   **[[LINK](https://mp.weixin.qq.com/s/nEedz8_wb7qnvtd9ENBKOg)]**   
 
-    <!-- 2024.07.24 -->
-    <a href="https://mp.weixin.qq.com/s/rtmu5sdwK_rPndAaJKhjLQ" target="_blank">开源Llama 3.1一夜成最强大模型！超越闭源GPT-4o，OpenAI坐不住了</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/AvoooOlccIdqWCez_XO4mQ" target="_blank">ICML 2024十篇最佳论文开奖！贾扬清十年经典之作获时间检验奖</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/ndc4a8uKTlvJgUWtPkKXgg" target="_blank">复旦大学：没钱标数据的有福了！利用合成数据就能大幅提升大模型归纳推理能力</a>
-    | 
+- `2024.07.24`  开源Llama 3.1一夜成最强大模型！超越闭源GPT-4o，OpenAI坐不住了   **[[LINK](https://mp.weixin.qq.com/s/rtmu5sdwK_rPndAaJKhjLQ)]** 
+
+- `2024.07.24`  ICML 2024十篇最佳论文开奖！贾扬清十年经典之作获时间检验奖   **[[LINK](https://mp.weixin.qq.com/s/AvoooOlccIdqWCez_XO4mQ)]** 
+
+- `2024.07.24`  复旦大学：没钱标数据的有福了！利用合成数据就能大幅提升大模型归纳推理能力   **[[LINK](https://mp.weixin.qq.com/s/ndc4a8uKTlvJgUWtPkKXgg)]** 
+
     <!-- 2024.07.25 -->
     <a href="https://mp.weixin.qq.com/s/BmCxHPzAM0HJ7pcDMwDolQ" target="_blank">重磅！Mistral Large 2深夜发布！Llama3.1仅一天被超越，最强开源再易主</a>
     | 
