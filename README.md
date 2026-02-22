@@ -2413,9 +2413,6 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/9-FPj_EIFj418aHkiLIEKA" target="_blank">突发！OpenAI超级对齐团队老大自曝离职原因！牵出管理内幕</a>
     |
 
-
-
-
     <a href="https://mp.weixin.qq.com/s/dGTKoBzJRhrdSVMfTxYz5g" target="_blank">今日arXiv最热大模型论文：图灵测试中，GPT-4仍不及人类！</a>
     |
     <!-- 2024.05.20 -->     
@@ -2476,15 +2473,15 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/iewr5pfd_663U7L_-8ap6Q" target="_blank">长短时记忆RAG来啦，仿照人脑结构，成本降低20倍，表现提高20%！</a>
     |
-    <!-- 2024.05.31 -->     
-    <a href="https://mp.weixin.qq.com/s/oXdj09kRJ3pFwJ0Qpi72_g" target="_blank"> 今日arXiv最热大模型论文：13位作者，200篇文献，腾讯最新综述高效多模态大模型：性能要强，规模要小</a>
-    |
+
     <!-- 2024.05.30 -->     
 - `2024.05.30`  清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片   **[[LINK](https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw)]**
 
 - `2024.05.30`  告别人工！智谱AI新神器将数据标注成本卷到接近0   **[[LINK](https://mp.weixin.qq.com/s/HoyeS7NSOsKnMXKGr1jrSA)]**
 
 - `2024.05.30`  高效训练超越LoRA，北航发布MoRA   **[[LINK](https://mp.weixin.qq.com/s/w4lgx6EojEk1OoJ29AYCtA)]**
+
+- `2024.05.31`  今日arXiv最热大模型论文：13位作者，200篇文献，腾讯最新综述高效多模态大模型：性能要强，规模要小   **[[LINK](https://mp.weixin.qq.com/s/oXdj09kRJ3pFwJ0Qpi72_g)]**
    
 - `2024.06.01`  GPT-4o遭破解！大神搞出越狱版本，OpenAI紧急封杀，安全小组被打脸   **[[LINK](https://mp.weixin.qq.com/s/y9Opp0dxrAQ4Ghi8LwmuAA)]**
 
