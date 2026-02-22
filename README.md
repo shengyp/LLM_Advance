@@ -209,14 +209,12 @@ This is a paper list for , which also cont.
 - `2023.03.13`  ChatGPT让亚马逊梦碎！微软CEO狂贬语音助手   **[[LINK](https://mp.weixin.qq.com/s/mukaNxlLkCjaVGsa6Pqhuw)]**
 
 - `2023.03.13`  语言学巨头乔姆斯基评ChatGPT：缺乏任何智能的关键能力，追捧就是浪费资源   **[[LINK](https://mp.weixin.qq.com/s/jCB4Hg0OSV2uAfdYmYK-5Q)]** 
-  <!-- 3.14 --> 
-    <a href="https://mp.weixin.qq.com/s/mgxWigf5UrsAf3DIpb2AOw" target="_blank">ChatGPT三问：是什么、从哪来、去往哪？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ECo4vJuZdEzTTD3rGSFUhQ" target="_blank">ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源</a>
-    |
-    <a href="https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247545200&idx=2&sn=841715268d0613e305278e8b0d22eb3e&chksm=970f19a6a07890b072de9fa9407d188c9b80b18ef754c87ab60345ed0ac8e6ae4b1a99582993&scene=126&sessionid=1678957154&subscene=227&key=5099f4dd3766303d4613a285f14c61afbf7628466bb0da35da9aef257d8a46527b855d2f1f6d0248f201b023f2e944818e592b7a8b710f0fb4987476d2eb133c297481d317210d0da18143054e8154398495e0334528d9cb272d4abdce5082eadebc21662226c85669579c3015bb1fb1376fe7cb1cbf52c3e87b4eb047968bf4&ascene=0&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=6309001c&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQwPk%2BHDb22Sdd7j0Khzo%2B9xLbAQIE97dBBAEAAAAAAKaGLk0s3SgAAAAOpnltbLcz9gKNyK89dVj0Ca7muIpPdbBDQJ0VoOUYXqR87P%2FP%2FkuC467GBdDTrZjiraPHFsnjbUSqRvPdrvYu%2BUg9JrJlfTJEYX0ZrOfidxDiRmvfk0RMx5FqWpZizOE0WMPTpcCwMB1EOHG3dQcqq%2B2TrAJ2nHBNMfzef%2Bq8NQk5klrnxeIRpaBFWk8ZdLbJ2JbkX37NaFKOz3RSl75XtB5a1gp97BNyb1aVRssaaCCEg2TG2J4%2F%2FhwFhn9Uq8d09zWptQ%3D%3D&acctmode=0&pass_ticket=%2B4sMkpWSdgE7DVxPfLwwdiC0NJyLzer%2BjQUSarkDhq8DLddF4%2F7IPJTOPz%2FUp9CkSGFzWiTvvHAnvwOzvKRt%2Bg%3D%3D&wx_header=1&fontgear=2" target="_blank">惊呼！在Mac上可以跑LLaMA啦！附上详细教程</a>
-    |
 
+- `2023.03.14`  惊呼！在Mac上可以跑LLaMA啦！附上详细教程   **[[LINK](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247545200&idx=2&sn=841715268d0613e305278e8b0d22eb3e&chksm=970f19a6a07890b072de9fa9407d188c9b80b18ef754c87ab60345ed0ac8e6ae4b1a99582993&scene=126&sessionid=1678957154&subscene=227&key=5099f4dd3766303d4613a285f14c61afbf7628466bb0da35da9aef257d8a46527b855d2f1f6d0248f201b023f2e944818e592b7a8b710f0fb4987476d2eb133c297481d317210d0da18143054e8154398495e0334528d9cb272d4abdce5082eadebc21662226c85669579c3015bb1fb1376fe7cb1cbf52c3e87b4eb047968bf4&ascene=0&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=6309001c&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQwPk%2BHDb22Sdd7j0Khzo%2B9xLbAQIE97dBBAEAAAAAAKaGLk0s3SgAAAAOpnltbLcz9gKNyK89dVj0Ca7muIpPdbBDQJ0VoOUYXqR87P%2FP%2FkuC467GBdDTrZjiraPHFsnjbUSqRvPdrvYu%2BUg9JrJlfTJEYX0ZrOfidxDiRmvfk0RMx5FqWpZizOE0WMPTpcCwMB1EOHG3dQcqq%2B2TrAJ2nHBNMfzef%2Bq8NQk5klrnxeIRpaBFWk8ZdLbJ2JbkX37NaFKOz3RSl75XtB5a1gp97BNyb1aVRssaaCCEg2TG2J4%2F%2FhwFhn9Uq8d09zWptQ%3D%3D&acctmode=0&pass_ticket=%2B4sMkpWSdgE7DVxPfLwwdiC0NJyLzer%2BjQUSarkDhq8DLddF4%2F7IPJTOPz%2FUp9CkSGFzWiTvvHAnvwOzvKRt%2Bg%3D%3D&wx_header=1&fontgear=2)]** 
+
+- `2023.03.14`  ChatGPT三问：是什么、从哪来、去往哪？   **[[LINK](https://mp.weixin.qq.com/s/mgxWigf5UrsAf3DIpb2AOw)]**
+
+- `2023.03.14`  ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源   **[[LINK](https://mp.weixin.qq.com/s/ECo4vJuZdEzTTD3rGSFUhQ)]**
 
 - `2023.03.15`  【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API   **[[LINK](https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g)]**
 
@@ -246,16 +244,14 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/NtnZaL7sEVrhnMAaN64gYg" target="_blank">GPT-4不披露技术细节，马斯克批判其背离初心，OpenAI不“open“了</a>
     |
-  <!-- 3.18 --> 
-    <a href="https://mp.weixin.qq.com/s/dzvZc9t3eoL1BS8ofDTY1g" target="_blank">OpenChatKit：开源ChatGPT替代方案</a>
-    |
-  <!-- 3.19 --> 
-    <a href="https://mp.weixin.qq.com/s/FZuq6U5NrUR_HzKF2uCPjQ" target="_blank">张俊林：从GPT-4看LLM的技术发展趋势</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ZUiybuj73cgBIYDM90aE3Q" target="_blank">清华系ChatGPT发布！唐杰团队打造，专对中文优化，还能把握最新新闻动态</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/e_T16M13SR69ckEnavhFDQ" target="_blank">如何利用ChatGPT进行Rebuttal，搞科研！</a>
-    |
+- `2023.03.18`  OpenChatKit：开源ChatGPT替代方案   **[[LINK](https://mp.weixin.qq.com/s/dzvZc9t3eoL1BS8ofDTY1g)]**
+
+- `2023.03.19`  张俊林：从GPT-4看LLM的技术发展趋势   **[[LINK](https://mp.weixin.qq.com/s/FZuq6U5NrUR_HzKF2uCPjQ)]**
+
+- `2023.03.19`  清华系ChatGPT发布！唐杰团队打造，专对中文优化，还能把握最新新闻动态   **[[LINK](https://mp.weixin.qq.com/s/ZUiybuj73cgBIYDM90aE3Q)]**
+
+- `2023.03.19`  如何利用ChatGPT进行Rebuttal，搞科研！   **[[LINK](https://mp.weixin.qq.com/s/e_T16M13SR69ckEnavhFDQ)]**
+
   <!-- 3.20 --> 
     <a href="https://mp.weixin.qq.com/s/MmYi1i2O911lqd0tP-jBVg" target="_blank">【他山之石】田渊栋：关于GPT-4的一些感想</a>
     |
@@ -2555,22 +2551,19 @@ This is a paper list for , which also cont.
 - `2024.06.14`  一分钱没花！苹果与OpenAI合作没有支付任何费用，是谁赚了   **[[LINK](https://mp.weixin.qq.com/s/la0H7ZwgGOwGQkf-Dte_cA)]**
 
 - `2024.06.14`  Intel入局大模型，烧钱搜索130亿种网络结构，让LLaMa2瘦身30%   **[[LINK](https://mp.weixin.qq.com/s/99IxSR7q3JgQ0QxAKBv_CQ)]**
-    <!-- 2024.06.15 -->
-    <a href="https://mp.weixin.qq.com/s/SmVWOB4yAHWT1V98yvHn1Q" target="_blank">Stanford发布501页全球AI指数报告：中美两国引领世界，但有一项中国不如印度（附报告全文）</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/UWY58qDg514m9DWT8N4txg" target="_blank">突发！Sam Altman与OpenAI股东正式提出公司转型，成为营利性公司！！</a>
-    |
-    <!-- 2024.06.17 -->
+
+- `2024.06.15`  Stanford发布501页全球AI指数报告：中美两国引领世界，但有一项中国不如印度（附报告全文）   **[[LINK](https://mp.weixin.qq.com/s/SmVWOB4yAHWT1V98yvHn1Q)]** 
+
+- `2024.06.15`  突发！Sam Altman与OpenAI股东正式提出公司转型，成为营利性公司！！   **[[LINK](https://mp.weixin.qq.com/s/UWY58qDg514m9DWT8N4txg)]** 
+
 - `2024.06.17`  今日arXiv最热大模型论文：清华大学：一个简单缩放让大模型利用长上下文能力提升15.2%   **[[LINK](https://mp.weixin.qq.com/s/86vqhDddAXhAvFYpcFacbg)]** 
 
 - `2024.06.17`  3模型作者中国首讲！LLM 前世今生，AGI 是我们这代人的哥白尼革命丨2024智源大会回顾   **[[LINK](https://mp.weixin.qq.com/s/PSgLMknwJgid2csjPOucgA)]** 
 
-    <!-- 2024.06.18 -->
-    <a href="https://mp.weixin.qq.com/s/lKqUV-LFs-h4X5yFmdurZA" target="_blank">CoT out了！新加坡国立让符号逻辑在大模型推理中换发新春</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/Uq3BGRb3LsZIM_e20VzOMw" target="_blank">麻省理工开发一款AI「时光机器」，穿越未来和60岁自己对话，可显著减轻焦虑</a>
-    | 
-    <!-- 2024.06.19 -->
+- `2024.06.18`  CoT out了！新加坡国立让符号逻辑在大模型推理中换发新春   **[[LINK](https://mp.weixin.qq.com/s/lKqUV-LFs-h4X5yFmdurZA)]** 
+
+- `2024.06.18`  麻省理工开发一款AI「时光机器」，穿越未来和60岁自己对话，可显著减轻焦虑   **[[LINK](https://mp.weixin.qq.com/s/Uq3BGRb3LsZIM_e20VzOMw)]** 
+
 - `2024.06.19`  1块3090就能训7B大模型，山东大学低带宽低显存训练法，解决显卡限购卡脖子   **[[LINK](https://mp.weixin.qq.com/s/DP7KoyTulVRUJC9mTnZt9Q)]**
 
 - `2024.06.19`  英伟达创纪录，登顶全球市值第一！超越苹果和微软，剑指4万亿美元大关   **[[LINK](https://)]**
@@ -2637,8 +2630,7 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/qNVXcQIKDzYsJbXy0v_eCA" target="_blank">赢麻了！苹果再获OpenAI董事会观察员席位！0元白嫖ChatGPT，比肩微软</a>
     |
-    <a href="https://mp.weixin.qq.com/s/nrRZwvsxXW2TT_So2jlB-w" target="_blank">复旦大学：一个小技巧探测大模型的知识边界，有效消除幻觉</a>
-    |
+- `2024.07.03`  复旦大学：一个小技巧探测大模型的知识边界，有效消除幻觉   **[[LINK](https://mp.weixin.qq.com/s/nrRZwvsxXW2TT_So2jlB-w)]**
     <!-- 2024.07.04 -->
     <a href="https://mp.weixin.qq.com/s/e7yvnj9UK3KLcUkwnqjGaw" target="_blank">强强联合！当RAG遇到长上下文，滑铁卢大学发布LongRAG，效果领先GPT-4 Turbo 50%</a>
     |
