@@ -2561,20 +2561,19 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/UWY58qDg514m9DWT8N4txg" target="_blank">突发！Sam Altman与OpenAI股东正式提出公司转型，成为营利性公司！！</a>
     |
     <!-- 2024.06.17 -->
-    <a href="https://mp.weixin.qq.com/s/86vqhDddAXhAvFYpcFacbg" target="_blank">今日arXiv最热大模型论文：清华大学：一个简单缩放让大模型利用长上下文能力提升15.2%</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/PSgLMknwJgid2csjPOucgA" target="_blank">Llama 3模型作者中国首讲！LLM 前世今生，AGI 是我们这代人的哥白尼革命丨2024智源大会回顾</a>
-    |  
+- `2024.06.17`  今日arXiv最热大模型论文：清华大学：一个简单缩放让大模型利用长上下文能力提升15.2%   **[[LINK](https://mp.weixin.qq.com/s/86vqhDddAXhAvFYpcFacbg)]** 
+
+- `2024.06.17`  3模型作者中国首讲！LLM 前世今生，AGI 是我们这代人的哥白尼革命丨2024智源大会回顾   **[[LINK](https://mp.weixin.qq.com/s/PSgLMknwJgid2csjPOucgA)]** 
+
     <!-- 2024.06.18 -->
     <a href="https://mp.weixin.qq.com/s/lKqUV-LFs-h4X5yFmdurZA" target="_blank">CoT out了！新加坡国立让符号逻辑在大模型推理中换发新春</a>
     | 
     <a href="https://mp.weixin.qq.com/s/Uq3BGRb3LsZIM_e20VzOMw" target="_blank">麻省理工开发一款AI「时光机器」，穿越未来和60岁自己对话，可显著减轻焦虑</a>
     | 
     <!-- 2024.06.19 -->
-    <a href="https://mp.weixin.qq.com/s/DP7KoyTulVRUJC9mTnZt9Q" target="_blank">1块3090就能训7B大模型，山东大学低带宽低显存训练法，解决显卡限购卡脖子</a>
-    | 
-    <a href="https" target="_blank">英伟达创纪录，登顶全球市值第一！超越苹果和微软，剑指4万亿美元大关</a>
-    |
+- `2024.06.19`  1块3090就能训7B大模型，山东大学低带宽低显存训练法，解决显卡限购卡脖子   **[[LINK](https://mp.weixin.qq.com/s/DP7KoyTulVRUJC9mTnZt9Q)]**
+
+- `2024.06.19`  英伟达创纪录，登顶全球市值第一！超越苹果和微软，剑指4万亿美元大关   **[[LINK](https://)]**
     <!-- 2024.06.20 -->
     <a href="https:" target="_blank">正式开打！离开OpenAI一个月后，Ilya Sutskever成立了超级安全智能公司！</a>
     | 
@@ -2718,12 +2717,12 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/_UcBD-aD9Aky30X05qqzbA" target="_blank">上海AI lab开源LLaMAX，用3.5万小时的A100训练让大模型掌握上百种语言翻译</a>
     |
     <!-- 2024.07.19 -->
-    <a href="https://mp.weixin.qq.com/s/nYmkTgfbN27nkKKvKUzo_A" target="_blank">咦？我从GPT-4o mini身上看到了两家中国大模型厂商的影子</a>
-    |
     <a href="https://mp.weixin.qq.com/s/rP-NLJALxwMBlNeNIKEugw" target="_blank">OpenAI发起价格战邀请，百万输入tokens只需一块钱！</a>
     |
     <a href="https://mp.weixin.qq.com/s/PSo7JclnG6m-qJank9-Y7w" target="_blank">清华大学联合斯坦福大学提出混合注意力机制MoA，大模型解码速率提高6倍</a>
     |
+- `2024.07.19`  咦？我从GPT-4o mini身上看到了两家中国大模型厂商的影子   **[[LINK](https://mp.weixin.qq.com/s/nYmkTgfbN27nkKKvKUzo_A)]**
+
 - `2024.07.20`  杀毒软件打翻系统！微软史上最大规模蓝屏原因曝光，马斯克怒喷：这是史上最大的IT失败！   **[[LINK](https://mp.weixin.qq.com/s/8VNn1EP0EvM0IMp0MHkC_Q)]**
 
 - `2024.07.20`  哪些政策“操纵”着股市？电子科大用大模型模拟揭示股市涨跌背后的规律   **[[LINK](https://mp.weixin.qq.com/s/4Yzdv55bfKmWkuNyapEUyg)]**
