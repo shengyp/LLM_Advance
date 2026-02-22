@@ -1089,9 +1089,7 @@ This is a paper list for , which also cont.
     <!-- 7.15 -->
     <a href="https://mp.weixin.qq.com/s/Bo9svsFx0hoEYxPU8LCwJg" target="_blank"> ChatGLM2-6B，免费商用了！</a>
     |
-    <!-- 7.16 -->
-    <a href="https://mp.weixin.qq.com/s/AFZWUg6eTgs2oM1-Wl0omQ" target="_blank"> 《人民日报》：大模型的竞争，是国家科技战略的竞争</a>
-    |
+- `2023.07.16`  《人民日报》：大模型的竞争，是国家科技战略的竞争   **[[LINK](https://mp.weixin.qq.com/s/AFZWUg6eTgs2oM1-Wl0omQ)]**
     <!-- 7.17 -->
     <a href="https://mp.weixin.qq.com/s/bL7ufvKrCc5-rFh_CceKmA" target="_blank"> 谷歌Bard最新更新：支持中文，还升级了ChatGPT都没有的识图功能</a>
     |  
