@@ -1772,8 +1772,6 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/zsc9IDAd_qaNkFN4RKE9cw" target="_blank">这是GPT-4变笨的新解释</a>
     |
-
-
 - `2024.01.04`  吴恩达最新推出基于大模型的《AI高级检索》课程，限时免费白嫖！   **[[LINK](https://mp.weixin.qq.com/s/8GZPnm8tq2Dqgvj1iAfNAw)]**
     
 - `2024.01.04`  GPU短缺、Agent兴起、虚假信息扩散，李飞飞&斯坦福HAI对24年的AI预测   **[[LINK](https://mp.weixin.qq.com/s/oRY6RmCLtsppi3m7aTW0Vw)]**
@@ -2070,13 +2068,12 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/TAGWaQqBN0nLBN4Q1sts0Q" target="_blank">UC伯克利：用大模型预测未来，准确率超越人类！</a>
     |
-    <!-- 2024.03.15 --> 
-    <a href="https://mp.weixin.qq.com/s/EXoeLkI-AAYPDo8ZG1_7gg" target="_blank">谷歌Gemini：不建议未成年人接触 C++，太危险！Yann LeCun 和马斯克看到都笑了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/uVxl_QKDZe89ekMmSDMH_g" target="_blank">今日arXiv最热大模型论文：超越LoRA，北京大学提出预训练模型非梯度优化法</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/si9Q9xqFUy4lcNm_MMXeBg" target="_blank">马斯克 SpaceX 星舰第三次发射，好消息：没炸，顺利进入太空，坏消息：失联了</a>
-    |  
+- `2023.03.15`  谷歌Gemini：不建议未成年人接触 C++，太危险！Yann LeCun 和马斯克看到都笑了   **[[LINK](https://mp.weixin.qq.com/s/EXoeLkI-AAYPDo8ZG1_7gg)]**
+
+- `2023.03.15`  今日arXiv最热大模型论文：超越LoRA，北京大学提出预训练模型非梯度优化法   **[[LINK](https://mp.weixin.qq.com/s/uVxl_QKDZe89ekMmSDMH_g)]**
+
+- `2023.03.15`  马斯克 SpaceX 星舰第三次发射，好消息：没炸，顺利进入太空，坏消息：失联了   **[[LINK](https://mp.weixin.qq.com/s/si9Q9xqFUy4lcNm_MMXeBg)]**
+
 - `2023.03.16`  ‘抖音革命’背后的故事: TikTok法案风波可能影响其他应用！   **[[LINK](https://mp.weixin.qq.com/s/gcI5DBH2U1jE4PgA6hIFJg)]**
 
 - `2023.03.16`  今日arXiv最热NLP大模型论文：逆向解析Sora背后的秘密，谈AI视频的机遇与挑战   **[[LINK](https://mp.weixin.qq.com/s/e7FU1t1ax6f7SiEVuRMGQg)]**
@@ -2459,9 +2456,6 @@ This is a paper list for , which also cont.
 - `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[LINK](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
 
 - `2024.05.27`  上交提出TrustGAIN，提出6G网络中可信AIGC新模式！   **[[LINK](https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ)]**
-
-
-
     <!-- 2024.05.28 -->     
     <a href="https://m" target="_blank">我手握多篇顶会一作，引用量几百，却连个像样的博士offer都申请不到</a>
     |
