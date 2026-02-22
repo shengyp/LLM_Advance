@@ -218,15 +218,15 @@ This is a paper list for , which also cont.
     |
 
 
-  - `2023.03.15`  【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API   **[[LINK](https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g)]**
+- `2023.03.15`  【升级版ChatGPT-Plus】OpenAI震撼发布GPT4，并公布论文、System Card，开放API   **[[LINK](https://mp.weixin.qq.com/s/q-fyhRqLF9jmNvTDGIXA3g)]**
 
-  - `2023.03.15`  GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？   **[[LINK](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)]**
+- `2023.03.15`  GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？   **[[LINK](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)]**
 
-  - `2023.03.15`  【他山之石】GPT-4发布！史上最强大模型来了   **[[LINK](https://mp.weixin.qq.com/s/TnP4s2-ivmJnKcV79MjAtQ)]**
+- `2023.03.15`  【他山之石】GPT-4发布！史上最强大模型来了   **[[LINK](https://mp.weixin.qq.com/s/TnP4s2-ivmJnKcV79MjAtQ)]**
 
-  - `2023.03.15`  【上游新闻】漫谈ChatGPT|重庆大学大数据与软件学院院长：看好ChatGPT未来在软件开发中“代码智能”研究领域的潜力   **[[LINK](https://news.cqu.edu.cn/archives/medias/content/2023/03/03/c46908d2d41f34d665e249864e018badd8be32fd.html)]**
+- `2023.03.15`  【上游新闻】漫谈ChatGPT|重庆大学大数据与软件学院院长：看好ChatGPT未来在软件开发中“代码智能”研究领域的潜力   **[[LINK](https://news.cqu.edu.cn/archives/medias/content/2023/03/03/c46908d2d41f34d665e249864e018badd8be32fd.html)]**
 
-  - `2023.03.16`  GPT-4简单初体验，和ChatGPT试用效果对比   **[[LINK](https://mp.weixin.qq.com/s/wkTciKHC8jmYacvp3lg8xA)]**
+- `2023.03.16`  GPT-4简单初体验，和ChatGPT试用效果对比   **[[LINK](https://mp.weixin.qq.com/s/wkTciKHC8jmYacvp3lg8xA)]**
 
   <!-- 3.16 --> 
     <a href="https://www.toutiao.com/article/7211017714884706873/?app=news_article&timestamp=1678960564&use_new_style=1&req_id=20230316175603CD7B8F884F9DEC02F070&group_id=7211017714884706873&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=155f5bf7-2af1-4f38-8ab5-c83ae5b6be0d&source=m_redirect&wid=1678968052318" target="_blank">ChatGPT对律师业的冲击</a>
@@ -417,15 +417,15 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/iM7el66k7yrl-ZUKCpwz2g" target="_blank">ChatGPT在意大利被禁，OpenAI被限20天内补救</a>
     | 
-  - `2023.04.02`  中国人民大学卢志武：ChatGPT对多模态通用生成模型的重要启发   **[[LINK](https://mp.weixin.qq.com/s/kFFPORQOz6VP9F6rZHokyw)]**
+- `2023.04.02`  中国人民大学卢志武：ChatGPT对多模态通用生成模型的重要启发   **[[LINK](https://mp.weixin.qq.com/s/kFFPORQOz6VP9F6rZHokyw)]**
 
-  - `2023.04.02`  3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow   **[[LINK](https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww)]**
+- `2023.04.02`  3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow   **[[LINK](https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww)]**
 
-  - `2023.04.03`  智能化时代的软件工程：拥抱大模型的正确姿势   **[[LINK](https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA)]**
+- `2023.04.03`  智能化时代的软件工程：拥抱大模型的正确姿势   **[[LINK](https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA)]**
 
-  - `2023.04.03`  ChatGPT哲学之谜   **[[LINK](https://mp.weixin.qq.com/s/b6icSbY2OA7BAVbuR8DhCw)]**
+- `2023.04.03`  ChatGPT哲学之谜   **[[LINK](https://mp.weixin.qq.com/s/b6icSbY2OA7BAVbuR8DhCw)]**
 
-  - `2023.04.03`  SETalk精彩回顾：ChatGPT对软件工程的新机遇上篇（文末有完整视频回看）   **[[LINK](https://mp.weixin.qq.com/s/zXVI7sHkcR7pHZ7jzqXiiw)]**
+- `2023.04.03`  SETalk精彩回顾：ChatGPT对软件工程的新机遇上篇（文末有完整视频回看）   **[[LINK](https://mp.weixin.qq.com/s/zXVI7sHkcR7pHZ7jzqXiiw)]**
 
   <!-- 4.3 -->
     <a href="https://mp.weixin.qq.com/s/cmscJ6WHZKoiaUL4U5xvSA" target="_blank">130亿参数开源模型「小羊驼-Vicuna」来了！复刻ChatGPT九成功力，GPT-4亲自监考</a>
@@ -650,37 +650,37 @@ This is a paper list for , which also cont.
   <!-- 5.3 -->
     <a href="https://mp.weixin.qq.com/s/p5E4F7FkGxsl96zreHFSsw" target="_blank">万字长文讲述大模型与知识图谱的关系</a>
     |
-  - `2023.05.04`  哈工大自然语言处理研究所公开《ChatGPT调研报告》，内测哈工大“活字”对话大模型   **[[LINK](https://mp.weixin.qq.com/s/NyoSRvdk-_kVMbwQf2RgEQ)]**
+- `2023.05.04`  哈工大自然语言处理研究所公开《ChatGPT调研报告》，内测哈工大“活字”对话大模型   **[[LINK](https://mp.weixin.qq.com/s/NyoSRvdk-_kVMbwQf2RgEQ)]**
 
-  - `2023.05.04`  他山之石丨图灵奖得主LeCun：ChatGPT局限巨大，自回归模型寿命不超5年   **[[LINK](https://mp.weixin.qq.com/s/yu8aTglovZEvNqcUamclqg)]**
+- `2023.05.04`  他山之石丨图灵奖得主LeCun：ChatGPT局限巨大，自回归模型寿命不超5年   **[[LINK](https://mp.weixin.qq.com/s/yu8aTglovZEvNqcUamclqg)]**
 
-  - `2023.05.04`  后GPT时代，多模态是最大的机会   **[[LINK](https://mp.weixin.qq.com/s/CjwkWqgXFz6FaCqY_AE-Tw)]**
+- `2023.05.04`  后GPT时代，多模态是最大的机会   **[[LINK](https://mp.weixin.qq.com/s/CjwkWqgXFz6FaCqY_AE-Tw)]**
 
-  - `2023.05.05`  ChatGPT调研报告（2023）   **[[LINK](https://mp.weixin.qq.com/s/L3-Byo-DciVDrADwNmKQvg)]** 
+- `2023.05.05`  ChatGPT调研报告（2023）   **[[LINK](https://mp.weixin.qq.com/s/L3-Byo-DciVDrADwNmKQvg)]** 
 
-  - `2023.05.05`  ChatLLM Network: More brains, More intelligence   **[[LINK](https://mp.weixin.qq.com/s/JzGoH3n6ACFDzJhOkiOZlA)]** 
+- `2023.05.05`  ChatLLM Network: More brains, More intelligence   **[[LINK](https://mp.weixin.qq.com/s/JzGoH3n6ACFDzJhOkiOZlA)]** 
 
-  - `2023.05.05`  微软Bing突然爆炸级更新！BingChat全面开放，下一代搜索要来啦！   **[[LINK](https://mp.weixin.qq.com/s/OZjPnNE5aOOZqCQY6cG_fA)]** 
+- `2023.05.05`  微软Bing突然爆炸级更新！BingChat全面开放，下一代搜索要来啦！   **[[LINK](https://mp.weixin.qq.com/s/OZjPnNE5aOOZqCQY6cG_fA)]** 
 
-  - `2023.05.05`  UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5   **[[LINK](https://mp.weixin.qq.com/s/luro5hI-JajzVhw8Xw_gaQ)]** 
+- `2023.05.05`  UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5   **[[LINK](https://mp.weixin.qq.com/s/luro5hI-JajzVhw8Xw_gaQ)]** 
 
-  - `2023.05.06`  最新研究，GPT-4暴露了缺点！无法完全理解语言歧义！   **[[LINK](https://mp.weixin.qq.com/s/GimP7w9n4SKmba9WPV4MGQ)]** 
+- `2023.05.06`  最新研究，GPT-4暴露了缺点！无法完全理解语言歧义！   **[[LINK](https://mp.weixin.qq.com/s/GimP7w9n4SKmba9WPV4MGQ)]** 
 
-  - `2023.05.06`  离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的   **[[LINK](https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ)]** 
+- `2023.05.06`  离谱！最新研究：61%中国人写的英语论文，会被ChatGPT检测器判为AI生成的   **[[LINK](https://mp.weixin.qq.com/s/z7MMlO1vfE9hvmO8VpYMFQ)]** 
 
-  - `2023.05.07`  达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力   **[[LINK](https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA)]** 
+- `2023.05.07`  达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能力   **[[LINK](https://mp.weixin.qq.com/s/K7AODzfeeytw-_ye8dJzbA)]** 
 
-  - `2023.05.08`  他山之石丨复杂推理：大语言模型的北极星能力   **[[LINK](https://mp.weixin.qq.com/s/1kMFFtL9o1yEfkl_N-Q_kQ)]** 
+- `2023.05.08`  他山之石丨复杂推理：大语言模型的北极星能力   **[[LINK](https://mp.weixin.qq.com/s/1kMFFtL9o1yEfkl_N-Q_kQ)]** 
 
-  - `2023.05.08`  可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了   **[[LINK](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA)]** 
+- `2023.05.08`  可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了   **[[LINK](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA)]** 
 
-  - `2023.05.08`  大语言模型（LLM）分布式训练框架总结   **[[LINK](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA)]** 
+- `2023.05.08`  大语言模型（LLM）分布式训练框架总结   **[[LINK](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA)]** 
 
-  - `2023.05.08`  还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！   **[[LINK](https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg)]** 
+- `2023.05.08`  还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！   **[[LINK](https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg)]** 
 
-  - `2023.05.09`  FCS 2023｜数研院发表面向序贯决策任务的大模型算法综述   **[[LINK](https://mp.weixin.qq.com/s/QeAV6hOLAlfZgW_azTiCLw)]** 
+- `2023.05.09`  FCS 2023｜数研院发表面向序贯决策任务的大模型算法综述   **[[LINK](https://mp.weixin.qq.com/s/QeAV6hOLAlfZgW_azTiCLw)]** 
 
-  - `2023.05.09`  GPT-4 开始内测 32000 输入长度的版本了！你收到邀请了吗?   **[[LINK](https://mp.weixin.qq.com/s/NFWrTmJxAPNhrs6K8Ylj3w)]** 
+- `2023.05.09`  GPT-4 开始内测 32000 输入长度的版本了！你收到邀请了吗?   **[[LINK](https://mp.weixin.qq.com/s/NFWrTmJxAPNhrs6K8Ylj3w)]** 
 
    <!-- 5.10 -->
     <a href="https://mp.weixin.qq.com/s/elVSpp_pQKp_XCgWLmhwRQ" target="_blank">能看图、会聊天，还会跨模态推理和定位，能落地复杂场景的DetGPT来了</a>
@@ -1124,29 +1124,29 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/JsCoUcuCg4ylKkPMvNouEw" target="_blank"> 伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战</a>
     | 
 
-  - `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[LINK](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
+- `2023.07.26`  比StarCoder更强悍，AI代码助手CodeGeeX2-6B开源，ChatGLM2 为基座   **[[LINK](https://mp.weixin.qq.com/s/RLUB-6Wbb8w-oM5WLwvDCQ)]** 
 
-  - `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[LINK](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
+- `2023.07.26`  Attention机制竟有bug！Softmax是罪魁祸首，影响所有Transformer模型   **[[LINK](https://mp.weixin.qq.com/s/-PAgC9e_aASFdg_EFLSogA)]** 
 
-  - `2023.07.31`  谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型   **[[LINK](https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA)]** 
+- `2023.07.31`  谷歌 DeepMind 宣布推出 RT-2：全球第一个控制机器人的视觉 - 语言 - 动作（VLA）模型   **[[LINK](https://mp.weixin.qq.com/s/gsBgjVmtJdDvK5rhbFP9aA)]** 
 
-  - `2023.08.01`  中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据   **[[LINK](https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ)]**
+- `2023.08.01`  中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据   **[[LINK](https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ)]**
 
-  - `2023.08.01`  NewHope——具有99% GPT-4编程能力的开源模型   **[[LINK](https://zhuanlan.zhihu.com/p/647158457?utm_medium=social&utm_oi=35893092024320&utm_psn=1669809028556533760&utm_source=wechat_session&s_r=0)]**
+- `2023.08.01`  NewHope——具有99% GPT-4编程能力的开源模型   **[[LINK](https://zhuanlan.zhihu.com/p/647158457?utm_medium=social&utm_oi=35893092024320&utm_psn=1669809028556533760&utm_source=wechat_session&s_r=0)]**
 
-  - `2023.08.03`  谷歌创始人布林重返职场，投入研发AI杀手锏！预计下半年推出下一代通用模型『Gemini』，和OpenAI的终局之战！   **[[LINK](https://mp.weixin.qq.com/s/jHCbqgp5Do_rjkiTd2Ws_g)]**
+- `2023.08.03`  谷歌创始人布林重返职场，投入研发AI杀手锏！预计下半年推出下一代通用模型『Gemini』，和OpenAI的终局之战！   **[[LINK](https://mp.weixin.qq.com/s/jHCbqgp5Do_rjkiTd2Ws_g)]**
 
-  - `2023.08.03`  马毅、LeCun联合发布EMP-SSL，突破自监督学习效率极限   **[[LINK](https://mp.weixin.qq.com/s/LS6YWylk9r425YTvBJ0bYQ)]**
+- `2023.08.03`  马毅、LeCun联合发布EMP-SSL，突破自监督学习效率极限   **[[LINK](https://mp.weixin.qq.com/s/LS6YWylk9r425YTvBJ0bYQ)]**
  
-  - `2024.08.04`  权重量化对大模型涌现能力的影响   **[[LINK](https://mp.weixin.qq.com/s/bJ6Q1eKGuQTRg27hpMEEmA)]** 
+- `2024.08.04`  权重量化对大模型涌现能力的影响   **[[LINK](https://mp.weixin.qq.com/s/bJ6Q1eKGuQTRg27hpMEEmA)]** 
   
-  - `2024.08.08`  MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生   **[[LINK](https://mp.weixin.qq.com/s/PGsY3vXSdzWn7QFp-4yERw)]** 
+- `2024.08.08`  MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生   **[[LINK](https://mp.weixin.qq.com/s/PGsY3vXSdzWn7QFp-4yERw)]** 
 
-  - `2024.08.09`  OpenAI公布GPT4的爬虫工具-GPTBot，遵守爬虫协议，可用于模型训练   **[[LINK](https://mp.weixin.qq.com/s/8zf2nPZAN89jEDiEJN6ZuQ)]** 
+- `2024.08.09`  OpenAI公布GPT4的爬虫工具-GPTBot，遵守爬虫协议，可用于模型训练   **[[LINK](https://mp.weixin.qq.com/s/8zf2nPZAN89jEDiEJN6ZuQ)]** 
 
-  - `2024.08.09`  首个中文版大语言模型综述来了！   **[[LINK](https://mp.weixin.qq.com/s/UdI9UAe0Uqu48-OxQj_arQ)]** 
+- `2024.08.09`  首个中文版大语言模型综述来了！   **[[LINK](https://mp.weixin.qq.com/s/UdI9UAe0Uqu48-OxQj_arQ)]** 
 
-  - `2024.08.09`  ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！   **[[LINK](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw)]** 
+- `2024.08.09`  ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！   **[[LINK](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw)]** 
 
     <!-- 8.10 -->
     <a href="https://mp.weixin.qq.com/s/xBF6AUVMHE2BXqJlzukB2A" target="_blank">清华面壁智能推出大模型「最强工具全家桶」，接入16000+真实API，媲美ChatGPT</a>
@@ -1321,7 +1321,6 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/S09sJiZgsWhH5NiJPAt0tA" target="_blank">8个ChatGPT玩狼人杀，带节奏，装无辜，打掩护，一样不落</a>
     |  
     <a href="https://mp.weixin.qq.com/s/4V_40U92iQaaroc2XGbjjg" target="_blank">RACV2023观点集锦 | 大模型&ChatGPT对计算机视觉的影响</a>
-    |
     <a href="https://mp.weixin.qq.com/s/q7Afbz4YjwArA26B0buulw" target="_blank">4岁男孩3年求医17位专家无果，ChatGPT精准揪出病因</a>
     |
     <a href="https://mp.weixin.qq.com/s/kCQ2PHdI_yScbdhg4dErmA" target="_blank">特稿丨刘挺：从ChatGPT谈大语言模型及其应用</a>
@@ -2139,11 +2138,11 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/obxJxZvIra1aiOSy3RkYzA" target="_blank">Sora 究竟有多烧钱？Sora的推理与训练的计算成本被扒出来了</a>
     |
-  - `2024.03.27`  业界首次！搭载英伟达GPU，50倍性能提升！Zilliz发布Milvus 2.4向量数据库   **[[LINK](https://mp.weixin.qq.com/s/ik4AXccca4Xhe-Ef4rQxPQ)]**
+- `2024.03.27`  业界首次！搭载英伟达GPU，50倍性能提升！Zilliz发布Milvus 2.4向量数据库   **[[LINK](https://mp.weixin.qq.com/s/ik4AXccca4Xhe-Ef4rQxPQ)]**
 
-  - `2024.03.27`  究竟有多烧钱？Sora的推理与训练的计算成本被扒出来了   **[[LINK](https://mp.weixin.qq.com/s/obxJxZvIra1aiOSy3RkYzA)]**
+- `2024.03.27`  究竟有多烧钱？Sora的推理与训练的计算成本被扒出来了   **[[LINK](https://mp.weixin.qq.com/s/obxJxZvIra1aiOSy3RkYzA)]**
 
-  - `2024.03.27`  今日arXiv最热NLP大模型论文：微软：用大模型分析用户满意度，让智能系统更善解人意   **[[LINK](https://mp.weixin.qq.com/s/WIilIkg6GbSIqHtovLWMwg)]**
+- `2024.03.27`  今日arXiv最热NLP大模型论文：微软：用大模型分析用户满意度，让智能系统更善解人意   **[[LINK](https://mp.weixin.qq.com/s/WIilIkg6GbSIqHtovLWMwg)]**
 
     <!-- 2024.03.28 --> 
     <a href="https://mp.weixin.qq.com/s/1qvWjAREFGNISGTmR87YbA" target="_blank">比阿里EMO抢先开源！蔡徐坤“复出”唱RAP，腾讯AniPortrait让照片变视频，鬼畜区UP狂喜！看看哪家效果好</a>
@@ -2247,23 +2246,23 @@ This is a paper list for , which also cont.
     <!-- 2024.04.17 -->     
     <a href="https://mp.weixin.qq.com/s/wXZRL5AzPy68LcliugarWQ" target="_blank">H800竟然能白嫖了！还能一键部署Open Sora，潞晨云YYDS！</a>
     |
-  - `2024.04.17`  今日arXiv最热NLP大模型论文：斯坦福发布法律指令数据集LawInstruct，统一17个辖区24种语言   **[[LINK](https://mp.weixin.qq.com/s/lkv0YM9r-oWeQOpxSDDZjA)]**
+- `2024.04.17`  今日arXiv最热NLP大模型论文：斯坦福发布法律指令数据集LawInstruct，统一17个辖区24种语言   **[[LINK](https://mp.weixin.qq.com/s/lkv0YM9r-oWeQOpxSDDZjA)]**
 
-  - `2024.04.17`  离世界模型更近一步！Meta开源OpenEQA，评估AI Agent情景理解能力   **[[LINK](https://mp.weixin.qq.com/s/rsM4jtt_RdELxanobceqkQ)]**
+- `2024.04.17`  离世界模型更近一步！Meta开源OpenEQA，评估AI Agent情景理解能力   **[[LINK](https://mp.weixin.qq.com/s/rsM4jtt_RdELxanobceqkQ)]**
 
-  - `2024.04.18`  Stable Diffusion 3 API 发布！超越Midjourney v6和DALL-E 3   **[[LINK](https://mp.weixin.qq.com/s/0PmivxUXBwarKvUrAO_Uag)]**
+- `2024.04.18`  Stable Diffusion 3 API 发布！超越Midjourney v6和DALL-E 3   **[[LINK](https://mp.weixin.qq.com/s/0PmivxUXBwarKvUrAO_Uag)]**
 
-  - `2024.04.18`  波士顿动力抛弃液压机器人Atlas，推出全新电动化机器人，动作超灵活   **[[LINK](https://mp.weixin.qq.com/s/s-prTajnQzMTt1NFEM0gWg)]**
+- `2024.04.18`  波士顿动力抛弃液压机器人Atlas，推出全新电动化机器人，动作超灵活   **[[LINK](https://mp.weixin.qq.com/s/s-prTajnQzMTt1NFEM0gWg)]**
 
-  - `2024.04.19`  最强开源大模型 Llama 3震撼发布！开源模型将追上GPT-4，4000亿参数模型也在路上   **[[LINK](https://mp.weixin.qq.com/s/0bHnV1g3z7_CJG_6deOyuQ)]**
+- `2024.04.19`  最强开源大模型 Llama 3震撼发布！开源模型将追上GPT-4，4000亿参数模型也在路上   **[[LINK](https://mp.weixin.qq.com/s/0bHnV1g3z7_CJG_6deOyuQ)]**
 
-  - `2024.04.19`  微软刚刚发布了VASA-1：单张照片生成超现实真人视频，还没开源但是性能SOTA   **[[LINK](https://mp.weixin.qq.com/s/ViM1tgbOY8kiqGwASw2rPA)]**
+- `2024.04.19`  微软刚刚发布了VASA-1：单张照片生成超现实真人视频，还没开源但是性能SOTA   **[[LINK](https://mp.weixin.qq.com/s/ViM1tgbOY8kiqGwASw2rPA)]**
  
-  - `2024.04.20`  2024 QS排名发布！计算机MIT霸榜，清华11，北大15   **[[LINK](https://mp.weixin.qq.com/s/T-8WBSsMgpJa3NqN6Kpn4Q)]**
+- `2024.04.20`  2024 QS排名发布！计算机MIT霸榜，清华11，北大15   **[[LINK](https://mp.weixin.qq.com/s/T-8WBSsMgpJa3NqN6Kpn4Q)]**
     
-  - `2024.04.20`  今日arXiv最热NLP大模型论文：面向不确定性感知的Language Agent   **[[LINK](https://mp.weixin.qq.com/s/dMCg8RlPuUE_Cs4fvjTbjQ)]**
+- `2024.04.20`  今日arXiv最热NLP大模型论文：面向不确定性感知的Language Agent   **[[LINK](https://mp.weixin.qq.com/s/dMCg8RlPuUE_Cs4fvjTbjQ)]**
 
-  - `2024.04.21`  研究了两年后，我发现领域的开山之作是瞎编的   **[[LINK](https://mp.weixin.qq.com/s/rtFuez6SMThuT5eDDS_U7A)]**
+- `2024.04.21`  研究了两年后，我发现领域的开山之作是瞎编的   **[[LINK](https://mp.weixin.qq.com/s/rtFuez6SMThuT5eDDS_U7A)]**
 
     <!-- 2024.04.21 -->     
 
@@ -2372,21 +2371,21 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/-1zkqjnlFA_6c8mjMPX62w" target="_blank">今日arXiv最热NLP大模型论文：NAACL24实锤语言学对大模型“负优化”，抽象语义表示+思维链有损表现</a>
     |
     <!-- 2024.05.11 -->     
-  - `2024.05.11`  30%参数达到92%的表现，大模型稀疏化方法显神通   **[[Link](https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA)]**
+- `2024.05.11`  30%参数达到92%的表现，大模型稀疏化方法显神通   **[[Link](https://mp.weixin.qq.com/s/U53JtPQSpxQvHLJ7VLfWxA)]**
 
-  - `2024.05.11`  两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招   **[[Link](https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT)]**
+- `2024.05.11`  两重惊喜！奥特曼预告GPT-4和ChatGPT重大更新，Open AI要放大招   **[[Link](https://mp.weixin.qq.com/s/07mqb9F024MsF04xkgQmPQ?poc_token=HNYaSGajlu6wctDz8XUW4ROd0H41P0ImnF46fRHT)]**
 
-  - `2024.05.12`  真要这么卷？某国产大模型定价下调90%，百万 tokens 只需 1 元！   **[[Link](https://mp.weixin.qq.com/s/7MTELAEO8sdgI9eekTTT0w)]**
+- `2024.05.12`  真要这么卷？某国产大模型定价下调90%，百万 tokens 只需 1 元！   **[[Link](https://mp.weixin.qq.com/s/7MTELAEO8sdgI9eekTTT0w)]**
 
-  - `2024.05.12`  清华发布Temporal Scaling Law，解释时间尺度对大模型表现的影响   **[[Link](https://mp.weixin.qq.com/s/ltDj7mU9FezvkdokUzPxmA)]**
+- `2024.05.12`  清华发布Temporal Scaling Law，解释时间尺度对大模型表现的影响   **[[Link](https://mp.weixin.qq.com/s/ltDj7mU9FezvkdokUzPxmA)]**
 
-  - `2024.05.12`  今日arXiv最热NLP大模型论文：揭露大语言模型短板，北京大学提出事件推理测试基准   **[[Link](https://mp.weixin.qq.com/s/dX8X_VjFnAIBOCAIHvxEbg)]**
+- `2024.05.12`  今日arXiv最热NLP大模型论文：揭露大语言模型短板，北京大学提出事件推理测试基准   **[[Link](https://mp.weixin.qq.com/s/dX8X_VjFnAIBOCAIHvxEbg)]**
 
-  - `2024.05.13`  百万级ChatGPT对话曝光！AI竟然经常被"调戏"？   **[[PDF](https://mp.weixin.qq.com/s/srLx0nwIQHJbsrvfq5SdwA)]**
+- `2024.05.13`  百万级ChatGPT对话曝光！AI竟然经常被"调戏"？   **[[PDF](https://mp.weixin.qq.com/s/srLx0nwIQHJbsrvfq5SdwA)]**
 
-  - `2024.05.13`  从零开始手搓GPU，照着英伟达CUDA来，只用两个星期   **[[PDF](https://mp.weixin.qq.com/s/ndaXbtSNpuF645tFTddP6Q)]**
+- `2024.05.13`  从零开始手搓GPU，照着英伟达CUDA来，只用两个星期   **[[PDF](https://mp.weixin.qq.com/s/ndaXbtSNpuF645tFTddP6Q)]**
 
-  - `2024.05.13`  今日arXiv最热CV大模型论文：国产开源视觉大模型InternVL 1.5发布，赶超GPT-4V水准   **[[PDF](https://mp.weixin.qq.com/s/Ter_ekb_GSX2wcXRtBCenA)]**
+- `2024.05.13`  今日arXiv最热CV大模型论文：国产开源视觉大模型InternVL 1.5发布，赶超GPT-4V水准   **[[PDF](https://mp.weixin.qq.com/s/Ter_ekb_GSX2wcXRtBCenA)]**
 
     <!-- 2024.05.14 -->     
     <a href="https://mp.weixin.qq.com/s/yuD-7RFdiIshZsRwz85gCA" target="_blank">OpenAI爆炸更新：GPT-4免费了！新模型GPT-4o发布，视觉、语音能力大幅增强，速度起飞，API打骨折</a>
@@ -2453,13 +2452,13 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/5hxleiSLaaijgbO6dmeK4A" target="_blank">今日arXiv最热大模型论文：忘记"也是一门学问：机器如何忘记自己学到的知识？</a>
     |
     <!-- 2024.05.26 -->     
-  - `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[LINK](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
+- `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[LINK](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
 
-  - `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[LINK](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
+- `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[LINK](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
 
-  - `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[LINK](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
+- `2024.05.27`  今日arXiv最热大模型论文：上海AI lab发布MathBench，GPT-4o的数学能力有多强？   **[[LINK](https://mp.weixin.qq.com/s/S05HwSetTlb3AYOgnTBraA)]**
 
-  - `2024.05.27`  上交提出TrustGAIN，提出6G网络中可信AIGC新模式！   **[[LINK](https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ)]**
+- `2024.05.27`  上交提出TrustGAIN，提出6G网络中可信AIGC新模式！   **[[LINK](https://mp.weixin.qq.com/s/Gmy3A3YWJKROj0Tggo2xdQ)]**
 
 
 
@@ -2536,11 +2535,11 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/sIhuthR_4O3Ck8u9ucfLpw" target="_blank">GPT-4o仅排第二！北大港大等6所高校联手，发布权威多模态大模型榜单！</a>
     |      
     <!-- 2024.06.10 -->  
-  - `2024.06.10`  “我，在阿里月薪6万，端午离职后突然惊醒：人越努力，只会越平庸”   **[[LINK](https://mp.weixin.qq.com/s/UKNV9yQWB6d102IX8IhG9w)]**
+- `2024.06.10`  “我，在阿里月薪6万，端午离职后突然惊醒：人越努力，只会越平庸”   **[[LINK](https://mp.weixin.qq.com/s/UKNV9yQWB6d102IX8IhG9w)]**
 
-  - `2024.06.10`  OpenAI与核聚变公司寻求合作，白宫拨款1.8亿美元用于核聚变商业化研究   **[[LINK](https://mp.weixin.qq.com/s/xOOsxU1MtdyHwcLG-jUI4Q)]**
+- `2024.06.10`  OpenAI与核聚变公司寻求合作，白宫拨款1.8亿美元用于核聚变商业化研究   **[[LINK](https://mp.weixin.qq.com/s/xOOsxU1MtdyHwcLG-jUI4Q)]**
 
-  - `2024.06.10`  4000亿薪酬被驳回！马斯克再次讨薪   **[[LINK](https://mp.weixin.qq.com/s/B4iQA5fi1h_3beI5t64nJA)]**
+- `2024.06.10`  4000亿薪酬被驳回！马斯克再次讨薪   **[[LINK](https://mp.weixin.qq.com/s/B4iQA5fi1h_3beI5t64nJA)]**
 
     <!-- 2024.06.11 -->
     <a href="https://mp.weixin.qq.com/s/DSDGnDVO41jRjad2cusaQg" target="_blank">马斯克怒了，禁止员工使用苹果设备，抨击库克出卖数据给OpenAI</a>
@@ -2557,11 +2556,10 @@ This is a paper list for , which also cont.
     <!-- 2024.06.13 -->
 - `2024.06.13`  不用等Sora了！生成视频王者宝座易主！Luma效果完全碾压Sora，不用排队免费可用！   **[[LINK](https://mp.weixin.qq.com/s/pN48vnOx8nyblu2CT0xU1Q)]**
 
-    - `2024.06.13`  GPTs被终止！微软宣布删除所有GPTs数据   **[[LINK](https://mp.weixin.qq.com/s/rUfckzmnt4mjWJhm53pH0A)]**
+- `2024.06.13`  GPTs被终止！微软宣布删除所有GPTs数据   **[[LINK](https://mp.weixin.qq.com/s/rUfckzmnt4mjWJhm53pH0A)]**
 
-    - `2024.06.13`  ACL 2024: ChatGPT栽了！数据标注还得靠人类   **[[LINK](https://mp.weixin.qq.com/s/a7ah1WyZw4PXh2X-iiMrmQ)]**
+- `2024.06.13`  ACL 2024: ChatGPT栽了！数据标注还得靠人类   **[[LINK](https://mp.weixin.qq.com/s/a7ah1WyZw4PXh2X-iiMrmQ)]**
 
-    <!-- 2024.06.14 -->
 - `2024.06.14`  落魄宗门里的绝世高手！中专女生逆袭拿下数学竞赛全球第12名，比大模型还强不少   **[[LINK](https://mp.weixin.qq.com/s/VmCPYHk6cS9Y0doHRO5xhg)]**
 
 - `2024.06.14`  一分钱没花！苹果与OpenAI合作没有支付任何费用，是谁赚了   **[[LINK](https://mp.weixin.qq.com/s/la0H7ZwgGOwGQkf-Dte_cA)]**
