@@ -252,19 +252,18 @@ This is a paper list for , which also cont.
 
 - `2023.03.19`  如何利用ChatGPT进行Rebuttal，搞科研！   **[[LINK](https://mp.weixin.qq.com/s/e_T16M13SR69ckEnavhFDQ)]**
 
-  <!-- 3.20 --> 
-    <a href="https://mp.weixin.qq.com/s/MmYi1i2O911lqd0tP-jBVg" target="_blank">【他山之石】田渊栋：关于GPT-4的一些感想</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/PnSoJ4j8SlR4OOYzxPwECA" target="_blank">突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/7augcJN0upPkLIOWnNEfMg" target="_blank">他山之石丨GPT-4模型会开创哪些新的研究方向？ </a>
-    |
-    <a href="https://mp.weixin.qq.com/s/DUS4pc7izs9CS3Pmz3WMxg" target="_blank">微软提出MathPrompter，GPT3的数学推理水平直接干到人类水平</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/vOrw1W4tE5wRiiUAAVU6pQ" target="_blank">第一款基于GPT4的手机APP来啦，一键解读图片，颠覆生活</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/OM7XiKE4q1Y8m_d7O2FW1g" target="_blank">ChatGPT的10个平替项目，玩转AIGC</a>
-    |
+- `2023.03.20`  【他山之石】田渊栋：关于GPT-4的一些感想   **[[LINK](https://mp.weixin.qq.com/s/MmYi1i2O911lqd0tP-jBVg)]**
+
+- `2023.03.20`  突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才   **[[LINK](https://mp.weixin.qq.com/s/PnSoJ4j8SlR4OOYzxPwECA)]**
+
+- `2023.03.20`  他山之石丨GPT-4模型会开创哪些新的研究方向？   **[[LINK](https://mp.weixin.qq.com/s/7augcJN0upPkLIOWnNEfMg)]**
+
+- `2023.03.20`  微软提出MathPrompter，GPT3的数学推理水平直接干到人类水平   **[[LINK](https://mp.weixin.qq.com/s/DUS4pc7izs9CS3Pmz3WMxg)]**
+
+- `2023.03.20`  第一款基于GPT4的手机APP来啦，一键解读图片，颠覆生活  **[[LINK](https://mp.weixin.qq.com/s/vOrw1W4tE5wRiiUAAVU6pQ)]**
+
+- `2023.03.20`  ChatGPT的10个平替项目，玩转AIGC   **[[LINK](https://mp.weixin.qq.com/s/OM7XiKE4q1Y8m_d7O2FW1g)]**
+
 - `2023.03.20`  任正非最新谈中美、科技、ChatGPT   **[[LINK](https://mp.weixin.qq.com/s/OC95vSF8rpSuFRth79nzUw)]**
 
 - `2023.03.21`  ChatGPT崩了！全球宕机超12小时，打工人叫苦连天   **[[LINK](https://mp.weixin.qq.com/s/bctQc93slqYEu8UKaNhekg)]**
@@ -423,11 +422,11 @@ This is a paper list for , which also cont.
 
 - `2023.04.03`  SETalk精彩回顾：ChatGPT对软件工程的新机遇上篇（文末有完整视频回看）   **[[LINK](https://mp.weixin.qq.com/s/zXVI7sHkcR7pHZ7jzqXiiw)]**
 
-  <!-- 4.3 -->
-    <a href="https://mp.weixin.qq.com/s/cmscJ6WHZKoiaUL4U5xvSA" target="_blank">130亿参数开源模型「小羊驼-Vicuna」来了！复刻ChatGPT九成功力，GPT-4亲自监考</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/o51CmLt2JViJ4nsKfBJfwg" target="_blank">重磅！微软推出HuggingGPT：所有HuggingFace的模型都可以被ChatGPT随意调用！</a>
-    |   
+- `2023.04.03`  130亿参数开源模型「小羊驼-Vicuna」来了！复刻ChatGPT九成功力，GPT-4亲自监考   **[[LINK](https://mp.weixin.qq.com/s/cmscJ6WHZKoiaUL4U5xvSA)]**
+
+- `2023.04.03`  重磅！微软推出HuggingGPT：所有HuggingFace的模型都可以被ChatGPT随意调用！   **[[LINK](https://mp.weixin.qq.com/s/o51CmLt2JViJ4nsKfBJfwg)]**
+
+ 
   <!-- 4.4 -->
     <a href="https://mp.weixin.qq.com/s/6ZQ3MiaQFOuOUHXXU-pv6w" target="_blank">ChatGPT 类大语言模型为什么会带来“神奇”的涌现能力？</a>
     | 
