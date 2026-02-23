@@ -1138,18 +1138,15 @@ This is a paper list for , which also cont.
 
 - `2024.08.09`  ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！   **[[LINK](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw)]** 
 
-    <!-- 8.10 -->
-    <a href="https://mp.weixin.qq.com/s/xBF6AUVMHE2BXqJlzukB2A" target="_blank">清华面壁智能推出大模型「最强工具全家桶」，接入16000+真实API，媲美ChatGPT</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/5Ejc2JNefZK0lockU70l-Q" target="_blank">大模型的数据隐私问题有解了，浙江大学提出联邦大语言模型</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/mhXlBTQ_neNvCdVWw7q7_A" target="_blank">普林斯顿LK-99研究支持北大结果，38页论文提出铜替代铅或不可行</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/-qXAEgVMNuxtYAmEO5BoUQ" target="_blank">探索大语言模型在图学习上的潜力</a>
-    |
-    <!-- 8.11 -->
-    <a href="https://mp.weixin.qq.com/s/RDytoGLA7D8-KfKKwQje1g" target="_blank">大模型前沿动态：BiomedGPT、ArtGPT-4、Chain of Thought、INLP</a>
-    |
+- `2024.08.10`  清华面壁智能推出大模型「最强工具全家桶」，接入16000+真实API，媲美ChatGPT   **[[LINK](https://mp.weixin.qq.com/s/xBF6AUVMHE2BXqJlzukB2A)]** 
+
+- `2024.08.10`  大模型的数据隐私问题有解了，浙江大学提出联邦大语言模型   **[[LINK](https://mp.weixin.qq.com/s/5Ejc2JNefZK0lockU70l-Q)]** 
+
+- `2024.08.10`  普林斯顿LK-99研究支持北大结果，38页论文提出铜替代铅或不可行   **[[LINK](https://mp.weixin.qq.com/s/mhXlBTQ_neNvCdVWw7q7_A)]**
+
+- `2024.08.10`  探索大语言模型在图学习上的潜力   **[[LINK](https://mp.weixin.qq.com/s/-qXAEgVMNuxtYAmEO5BoUQ)]**
+
+- `2024.08.11`  大模型前沿动态：BiomedGPT、ArtGPT-4、Chain of Thought、INLP   **[[LINK](https://mp.weixin.qq.com/s/RDytoGLA7D8-KfKKwQje1g)]** 
     <!-- 8.12 -->
     <a href="https://mp.weixin.qq.com/s/L4cDiQkHDV99nvitW8XNzg" target="_blank">大模型MBTI测试来了！原来GPT-4是i型人格！ChatGPT是e型人格</a>
     |
@@ -1747,14 +1744,11 @@ This is a paper list for , which also cont.
     |
     <a href="https://" target="_blank">纽约时报起诉OpenAI和微软！要求销毁ChatGPT，索赔数十亿美元</a>
     | 
-    <!-- 12.29 --> 
-    <a href="https://mp.weixin.qq.com/s/0B3GEXmloEEZgi-0J0Lrvw" target="_blank">AAAI 2024：大模型如何掌握复杂工具？看孔子框架的教学之道</a>
-    |
-    <!-- 12.30 --> 
-    <a href="https://mp.weixin.qq.com/s/kpb86Nap6sqct6HqrtJc0g" target="_blank">回顾2023，那些令 AI 圈大地震的瞬间！ </a>
-    |
-    <a href="https://mp.weixin.qq.com/s/V_PGoAWHV99tMMuX22hWcg" target="_blank">GPT-4V“大翻车”！把海豹识别成狗！分不清炸鸡和泰迪，葫芦娃也数不明白...</a>
-    |     
+- `2023.12.29`  AAAI 2024：大模型如何掌握复杂工具？看孔子框架的教学之道   **[[LINK](https://mp.weixin.qq.com/s/0B3GEXmloEEZgi-0J0Lrvw)]**
+
+- `2023.12.30`  回顾2023，那些令 AI 圈大地震的瞬间！    **[[LINK](https://mp.weixin.qq.com/s/kpb86Nap6sqct6HqrtJc0g)]** 
+
+- `2023.12.30`  GPT-4V“大翻车”！把海豹识别成狗！分不清炸鸡和泰迪，葫芦娃也数不明白...    **[[LINK](https://mp.weixin.qq.com/s/V_PGoAWHV99tMMuX22hWcg)]**         
 
 - `2024.01.02`  肖仰华：走向千行百业的大模型   **[[LINK](https://mp.weixin.qq.com/s/hxDIDdUH86ltZl_kVRscVg)]**
 
@@ -2424,20 +2418,20 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/Zl2UUFVvfs0wkMjG6lFokQ" target="_blank">今日arXiv最热大模型论文：AI"参审"，论文评审迎来"神助攻"？</a>
     |
     <!-- 2024.05.24 -->     
-    <a href="https://mp.weixin.qq.com/s/mVevNuhP6fZtODwaBDZYiA" target="_blank">今日arXiv最热大模型论文：LoRA又有新用途，学得少忘得也少，成持续学习关键！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/1SmShJnpZ4870BZ7Uvfc9A" target="_blank">大语言模型的创意"魔法"：召唤隐藏的联想思维</a>
-    |
+- `2024.05.24`  今日arXiv最热大模型论文：LoRA又有新用途，学得少忘得也少，成持续学习关键！   **[[LINK](https://mp.weixin.qq.com/s/mVevNuhP6fZtODwaBDZYiA)]**
+
+- `2024.05.24`  大语言模型的创意"魔法"：召唤隐藏的联想思维   **[[LINK](https://mp.weixin.qq.com/s/1SmShJnpZ4870BZ7Uvfc9A)]**
+
 - `2024.05.24`  ICML2024高分论文！大模型计算效率暴涨至200%，来自中国AI公司   **[[LINK](https://)]**
-    <!-- 2024.05.25 -->     
-    <a href="https://mp.weixin.qq.com/s/Y6WeiimYpDZ3AF_n-YRWNw" target="_blank">李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/OFTFzou9VmYVY8J9icpyig" target="_blank">AI多模态「六边形战士」，原创音乐、1分钟百页PPT、抖音爆款……</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ufzGBqOX9GAqTZhNsc0Q0w" target="_blank">推特热帖：大语言模型自荐能够替代的20种人类工作！快来看你是否需要转行！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/5hxleiSLaaijgbO6dmeK4A" target="_blank">今日arXiv最热大模型论文：忘记"也是一门学问：机器如何忘记自己学到的知识？</a>
-    |   
+    
+- `2024.05.25`  李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行   **[[LINK](https://mp.weixin.qq.com/s/Y6WeiimYpDZ3AF_n-YRWNw)]**
+
+- `2024.05.25`  AI多模态「六边形战士」，原创音乐、1分钟百页PPT、抖音爆款……   **[[LINK](https://mp.weixin.qq.com/s/OFTFzou9VmYVY8J9icpyig)]**
+
+- `2024.05.25`  推特热帖：大语言模型自荐能够替代的20种人类工作！快来看你是否需要转行！   **[[LINK](https://mp.weixin.qq.com/s/ufzGBqOX9GAqTZhNsc0Q0w)]**
+
+- `2024.05.25`  今日arXiv最热大模型论文：忘记"也是一门学问：机器如何忘记自己学到的知识？   **[[LINK](https://mp.weixin.qq.com/s/5hxleiSLaaijgbO6dmeK4A)]**
+
 - `2024.05.26`  ChemLLM化学大模型开源，wisemodel社区在线体验，助力化学研究   **[[LINK](https://mp.weixin.qq.com/s/6UppT89MzaByU7Kukc4pGw)]**
 
 - `2024.05.27`  重磅！美国众议院新议案：限制中国人在美国从事AI/ML职业   **[[LINK](https://mp.weixin.qq.com/s/9-YBPbHChhYbnTvUZrkLAg)]**
@@ -2450,20 +2444,16 @@ This is a paper list for , which also cont.
 
 - `2024.05.28`  马斯克xAI融资60亿美元，宣布打造世界第一超算中心，10万张H100GPU   **[[LINK](https://mp.weixin.qq.com/s/E50Z_gomCYQQXbXUB15Yvw)]**
 
-    <!-- 2024.05.29 -->     
-    <a href="https://mp.weixin.qq.com/s/DfBd3C1Of-TkKEhV5tvpOQ" target="_blank">今日arXiv最热NLP大模型论文：清华大学提出IFT对齐算法，打破SFT与RLHF局限性</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/25bq-E-2iqx--6x64A2EoA" target="_blank">西湖大学提出AIGC检测框架，精准识别AI撰写的文稿</a>
-    |
-    <!-- 2024.05.30 -->     
-    <a href="https://mp.weixin.qq.com/s/HXspr9pFNRxPwX1JnkKLTg" target="_blank">终于，GPT-4o向所有人免费开放！评论区却“骂声一片”</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw" target="_blank">清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/iewr5pfd_663U7L_-8ap6Q" target="_blank">长短时记忆RAG来啦，仿照人脑结构，成本降低20倍，表现提高20%！</a>
-    |
+- `2024.05.29`  今日arXiv最热NLP大模型论文：清华大学提出IFT对齐算法，打破SFT与RLHF局限性   **[[LINK](https://mp.weixin.qq.com/s/DfBd3C1Of-TkKEhV5tvpOQ)]**
 
-    <!-- 2024.05.30 -->     
+- `2024.05.29`  西湖大学提出AIGC检测框架，精准识别AI撰写的文稿   **[[LINK](https://mp.weixin.qq.com/s/25bq-E-2iqx--6x64A2EoA)]**
+
+- `2024.05.30`  终于，GPT-4o向所有人免费开放！评论区却“骂声一片”  **[[LINK](https://mp.weixin.qq.com/s/HXspr9pFNRxPwX1JnkKLTg)]**
+
+- `2024.05.30`  清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片  **[[LINK](https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw)]**
+
+- `2024.05.30`  长短时记忆RAG来啦，仿照人脑结构，成本降低20倍，表现提高20%！  **[[LINK](https://mp.weixin.qq.com/s/iewr5pfd_663U7L_-8ap6Q)]**
+     
 - `2024.05.30`  清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片   **[[LINK](https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw)]**
 
 - `2024.05.30`  告别人工！智谱AI新神器将数据标注成本卷到接近0   **[[LINK](https://mp.weixin.qq.com/s/HoyeS7NSOsKnMXKGr1jrSA)]**
@@ -2694,19 +2684,18 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/WKZp5glpKapRN1fXbxs0CQ" target="_blank">首个WebAgent在线评测框架和流程数据管理平台来了，GPT-4、Qwen登顶闭源和开源榜首！</a>
     | 
     <!-- 2024.07.18 -->
-    <a href="https://mp.weixin.qq.com/s/85TOawIFQ6uZaGXR4Y2RCA" target="_blank">对话南洋理工大学安波教授：如何让大语言模型适应动态环境？丨IJAIRR</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/iJY7OEbCGW5aQypH8VmxCA" target="_blank">看了世界首个AI小姐选美大赛的结果，我开始有点担心未来的择偶市场</a>
-    |
     <a href="https://mp.weixin.qq.com/s/ZgyfF6Ax2n45M3JuhOKK6Q" target="_blank">OpenAI凌晨发布新研究成果！证明者和验证者无限套娃，大模型黑盒变可解释又近一大步！</a>
     |
     <a href="https://mp.weixin.qq.com/s/_UcBD-aD9Aky30X05qqzbA" target="_blank">上海AI lab开源LLaMAX，用3.5万小时的A100训练让大模型掌握上百种语言翻译</a>
     |
-    <!-- 2024.07.19 -->
-    <a href="https://mp.weixin.qq.com/s/rP-NLJALxwMBlNeNIKEugw" target="_blank">OpenAI发起价格战邀请，百万输入tokens只需一块钱！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/PSo7JclnG6m-qJank9-Y7w" target="_blank">清华大学联合斯坦福大学提出混合注意力机制MoA，大模型解码速率提高6倍</a>
-    |
+- `2024.07.18`  对话南洋理工大学安波教授：如何让大语言模型适应动态环境？丨IJAIRR   **[[LINK](https://mp.weixin.qq.com/s/85TOawIFQ6uZaGXR4Y2RCA)]**
+
+- `2024.07.18`  看了世界首个AI小姐选美大赛的结果，我开始有点担心未来的择偶市场   **[[LINK](https://mp.weixin.qq.com/s/iJY7OEbCGW5aQypH8VmxCA)]**
+
+- `2024.07.19`  OpenAI发起价格战邀请，百万输入tokens只需一块钱！   **[[LINK](https://mp.weixin.qq.com/s/rP-NLJALxwMBlNeNIKEugw)]**
+
+- `2024.07.19`  清华大学联合斯坦福大学提出混合注意力机制MoA，大模型解码速率提高6倍   **[[LINK](https://mp.weixin.qq.com/s/PSo7JclnG6m-qJank9-Y7w)]**
+
 - `2024.07.19`  咦？我从GPT-4o mini身上看到了两家中国大模型厂商的影子   **[[LINK](https://mp.weixin.qq.com/s/nYmkTgfbN27nkKKvKUzo_A)]**
 
 - `2024.07.20`  杀毒软件打翻系统！微软史上最大规模蓝屏原因曝光，马斯克怒喷：这是史上最大的IT失败！   **[[LINK](https://mp.weixin.qq.com/s/8VNn1EP0EvM0IMp0MHkC_Q)]**
