@@ -2011,11 +2011,10 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/vNMN4uxQQp2tgSB_ySUdwg" target="_blank">Claude 3 相比 GPT-4 到底强在哪？我整理了一份总结</a>
     |
-    <!-- 2024.03.08 --> 
-    <a href="https://mp.weixin.qq.com/s/cqZI_nvbJv4vyw6_QCWj7A" target="_blank">Sora 作者被曝读博期间仅发表两篇论文，我们是否需要重塑科研价值观?</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/EBxZRy3DjP0PqHw6Cj6MNA" target="_blank">今日arXiv最热大模型论文：北大发布,通过上下文提示，让大模型学习一门新的语言</a>
-    |
+- `2023.03.08`  Sora 作者被曝读博期间仅发表两篇论文，我们是否需要重塑科研价值观?   **[[LINK](https://mp.weixin.qq.com/s/cqZI_nvbJv4vyw6_QCWj7A)]**
+
+- `2023.03.08`  今日arXiv最热大模型论文：北大发布,通过上下文提示，让大模型学习一门新的语言   **[[LINK](https://mp.weixin.qq.com/s/EBxZRy3DjP0PqHw6Cj6MNA)]**
+
     <!-- 2024.03.09 --> 
     <a href="https://mp.weixin.qq.com/s/dvbvO4pPONIrq-XWSxrR8A" target="_blank">“下个月AI觉醒，杀死奥特曼...”好莱坞上线首部AI制作的电影，长达90分钟，取材终结者2</a>
     |
@@ -2271,12 +2270,12 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/cRGfYsSQqRwiDSVnDma8og" target="_blank">微软来大招：手机部署堪比GPT3.5高性能大模型！</a>
     |  
     <!-- 2024.04.25 -->     
-    <a href="https://mp.weixin.qq.com/s/BukV7fSbe4aSChki18YGDA" target="_blank">苹果推出开放语言模型 OpenELM；微软、清华团队提出多头混合专家 MH-MoE｜大模型论文</a>
-    |      
-    <a href="https://mp.weixin.qq.com/s/kpPioTcBx3ec1WfcSTmTjA" target="_blank">Open-Sora 全面开源升级：支持单镜头16s视频生成和720p分辨率</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/hP7C22F7AhJ0HFRPmGk2gA" target="_blank">微软发布！提示工程进化为位置工程，有效提升RAG与上下文学习</a>
-    |
+- `2024.04.25`  苹果推出开放语言模型 OpenELM；微软、清华团队提出多头混合专家 MH-MoE｜大模型论文   **[[LINK](https://mp.weixin.qq.com/s/BukV7fSbe4aSChki18YGDA)]**
+
+- `2024.04.25`  Open-Sora 全面开源升级：支持单镜头16s视频生成和720p分辨率   **[[LINK](https://mp.weixin.qq.com/s/kpPioTcBx3ec1WfcSTmTjA)]**
+
+- `2024.04.25`  微软发布！提示工程进化为位置工程，有效提升RAG与上下文学习   **[[LINK](https://mp.weixin.qq.com/s/hP7C22F7AhJ0HFRPmGk2gA)]**
+
     <!-- 2024.04.26 -->     
     <a href="https://mp.weixin.qq.com/s/3wq7h0yc1t6GodfdUUIqHg" target="_blank">网传Llama 3比肩GPT-4？别闹了</a>
     |
@@ -2373,8 +2372,6 @@ This is a paper list for , which also cont.
 
 - `2024.05.14`  牛皮吹破？大模型长输入能力不能拿来做上下文学习   **[[PDF](https://mp.weixin.qq.com/s/NI4juWbm9jOjhK2hCM8KQA)]**
 
-
-
     <!-- 2024.05.15 -->     
     <a href="https://mp.weixin.qq.com/s/pkAcMpxOGoHqiZ7MHaVpaA" target="_blank">终于！OpenAI首席科学家 Ilya 离职</a>
     |
@@ -2383,18 +2380,15 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/2jcCJyBPu3osEMuFrWOGig" target="_blank">今日arXiv最热NLP大模型论文：又到美国大选年，南加大教你如何用ChatGPT影响竞选</a>
     | 
     <!-- 2024.05.16 -->     
-    <a href="https://mp.weixin.qq.com/s/YlYGXEFRIrVbs2yyT5lZZg" target="_blank">GPT-4o炸裂玩法大赏！选股效率爆炸、创造新物种、暴打广告设计、金牌作业辅导...</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/mwQ1QOtLUJsfSwmGCpH08Q" target="_blank">今日arXiv最热NLP大模型论文：清华大学：大语言模型的常见词僻意理解能力竟不如中学生</a>
-    | 
-    <!-- 2024.05.17 -->     
-    <a href="https://mp.weixin.qq.com/s/tFsNWWY0yCg225ziOOjGPA" target="_blank">“AI届汪峰”谷歌的Astra是强势反击GPT-4o，还是又被抢了风头？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/_swf4LdMycaG5kl-RLbQ4Q" target="_blank">今日arXiv最热大模型论文：北大发布4维时空数据预训练，助力自动驾驶</a>
-    |   
-    <!-- 2024.05.18 -->     
-    <a href="https://mp.weixin.qq.com/s/9-FPj_EIFj418aHkiLIEKA" target="_blank">突发！OpenAI超级对齐团队老大自曝离职原因！牵出管理内幕</a>
-    |
+- `2024.05.16`  GPT-4o炸裂玩法大赏！选股效率爆炸、创造新物种、暴打广告设计、金牌作业辅导...   **[[PDF](https://mp.weixin.qq.com/s/YlYGXEFRIrVbs2yyT5lZZg)]** 
+
+- `2024.05.16`  今日arXiv最热NLP大模型论文：清华大学：大语言模型的常见词僻意理解能力竟不如中学生   **[[PDF](https://mp.weixin.qq.com/s/mwQ1QOtLUJsfSwmGCpH08Q)]** 
+
+- `2024.05.17`  “AI届汪峰”谷歌的Astra是强势反击GPT-4o，还是又被抢了风头？   **[[PDF](https://mp.weixin.qq.com/s/tFsNWWY0yCg225ziOOjGPA)]** 
+
+- `2024.05.17`  今日arXiv最热大模型论文：北大发布4维时空数据预训练，助力自动驾驶   **[[PDF](https://mp.weixin.qq.com/s/_swf4LdMycaG5kl-RLbQ4Q)]** 
+    
+- `2024.05.18`  突发！OpenAI超级对齐团队老大自曝离职原因！牵出管理内幕   **[[PDF](https://mp.weixin.qq.com/s/9-FPj_EIFj418aHkiLIEKA)]** 
 
     <a href="https://mp.weixin.qq.com/s/dGTKoBzJRhrdSVMfTxYz5g" target="_blank">今日arXiv最热大模型论文：图灵测试中，GPT-4仍不及人类！</a>
     |
