@@ -629,23 +629,20 @@ This is a paper list for , which also cont.
 
 - `2023.04.25`  ChatGPT VS Claude： 以Review MLIR Codegen代码为例   **[[LINK](https://mp.weixin.qq.com/s/ShQnYk8tvTkkDic52O6XJA)]**
 
-  <!-- 4.26 -->
-    <a href="https://mp.weixin.qq.com/s/uESytlnKnwsIA0JtrfiTyA" target="_blank">大模型跨界研究：计算精神病学发现，大模型居然比人类更焦虑</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/Suk3iCl2cbBxJtvuVi_2KQ" target="_blank">离视觉大一统更近一步，Meta又开源一组多用途大模型！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w" target="_blank">GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/DsCZ5jG4fndIYLhpskUXyA" target="_blank">大语言模型时代的知识工程 | TF97回顾</a>
-    |
-  <!-- 4.28 -->
-    <a href="https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw" target="_blank">用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/b88tyIxOinM_iVGPmYMxSg" target="_blank">用 直接攻击，越狱攻击，道德攻击……这样做，ChatGPT 就会泄漏你的隐私</a>
-    |
-  <!-- 5.3 -->
-    <a href="https://mp.weixin.qq.com/s/p5E4F7FkGxsl96zreHFSsw" target="_blank">万字长文讲述大模型与知识图谱的关系</a>
-    |
+- `2023.04.26`  大模型跨界研究：计算精神病学发现，大模型居然比人类更焦虑   **[[LINK](https://mp.weixin.qq.com/s/uESytlnKnwsIA0JtrfiTyA)]**
+
+- `2023.04.26`  离视觉大一统更近一步，Meta又开源一组多用途大模型！   **[[LINK](https://mp.weixin.qq.com/s/Suk3iCl2cbBxJtvuVi_2KQ)]**
+
+- `2023.04.26`  GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质   **[[LINK](https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w)]**
+
+- `2023.04.26`  大语言模型时代的知识工程 | TF97回顾   **[[LINK](https://mp.weixin.qq.com/s/DsCZ5jG4fndIYLhpskUXyA)]**
+
+- `2023.04.28`  用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？   **[[LINK](https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw)]**
+
+- `2023.04.28`  用 直接攻击，越狱攻击，道德攻击……这样做，ChatGPT 就会泄漏你的隐私   **[[LINK](https://mp.weixin.qq.com/s/b88tyIxOinM_iVGPmYMxSg)]**
+
+- `2023.05.03`  万字长文讲述大模型与知识图谱的关系   **[[LINK](https://mp.weixin.qq.com/s/p5E4F7FkGxsl96zreHFSsw)]**
+
 - `2023.05.04`  哈工大自然语言处理研究所公开《ChatGPT调研报告》，内测哈工大“活字”对话大模型   **[[LINK](https://mp.weixin.qq.com/s/NyoSRvdk-_kVMbwQf2RgEQ)]**
 
 - `2023.05.04`  他山之石丨图灵奖得主LeCun：ChatGPT局限巨大，自回归模型寿命不超5年   **[[LINK](https://mp.weixin.qq.com/s/yu8aTglovZEvNqcUamclqg)]**
@@ -1069,22 +1066,20 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/urw8UHPUgWQLaoHyvsDJXg" target="_blank">王炸！GPT-4 API 全面开放使用</a>
     |   
-    <!-- 7.10 -->
-    <a href="https://mp.weixin.qq.com/s/9WCvVj37_Nzdi8IL6SMg1g" target="_blank"> ChatGPT「代码解释器」正式解禁！30秒图片变视频，动嘴做表 | 十大惊人魔法全集</a>
-    |
+- `2023.07.10`  ChatGPT「代码解释器」正式解禁！30秒图片变视频，动嘴做表 | 十大惊人魔法全集   **[[LINK](https://mp.weixin.qq.com/s/9WCvVj37_Nzdi8IL6SMg1g)]**
+
 - `2023.07.11`  搞不定高考的ChatGPT，原来只有小学4年级水平   **[[LINK](https://mp.weixin.qq.com/s/EdSIJXHTsnxS25nCaOhLOw)]**
 
 - `2023.07.11`  地表最强Code Interpreter与Midjourney联动，5分做出大片，网友称「GPT-4.5」来了！   **[[LINK](https://mp.weixin.qq.com/s/ecdh84W_ZxJ5yoLA6YX8nw)]**
 
 - `2023.07.12`  GPT-4内幕大泄露！1.8万亿巨量参数，13万亿token训练，斥资6300万美元   **[[LINK](https://mp.weixin.qq.com/s/FK0Ff5h-MNAN655MH0I4yQ)]**      
-    <!-- 7.13 -->
-    <a href="https://mp.weixin.qq.com/s/GbsYAAi6qY1i0ofdTItrVw" target="_blank"> GPT-4 最强竞争对手，Claude 杀疯了！</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/MccNQeMh6bq_6izS1Y-9kQ" target="_blank"> ChatGPT最强竞品Claude-2重磅升级！知识更新到23年，代码数学显著提升，免费可用</a>
-    |
-    <!-- 7.15 -->
-    <a href="https://mp.weixin.qq.com/s/Bo9svsFx0hoEYxPU8LCwJg" target="_blank"> ChatGLM2-6B，免费商用了！</a>
-    |
+
+- `2023.07.13` GPT-4 最强竞争对手，Claude 杀疯了！   **[[LINK](https://mp.weixin.qq.com/s/GbsYAAi6qY1i0ofdTItrVw)]** 
+
+- `2023.07.13` ChatGPT最强竞品Claude-2重磅升级！知识更新到23年，代码数学显著提升，免费可用   **[[LINK](https://mp.weixin.qq.com/s/MccNQeMh6bq_6izS1Y-9kQ)]** 
+
+- `2023.07.15`  ChatGLM2-6B，免费商用了！   **[[LINK](https://mp.weixin.qq.com/s/Bo9svsFx0hoEYxPU8LCwJg)]**
+
 - `2023.07.16`  《人民日报》：大模型的竞争，是国家科技战略的竞争   **[[LINK](https://mp.weixin.qq.com/s/AFZWUg6eTgs2oM1-Wl0omQ)]**
     <!-- 7.17 -->
     <a href="https://mp.weixin.qq.com/s/bL7ufvKrCc5-rFh_CceKmA" target="_blank"> 谷歌Bard最新更新：支持中文，还升级了ChatGPT都没有的识图功能</a>
@@ -1761,13 +1756,13 @@ This is a paper list for , which also cont.
     |
     <a href="https://mp.weixin.qq.com/s/V_PGoAWHV99tMMuX22hWcg" target="_blank">GPT-4V“大翻车”！把海豹识别成狗！分不清炸鸡和泰迪，葫芦娃也数不明白...</a>
     |     
-    <!-- 2024.01.02 --> 
-    <a href="https://mp.weixin.qq.com/s/hxDIDdUH86ltZl_kVRscVg" target="_blank">肖仰华：走向千行百业的大模型</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/0sMKVOHYY__6HeaNEsSMMg" target="_blank">谷歌发布Prompt Expansion框架，让文生图更轻松！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/zsc9IDAd_qaNkFN4RKE9cw" target="_blank">这是GPT-4变笨的新解释</a>
-    |
+
+- `2024.01.02`  肖仰华：走向千行百业的大模型   **[[LINK](https://mp.weixin.qq.com/s/hxDIDdUH86ltZl_kVRscVg)]**
+
+- `2024.01.02`  谷歌发布Prompt Expansion框架，让文生图更轻松！   **[[LINK](https://mp.weixin.qq.com/s/0sMKVOHYY__6HeaNEsSMMg)]**
+
+- `2024.01.02`  这是GPT-4变笨的新解释   **[[LINK](https://mp.weixin.qq.com/s/zsc9IDAd_qaNkFN4RKE9cw)]**
+
 - `2024.01.04`  吴恩达最新推出基于大模型的《AI高级检索》课程，限时免费白嫖！   **[[LINK](https://mp.weixin.qq.com/s/8GZPnm8tq2Dqgvj1iAfNAw)]**
     
 - `2024.01.04`  GPU短缺、Agent兴起、虚假信息扩散，李飞飞&斯坦福HAI对24年的AI预测   **[[LINK](https://mp.weixin.qq.com/s/oRY6RmCLtsppi3m7aTW0Vw)]**
