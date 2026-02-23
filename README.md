@@ -2650,35 +2650,30 @@ This is a paper list for , which also cont.
 
 - `2024.07.14`  孟晚舟：不要选择和机器竞争的职业，萝卜无人车会是特洛伊木马吗？   **[[LINK](https://mp.weixin.qq.com/s/n6xmhLeNYo99Evtc2Ghnbg)]**
 
-    <!-- 2024.07.14 -->
-    <a href="https://mp.weixin.qq.com/s/pAJXxr3wfvveEWnUhyRg6g" target="_blank">老外整了个领先的幻觉检测模型Lynx</a>
-    |
-    <!-- 2024.07.15 -->
-    <a href="https://mp.weixin.qq.com/s/Gn0qOGklSBbitBv26AMO6w" target="_blank">和顶尖人类作家的文学对决，GPT-4 Turbo惨败！</a>
-    |   
-    <a href="https://mp.weixin.qq.com/s/QUfgNTPARNrLMcvqo9BmQg" target="_blank">英国剑桥大学开发AI工具，老年痴呆症预测准确率比标准高三倍！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/CJR8i6EoTdX5yLQPygmzSw" target="_blank">OpenAI华人女科学家万字详解大模型「外在幻觉」</a>
-    | 
-    <!-- 2024.07.16 -->
-    <a href="https://mp.weixin.qq.com/s/3Vfx87dBjTlaw5t2SVf3kA" target="_blank">Reddit传疯的Claude 3.5 Artifacts 的核心系统提示词！Code效果猛增</a>
-    |   
-    <a href="https://mp.weixin.qq.com/s/bVUHAw8wd3aMjxsHbJs3ow" target="_blank">30B！每秒100tokens！这是AMD对AI PC的“幻想时间”</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/H1ls-_PrYla_MYldqXFVzQ" target="_blank">大模型集体失智！9.11和9.9哪个大，几乎全翻车了</a>
-    |     
-    <!-- 2024.07.17 -->
-    <a href="https://mp.weixin.qq.com/s/qAcJDpl5P7ptNjhuZbctug" target="_blank">AI+教育！前OpenAI联创Andrej Karpathy官宣创业！创办第一所AI原生学校原创</a>
-    |   
-    <a href="https://mp.weixin.qq.com/s/WKZp5glpKapRN1fXbxs0CQ" target="_blank">Prompt工程师要下岗了！北大发布Prompt自动增强系统PAS，超越SOTA</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/WKZp5glpKapRN1fXbxs0CQ" target="_blank">首个WebAgent在线评测框架和流程数据管理平台来了，GPT-4、Qwen登顶闭源和开源榜首！</a>
-    | 
-    <!-- 2024.07.18 -->
-    <a href="https://mp.weixin.qq.com/s/ZgyfF6Ax2n45M3JuhOKK6Q" target="_blank">OpenAI凌晨发布新研究成果！证明者和验证者无限套娃，大模型黑盒变可解释又近一大步！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/_UcBD-aD9Aky30X05qqzbA" target="_blank">上海AI lab开源LLaMAX，用3.5万小时的A100训练让大模型掌握上百种语言翻译</a>
-    |
+- `2024.07.14`  老外整了个领先的幻觉检测模型Lynx   **[[LINK](https://mp.weixin.qq.com/s/pAJXxr3wfvveEWnUhyRg6g)]**
+
+- `2024.07.15`  和顶尖人类作家的文学对决，GPT-4 Turbo惨败！   **[[LINK](https://mp.weixin.qq.com/s/Gn0qOGklSBbitBv26AMO6w)]**
+
+- `2024.07.15`  英国剑桥大学开发AI工具，老年痴呆症预测准确率比标准高三倍！   **[[LINK](https://mp.weixin.qq.com/s/QUfgNTPARNrLMcvqo9BmQg)]**
+
+- `2024.07.15`  OpenAI华人女科学家万字详解大模型「外在幻觉」   **[[LINK](https://mp.weixin.qq.com/s/CJR8i6EoTdX5yLQPygmzSw)]**
+
+- `2024.07.16`  Reddit传疯的Claude 3.5 Artifacts 的核心系统提示词！Code效果猛增   **[[LINK](https://mp.weixin.qq.com/s/3Vfx87dBjTlaw5t2SVf3kA)]**
+
+- `2024.07.16`  30B！每秒100tokens！这是AMD对AI PC的“幻想时间”   **[[LINK](https://mp.weixin.qq.com/s/bVUHAw8wd3aMjxsHbJs3ow)]**
+
+- `2024.07.16`  大模型集体失智！9.11和9.9哪个大，几乎全翻车了   **[[LINK](https://mp.weixin.qq.com/s/H1ls-\_PrYla\_MYldqXFVzQ)]**
+
+- `2024.07.17`  AI+教育！前OpenAI联创Andrej Karpathy官宣创业！创办第一所AI原生学校原创   **[[LINK](https://mp.weixin.qq.com/s/qAcJDpl5P7ptNjhuZbctug)]**
+    
+- `2024.07.17`  Prompt工程师要下岗了！北大发布Prompt自动增强系统PAS，超越SOTA   **[[LINK](https://mp.weixin.qq.com/s/WKZp5glpKapRN1fXbxs0CQ)]**
+
+- `2024.07.17`  首个WebAgent在线评测框架和流程数据管理平台来了，GPT-4、Qwen登顶闭源和开源榜首！   **[[LINK](https://mp.weixin.qq.com/s/WKZp5glpKapRN1fXbxs0CQ)]**
+
+- `2024.07.18`  OpenAI凌晨发布新研究成果！证明者和验证者无限套娃，大模型黑盒变可解释又近一大步！   **[[LINK](https://mp.weixin.qq.com/s/ZgyfF6Ax2n45M3JuhOKK6Q)]**
+
+- `2024.07.18`  上海AI lab开源LLaMAX，用3.5万小时的A100训练让大模型掌握上百种语言翻译   **[[LINK](https://mp.weixin.qq.com/s/_UcBD-aD9Aky30X05qqzbA)]**
+
 - `2024.07.18`  对话南洋理工大学安波教授：如何让大语言模型适应动态环境？丨IJAIRR   **[[LINK](https://mp.weixin.qq.com/s/85TOawIFQ6uZaGXR4Y2RCA)]**
 
 - `2024.07.18`  看了世界首个AI小姐选美大赛的结果，我开始有点担心未来的择偶市场   **[[LINK](https://mp.weixin.qq.com/s/iJY7OEbCGW5aQypH8VmxCA)]**
