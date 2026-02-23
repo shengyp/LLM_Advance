@@ -2372,14 +2372,12 @@ This is a paper list for , which also cont.
 
 - `2024.05.14`  牛皮吹破？大模型长输入能力不能拿来做上下文学习   **[[PDF](https://mp.weixin.qq.com/s/NI4juWbm9jOjhK2hCM8KQA)]**
 
-    <!-- 2024.05.15 -->     
-    <a href="https://mp.weixin.qq.com/s/pkAcMpxOGoHqiZ7MHaVpaA" target="_blank">终于！OpenAI首席科学家 Ilya 离职</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/_LQ1S6COHOCD3Eq1axH-dw" target="_blank">谷歌这次又“杀疯了”！200万token长文本能力问鼎全球最强，一场大会，AI被提了120次</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/2jcCJyBPu3osEMuFrWOGig" target="_blank">今日arXiv最热NLP大模型论文：又到美国大选年，南加大教你如何用ChatGPT影响竞选</a>
-    | 
-    <!-- 2024.05.16 -->     
+- `2024.05.15`  终于！OpenAI首席科学家 Ilya 离职   **[[PDF](https://mp.weixin.qq.com/s/pkAcMpxOGoHqiZ7MHaVpaA)]**
+    
+- `2024.05.15`  谷歌这次又“杀疯了”！200万token长文本能力问鼎全球最强，一场大会，AI被提了120次   **[[PDF](https://mp.weixin.qq.com/s/_LQ1S6COHOCD3Eq1axH-dw)]**
+
+- `2024.05.15`  今日arXiv最热NLP大模型论文：又到美国大选年，南加大教你如何用ChatGPT影响竞选   **[[PDF](https://mp.weixin.qq.com/s/2jcCJyBPu3osEMuFrWOGig)]**
+    
 - `2024.05.16`  GPT-4o炸裂玩法大赏！选股效率爆炸、创造新物种、暴打广告设计、金牌作业辅导...   **[[PDF](https://mp.weixin.qq.com/s/YlYGXEFRIrVbs2yyT5lZZg)]** 
 
 - `2024.05.16`  今日arXiv最热NLP大模型论文：清华大学：大语言模型的常见词僻意理解能力竟不如中学生   **[[PDF](https://mp.weixin.qq.com/s/mwQ1QOtLUJsfSwmGCpH08Q)]** 
@@ -2390,8 +2388,7 @@ This is a paper list for , which also cont.
     
 - `2024.05.18`  突发！OpenAI超级对齐团队老大自曝离职原因！牵出管理内幕   **[[PDF](https://mp.weixin.qq.com/s/9-FPj_EIFj418aHkiLIEKA)]** 
 
-    <a href="https://mp.weixin.qq.com/s/dGTKoBzJRhrdSVMfTxYz5g" target="_blank">今日arXiv最热大模型论文：图灵测试中，GPT-4仍不及人类！</a>
-    |
+
     <!-- 2024.05.20 -->     
     <a href="https://mp.weixin.qq.com/s/jitFy1odxJIPV0QEB3WqYg" target="_blank">爆打多模态王者 GPT-4V、Gemini Pro！这个小小端侧模型杀疯了！</a>
     |
@@ -2460,6 +2457,10 @@ This is a paper list for , which also cont.
 
 - `2024.06.01`  Anthropic公司CEO谈AI发展：Cluade安全超过商业利益   **[[LINK](https://mp.weixin.qq.com/s/0By4E0pI3PdWM1asvA83wg)]**
 
+- `2024.06.01`  今日arXiv最热大模型论文：图灵测试中，GPT-4仍不及人类！   **[[LINK](https://mp.weixin.qq.com/s/dGTKoBzJRhrdSVMfTxYz5g)]**
+
+- `2024.06.01`  Anthropic公司CEO谈AI发展：Cluade安全超过商业利益   **[[LINK](https://mp.weixin.qq.com/s/0By4E0pI3PdWM1asvA83wg)]**
+
     <!-- 2024.06.03 -->     
     <a href="https://mp.weixin.qq.com/s/hvHMKopEDAkhk5eyZe-DXg" target="_blank">抄袭瓜！斯坦福作者已删库跑路！面壁和刘知远老师的最新回应</a>
     |
@@ -2505,19 +2506,16 @@ This is a paper list for , which also cont.
 
 - `2024.06.10`  4000亿薪酬被驳回！马斯克再次讨薪   **[[LINK](https://mp.weixin.qq.com/s/B4iQA5fi1h_3beI5t64nJA)]**
 
-    <!-- 2024.06.11 -->
-    <a href="https://mp.weixin.qq.com/s/DSDGnDVO41jRjad2cusaQg" target="_blank">马斯克怒了，禁止员工使用苹果设备，抨击库克出卖数据给OpenAI</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/0VKAkPo4fDpJNn-6jDiYhg" target="_blank">一夜之间，苹果杀死无数AI工具创业公司！GPT-4o深度整合进苹果</a>
-    | 
-    <!-- 2024.06.12 -->
-    <a href="https://mp.weixin.qq.com/s/joeCvQCQso5oQj9xsH5JLQ" target="_blank">辟谣！Apple Intelligence背后的基础模型不是GPT-4o，而是苹果自研，仅3B，多模型</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/XfoD6INP-nC3Nth9tPKuHg" target="_blank">ICML 2024 哈佛大学最新研究：越强的大模型越不懂人类</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/Co5PV5fGS85XV7-NHWdzoA" target="_blank">复旦字节强强联手，量身定制多模态思维链，让7B模型全面超越GPT-4V</a>
-    |
-    <!-- 2024.06.13 -->
+- `2024.06.11`  马斯克怒了，禁止员工使用苹果设备，抨击库克出卖数据给OpenAI   **[[LINK](https://mp.weixin.qq.com/s/DSDGnDVO41jRjad2cusaQg)]**
+
+- `2024.06.11`  一夜之间，苹果杀死无数AI工具创业公司！GPT-4o深度整合进苹果   **[[LINK](https://mp.weixin.qq.com/s/0VKAkPo4fDpJNn-6jDiYhg)]**
+
+- `2024.06.12`  辟谣！Apple Intelligence背后的基础模型不是GPT-4o，而是苹果自研，仅3B，多模型   **[[LINK](https://mp.weixin.qq.com/s/joeCvQCQso5oQj9xsH5JLQ)]**
+
+- `2024.06.12`  ICML 2024 哈佛大学最新研究：越强的大模型越不懂人类   **[[LINK](https://mp.weixin.qq.com/s/XfoD6INP-nC3Nth9tPKuHg)]**
+
+- `2024.06.12`  复旦字节强强联手，量身定制多模态思维链，让7B模型全面超越GPT-4V   **[[LINK](https://mp.weixin.qq.com/s/Co5PV5fGS85XV7-NHWdzoA)]**
+
 - `2024.06.13`  不用等Sora了！生成视频王者宝座易主！Luma效果完全碾压Sora，不用排队免费可用！   **[[LINK](https://mp.weixin.qq.com/s/pN48vnOx8nyblu2CT0xU1Q)]**
 
 - `2024.06.13`  GPTs被终止！微软宣布删除所有GPTs数据   **[[LINK](https://mp.weixin.qq.com/s/rUfckzmnt4mjWJhm53pH0A)]**
@@ -2609,14 +2607,13 @@ This is a paper list for , which also cont.
     <a href="https://mp.weixin.qq.com/s/qNVXcQIKDzYsJbXy0v_eCA" target="_blank">赢麻了！苹果再获OpenAI董事会观察员席位！0元白嫖ChatGPT，比肩微软</a>
     |
 - `2024.07.03`  复旦大学：一个小技巧探测大模型的知识边界，有效消除幻觉   **[[LINK](https://mp.weixin.qq.com/s/nrRZwvsxXW2TT_So2jlB-w)]**
-    <!-- 2024.07.04 -->
-    <a href="https://mp.weixin.qq.com/s/e7yvnj9UK3KLcUkwnqjGaw" target="_blank">强强联合！当RAG遇到长上下文，滑铁卢大学发布LongRAG，效果领先GPT-4 Turbo 50%</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/G7WOglYssAEzaZj7mVS83A" target="_blank">Runway凭借Gen-3 Alpha估值将达到40亿美金，为日常性收入的160倍！！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/522-Vx796M3qoXyds2wDyQ" target="_blank">法国创业团队抢先OpenAI发布Her！主打公开免费，Pytorch之父马斯克围观</a>
-    |
-    <!-- 2024.07.06 -->
+
+- `2024.07.04`  强强联合！当RAG遇到长上下文，滑铁卢大学发布LongRAG，效果领先GPT-4 Turbo 50%   **[[LINK](https://mp.weixin.qq.com/s/e7yvnj9UK3KLcUkwnqjGaw)]**
+
+- `2024.07.04`  Runway凭借Gen-3 Alpha估值将达到40亿美金，为日常性收入的160倍！！   **[[LINK](https://mp.weixin.qq.com/s/G7WOglYssAEzaZj7mVS83A)]**
+
+- `2024.07.04`  法国创业团队抢先OpenAI发布Her！主打公开免费，Pytorch之父马斯克围观   **[[LINK](https://mp.weixin.qq.com/s/522-Vx796M3qoXyds2wDyQ)]**
+
 - `2024.07.06`  又一家技术+产品双杀的大模型创业公司！一款测试，让其WAIC大会展位火爆   **[[LINK](https://mp.weixin.qq.com/s/ccowcipzBp11Dr5ppXU5GA)]**
 
 - `2024.07.06`  参数更新量仅为LoRA的5%，性能不减反升！南加大提出高效精调法LaMDA   **[[LINK](https://mp.weixin.qq.com/s/H8mQxtpRj0P8sRnkCg0bIg)]**
