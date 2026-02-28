@@ -226,24 +226,22 @@ This is a paper list for , which also cont.
 
 - `2023.03.16`  GPT-4简单初体验，和ChatGPT试用效果对比   **[[LINK](https://mp.weixin.qq.com/s/wkTciKHC8jmYacvp3lg8xA)]**
 
-  <!-- 3.16 --> 
-    <a href="https://www.toutiao.com/article/7211017714884706873/?app=news_article&timestamp=1678960564&use_new_style=1&req_id=20230316175603CD7B8F884F9DEC02F070&group_id=7211017714884706873&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=155f5bf7-2af1-4f38-8ab5-c83ae5b6be0d&source=m_redirect&wid=1678968052318" target="_blank">ChatGPT对律师业的冲击</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/f63Olx2UuVQacQhp8ooLGA" target="_blank">斯坦福发布大模型Alpaca：A100上训3小时，性能比较GPT-3.5，被挤爆！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/Nzaj64BjfnGTDycA_v65YA" target="_blank">谷歌宣布开放PaLM API，可在浏览器内操作，终于可以尝试大模型啦</a>
-    |
-  <!-- 3.17 --> 
-    <a href="https://mp.weixin.qq.com/s/rRaw376VRJr3xnaSrxHhzQ" target="_blank">体验过百度文心一言，也许真会超出你的预期（5个邀请码）</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/b8iuuuaEoVxJg4zEq_snXg" target="_blank">复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/_1NKn1QmoAc7-aDH3TuhFw" target="_blank">微软深夜放炸弹！GPT-4 Office全家桶发布，10亿打工人被革命！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/e5oSuAVumzPXyicC1yUxcg" target="_blank">张俊林：GPT-4 模型会开创哪些新的研究方向？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/NtnZaL7sEVrhnMAaN64gYg" target="_blank">GPT-4不披露技术细节，马斯克批判其背离初心，OpenAI不“open“了</a>
-    |
+- `2023.03.16`  ChatGPT对律师业的冲击   **[[LINK](https://www.toutiao.com/article/7211017714884706873/?app=news_article&timestamp=1678960564&use_new_style=1&req_id=20230316175603CD7B8F884F9DEC02F070&group_id=7211017714884706873&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=155f5bf7-2af1-4f38-8ab5-c83ae5b6be0d&source=m_redirect&wid=1678968052318)]**
+
+- `2023.03.16`  斯坦福发布大模型Alpaca：A100上训3小时，性能比较GPT-3.5，被挤爆！   **[[LINK](https://mp.weixin.qq.com/s/f63Olx2UuVQacQhp8ooLGA)]**
+
+- `2023.03.16`  谷歌宣布开放PaLM API，可在浏览器内操作，终于可以尝试大模型啦   **[[LINK](https://mp.weixin.qq.com/s/Nzaj64BjfnGTDycA_v65YA)]**
+
+- `2023.03.17`  体验过百度文心一言，也许真会超出你的预期（5个邀请码）   **[[LINK](https://mp.weixin.qq.com/s/rRaw376VRJr3xnaSrxHhzQ)]**
+
+- `2023.03.17`  复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术   **[[LINK](https://mp.weixin.qq.com/s/b8iuuuaEoVxJg4zEq_snXg)]**
+
+- `2023.03.17`  微软深夜放炸弹！GPT-4 Office全家桶发布，10亿打工人被革命！   **[[LINK](https://mp.weixin.qq.com/s/_1NKn1QmoAc7-aDH3TuhFw)]**
+
+- `2023.03.17`  张俊林：GPT-4 模型会开创哪些新的研究方向？   **[[LINK](https://mp.weixin.qq.com/s/e5oSuAVumzPXyicC1yUxcg)]**
+
+- `2023.03.17`  GPT-4不披露技术细节，马斯克批判其背离初心，OpenAI不“open“了   **[[LINK](https://mp.weixin.qq.com/s/NtnZaL7sEVrhnMAaN64gYg)]**
+
 - `2023.03.18`  OpenChatKit：开源ChatGPT替代方案   **[[LINK](https://mp.weixin.qq.com/s/dzvZc9t3eoL1BS8ofDTY1g)]**
 
 - `2023.03.19`  张俊林：从GPT-4看LLM的技术发展趋势   **[[LINK](https://mp.weixin.qq.com/s/FZuq6U5NrUR_HzKF2uCPjQ)]**
@@ -268,150 +266,135 @@ This is a paper list for , which also cont.
 
 - `2023.03.21`  ChatGPT崩了！全球宕机超12小时，打工人叫苦连天   **[[LINK](https://mp.weixin.qq.com/s/bctQc93slqYEu8UKaNhekg)]**
 
+- `2023.03.21` 深挖GPT-4背后的技术方向，华人开发者成绩斐然   **[[LINK](https://mp.weixin.qq.com/s/nzYBqIaGIWB5558sQkDSNQ)]**
 
-  <!-- 3.21 --> 
-    <a href="https://mp.weixin.qq.com/s/nzYBqIaGIWB5558sQkDSNQ" target="_blank">深挖GPT-4背后的技术方向，华人开发者成绩斐然</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/lbWsWSLoOGtzcTgzJavJAw" target="_blank">OpenAI重磅研究：ChatGPT可能影响80%工作岗位，收入越高影响越大</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/8ipgu-WGO1rpHaiv7O9SHA" target="_blank">文心一言的魔性作图，我头都笑掉了...</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/IuLlR0c9ZYBuOuBm3y9ejQ" target="_blank">基于ChatGPT的生物医药知识抽取测评</a>
-    |
-  <!-- 3.22 --> 
-    <a href="https://mp.weixin.qq.com/s/UowaksuKvsdz4Kly8uaLZw" target="_blank">最卷一夜！Google版 ChatGPT 开放、英伟达又投下核弹显卡……一觉醒来AI又变天了</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/Q2n0upUF-5kU6u-NFejmFg" target="_blank">危！GPT将影响80%工作岗位，挣得越多越危险？OpenAI发布重磅研究</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/fQJh9r47fQ25-kOUclnf2A" target="_blank">弥补斯坦福70亿参数「羊驼」短板，精通中文的大模型来了，已开源</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/rR2hgqeS2i445J_R_1ejgA" target="_blank">谷歌正式开放「Bard」试用，很遗憾。。</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/RAGrEAFqko4IcnUt5cCZcg" target="_blank">产业级文心大模型ERNIE-UIE在金融监管场景中的应用</a>
-    |
-    <a href="https://www.toutiao.com/article/7213261622469607992/?app=news_article&timestamp=1679579120&use_new_style=1&req_id=202303232145193AE94C4FED7A3220A1B1&group_id=7213261622469607992&wxshare_count=3&tt_from=weixin_moments&utm_source=weixin_moments&utm_medium=toutiao_android&utm_campaign=client_share&share_token=897f6d9c-1d7f-459c-ac76-8f3b13027ee3&source=m_redirect&wid=1679587324167" target="_blank">GPT-4太强，OpenAI也不懂！智能到底是怎么突然「涌现」的？</a>
-    |
+- `2023.03.21` OpenAI重磅研究：ChatGPT可能影响80%工作岗位，收入越高影响越大   **[[LINK](https://mp.weixin.qq.com/s/lbWsWSLoOGtzcTgzJavJAw)]**
 
-  <!-- 3.23 -->
-    <a href="https://mp.weixin.qq.com/s/PVcagh4wza5MRM0afMVDBw" target="_blank">ChatGPT这么牛，我们应该如何兼顾发展和治理？</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/iuI9cnXu0fteh0CBdeDT0g" target="_blank">他山之石丨从谷歌与OpenAI的战争来看AI人才的重要性</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/QgpBa5HF3zaF1thexhT2-g" target="_blank">GPT-4的前世、今生和未来！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/bZyybWvZgHXsjuJAd5hgng" target="_blank">英伟达发布ChatGPT专用GPU，性能提升10倍，还推出云服务，普通企业也能训练LLM</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/iquNVFiz6QobZt44rtEqEg" target="_blank">当GPT-4学会看图文，一场生产力革命已势不可挡</a>
-    |
-  <!-- 3.24 -->
-    <a href="https://mp.weixin.qq.com/s/Rh1j47aVoAAtd5cLX3hhrA" target="_blank">ChatGPT全宇宙大爆炸！开启联网解除封印，无敌插件彻底颠覆体验</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/aJdJHoT7hWzFccfSCDTFaA" target="_blank">ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/JMYjN4wi4YSF2bFBu-CNOA" target="_blank">陆首群：ChatGPT不开源是说不过去的</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/-ySMKmclVSlpWUhrsfbdHQ" target="_blank">Github官宣新一代Copilot X，集成GPT-4的编码神器！动动嘴就能开发</a>
-    |   
-    <a href="https://mp.weixin.qq.com/s/vCtlbP_BZOKvi3TXnqP--w" target="_blank">ChatGPT重磅升级，可以联网、添加插件！最后的封印解除了！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/hezyHhp0GOk7cDJB1PGPTQ" target="_blank">GPT-4开启AGI之门？微软最新刷屏154页《通用人工智能的火花:GPT-4的早期实验》报告，探究去向AGI之路 （附中文版）</a>
-    |
-  <!-- 3.25 -->
-    <a href="https://mp.weixin.qq.com/s/CS35inBUcsdohTHhxwSUSw" target="_blank">【ChatGPT系列报告】ChatGPT/AIGC到底能做什么？生成式 AI 将重塑几乎所有行业</a>
-    |
-    <a href="https://www.toutiao.com/article/7214472335875637800/?app=news_article&timestamp=1679764084&use_new_style=1&req_id=20230326010803BB0E43AF92E950A0428D&group_id=7214472335875637800&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=43424630-6d51-4a5f-a48f-51ff9d98ef19&source=m_redirect" target="_blank">ChatGPT 已成为下一代的新操作系统！</a>
-    |  
-  <!-- 3.26 -->
-    <a href="https://mp.weixin.qq.com/s/CS35inBUcsdohTHhxwSUSw" target="_blank">首个接入 GPT-4，曾经比 GitHub Copilot 还好用的代码编辑器，开源了！</a>
-    |
-  <!-- 3.27 -->
-    <a href="https://mp.weixin.qq.com/s/KvU6aKAuodG6AhVUzeCDIg" target="_blank">他山之石丨 ChatGPT作为知识库问答系统的问答能力评测</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/wlvTuldMQ1Kdoj89drNd8Q" target="_blank">GPT-4 已经可以独立创业了，感觉自己在追剧，一个人就是一家公司</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/67VVqdl1F2NpMbElaDtlug" target="_blank">加了插件的 ChatGPT 目前确实是中心，希望未来的机联网不是</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/DO3e4B7h8MZOtU91dSomdw" target="_blank">AIGC周报｜周鸿祎：GPT-6到GPT-8或将产生意识，成为新物种；OpenAI：我们将重建信任；“让他看起来像梵高”</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/xSwSqz7KkrVK3iZDosLHtw" target="_blank">给表情包都能猜电影，ChatGPT的涌现能力是从哪里来的？</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/k8ZdjL2iyhhNDXmFNp7gwg" target="_blank">微软豪华力作，称GPT-4已具备人类心智，LeCun质疑</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg" target="_blank">可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/KrN5KTBl2mAGAvKJHDDfwA" target="_blank">汪军教授组织了7位AI学者，论道ChatGPT后的通用人工智能理论和应用</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/fkxqFd0LUBjmoh6mhPhNfg" target="_blank">工业AI也将迎来「ChatGPT时刻」</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A" target="_blank">GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/b3hKPISdBboSdzUHhRGKMA" target="_blank">当GPT-4反思自己错了：性能提升近30%，编程能力提升21%</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/w3Nk60apI-bG4B7_iO_NZw" target="_blank">ChatGPT 加持，决策大模型距离 AGI 更进一步</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/H2KIVzm04BG6x-ShCs09mg" target="_blank">百度智能云发布“文心千帆”：实时演示，全能助手，价格比 ChatGPT 低</a>
-    |
-  <!-- 3.28 -->
-    <a href="https://mp.weixin.qq.com/s/RWiO90srfx7O6dlbGZaHVQ" target="_blank">众说纷纭：大模型要颠覆软件开发了吗？</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/EW8SeeLXOi66ovs4IpGXNA" target="_blank">Stealing Large Language Models: 关于对ChatGPT进行模型窃取的一些工作</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g" target="_blank">LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ne07WkMjjoMovY3qkiUUTg" target="_blank">MIT新方法让GPT-4学会反思，写代码能力提升21%！</a>
-    |
-  <!-- 3.29 -->
-    <a href="https://mp.weixin.qq.com/s/RYMvLGOxcRQ5Q9IennUTTA" target="_blank">立即停止训练比 GPT-4 更强的模型，至少六个月！马斯克、图灵奖得主等数千 AI 专家紧急呼吁</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/JX7tfLjJ-ZFqaoc98LYByA" target="_blank">千名大佬发联名信，叫停GPT-5超强大模型！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/ruzkyvY9XeGqjcjaai8EkA" target="_blank">北大“韦神”出了道数学题，有老师用ChatGPT做答，结果出乎意料</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/rb6bkTd1U6UqPwp8St3Low" target="_blank">GPT-4救了我狗的命</a>
-    |
-  <!-- 3.30 -->
-    <a href="https://view.inews.qq.com/a/20230330A0593700?uid=&chlid=news_news_top&c_buffer=aid%3D20230330A0593700%3Bappver%3D7.0.90%3Bts%3D1680182708172&sign=AAw3UL2kTawXz10w%2FoCV6EYmFljnAx6e06D20slD8L%2BXuR4IrM5Jw2GGnjBi2BlYNT1FxXUPUA9J3HUjw%2BOgBK%2BZQb3HwTy%2BG%2F6Z58YAVRWbNl4gvQr1ZDOmnAmUaoIOoS1%3D&shareto=&openid=o04IBAMltO2DOJsG-e9YmpA7Mz2k&key=&version=2800227f&devicetype=android-33&wuid=oDdoCt9x3Wfk2shbE9W_nmP1WlAk&sharer=o04IBAMltO2DOJsG-e9YmpA7Mz2k&openwith=wxmessage" target="_blank">哈工大计算学部长聘教授车万翔：ChatGPT浅析</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/hLsQvD-kPHXoUpkLTwMN1g" target="_blank">暂停GPT-5研发呼吁引激战！吴恩达、LeCun带头反对，Bengio站队支持</a>
-    | 
-    <a href="https://www.toutiao.com/article/7216258149358060084/?app=news_article&timestamp=1680178755&use_new_style=1&req_id=20230330201914C5B1349B53039B148C6F&group_id=7216258149358060084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=4984f225-bd00-4057-9c78-0336cef9188a&source=m_redirect&wid=1680187293538" target="_blank">学术专用版ChatGPT火了，一键完成论文润色、代码解释、报告生成</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/jPMC80kwl6SWgi9om45Iig" target="_blank">OpenAI全新插件系统：代码解释器！又一款宝藏插件诞生！训模型、迷宫游戏、二维码生成</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/PtCREHS-JPQNDazQMyoGOQ" target="_blank">ChatGPT消灭全球3亿打工人！高盛重磅预测：25%岗位将被AI取代</a>
-    |
-  <!-- 3.31 -->
-    <a href="https://mp.weixin.qq.com/s/miML4PXioK5iM8UI0cTSCQ" target="_blank">【官方教程】ChatGLM-6B微调，最低只需7GB显存</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/cWWxyrNCB2fuS3Orw7W8rg" target="_blank">论文导读 | 大语言模型上的精调策略</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/otdenJh5FJsCgi5ONy9JIQ" target="_blank">“ChatGPT们”的淘金时代</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/_Z9XKi7jfjkr6oEs4pGgmg" target="_blank">GPT 模型成功的背后用到了哪些以数据为中心的人工智能（Data-centric AI）技术？</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/GMMjF9sDv0c31AoRTXSIYA" target="_blank">浅评ChatGPT在软件开发上的辅助能力（附GPT-4对比）</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/hU9RbUyJYHD_FLfB7FKXXw" target="_blank">媒体发声丨肖仰华教授解读暂停巨型AI实验联名公开信</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/fIXIBUQB5BOuQf2i5RES-w" target="_blank">如果ChatGPT有1%的风险伤害你，你还会用它吗？超级智能值得恐惧吗</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/GcgePhzh_E7XaDkq5ThjDQ" target="_blank">推特炸锅啦！「是否暂停巨型AI实验？」LeCun、吴恩达带头反对</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/P-XNmv_WUTxEZ3oa0RL-JQ" target="_blank">ChatGPT与教育的未来</a>
-    |
-  <!-- 4.1 -->
-    <a href="https://mp.weixin.qq.com/s/z9JOiRHEv1FEkg0BWSw2oA" target="_blank">精彩活动丨“通用人工智能时代的科学研究——机遇与挑战”研讨会顺利召开</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/z9JOiRHEv1FEkg0BWSw2oA" target="_blank">ChatGPTScan:使用ChatGPTScan批量进行代码审计</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/ntXWK0qlf_FFQjj-enVZ5g" target="_blank">看不见的挑战：探寻GPT-4的能力极限，突破还是止步于此？</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/jiHckwuLwFpnBAVAn_4iVg" target="_blank">限时免费使用ChatGPT，让科研更高效！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/VMg9bXZrL1noNjeyHzfUcQ" target="_blank">技术动态 | 基于GPT-4的知识图谱构建能力评测</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/iM7el66k7yrl-ZUKCpwz2g" target="_blank">ChatGPT在意大利被禁，OpenAI被限20天内补救</a>
-    | 
+- `2023.03.21` 文心一言的魔性作图，我头都笑掉了...   **[[LINK](https://mp.weixin.qq.com/s/8ipgu-WGO1rpHaiv7O9SHA)]**
+
+- `2023.03.21` 基于ChatGPT的生物医药知识抽取测评   **[[LINK](https://mp.weixin.qq.com/s/IuLlR0c9ZYBuOuBm3y9ejQ)]**
+
+- `2023.03.22` 最卷一夜！Google版 ChatGPT 开放、英伟达又投下核弹显卡……一觉醒来AI又变天了   **[[LINK](https://mp.weixin.qq.com/s/UowaksuKvsdz4Kly8uaLZw)]**
+
+- `2023.03.22` 危！GPT将影响80%工作岗位，挣得越多越危险？OpenAI发布重磅研究   **[[LINK](https://mp.weixin.qq.com/s/Q2n0upUF-5kU6u-NFejmFg)]**
+
+- `2023.03.22` 弥补斯坦福70亿参数「羊驼」短板，精通中文的大模型来了，已开源   **[[LINK](https://mp.weixin.qq.com/s/fQJh9r47fQ25-kOUclnf2A)]**
+
+- `2023.03.22` 谷歌正式开放「Bard」试用，很遗憾。。   **[[LINK](https://mp.weixin.qq.com/s/rR2hgqeS2i445J_R_1ejgA)]**
+
+- `2023.03.22` 产业级文心大模型ERNIE-UIE在金融监管场景中的应用   **[[LINK](https://mp.weixin.qq.com/s/RAGrEAFqko4IcnUt5cCZcg)]**
+
+- `2023.03.22` GPT-4太强，OpenAI也不懂！智能到底是怎么突然「涌现」的？   **[[LINK](https://www.toutiao.com/article/7213261622469607992/?app=news_article&timestamp=1679579120&use_new_style=1&req_id=202303232145193AE94C4FED7A3220A1B1&group_id=7213261622469607992&wxshare_count=3&tt_from=weixin_moments&utm_source=weixin_moments&utm_medium=toutiao_android&utm_campaign=client_share&share_token=897f6d9c-1d7f-459c-ac76-8f3b13027ee3&source=m_redirect&wid=1679587324167)]**
+
+- `2023.03.23` ChatGPT这么牛，我们应该如何兼顾发展和治理？   **[[LINK](https://mp.weixin.qq.com/s/PVcagh4wza5MRM0afMVDBw)]**
+
+- `2023.03.23` 他山之石丨从谷歌与OpenAI的战争来看AI人才的重要性   **[[LINK](https://mp.weixin.qq.com/s/iuI9cnXu0fteh0CBdeDT0g)]**
+
+- `2023.03.23` GPT-4的前世、今生和未来！   **[[LINK](https://mp.weixin.qq.com/s/QgpBa5HF3zaF1thexhT2-g)]**
+
+- `2023.03.23` 英伟达发布ChatGPT专用GPU，性能提升10倍，还推出云服务，普通企业也能训练LLM   **[[LINK](https://mp.weixin.qq.com/s/bZyybWvZgHXsjuJAd5hgng)]**
+
+- `2023.03.23` 当GPT-4学会看图文，一场生产力革命已势不可挡   **[[LINK](https://mp.weixin.qq.com/s/iquNVFiz6QobZt44rtEqEg)]**
+
+- `2023.03.24` ChatGPT全宇宙大爆炸！开启联网解除封印，无敌插件彻底颠覆体验   **[[LINK](https://mp.weixin.qq.com/s/Rh1j47aVoAAtd5cLX3hhrA)]**
+
+- `2023.03.24` ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角   **[[LINK](https://mp.weixin.qq.com/s/aJdJHoT7hWzFccfSCDTFaA)]**
+
+- `2023.03.24` 陆首群：ChatGPT不开源是说不过去的   **[[LINK](https://mp.weixin.qq.com/s/JMYjN4wi4YSF2bFBu-CNOA)]**
+
+- `2023.03.24` Github官宣新一代Copilot X，集成GPT-4的编码神器！动动嘴就能开发   **[[LINK](https://mp.weixin.qq.com/s/-ySMKmclVSlpWUhrsfbdHQ)]**
+
+- `2023.03.24` ChatGPT重磅升级，可以联网、添加插件！最后的封印解除了！   **[[LINK](https://mp.weixin.qq.com/s/vCtlbP_BZOKvi3TXnqP--w)]**
+
+- `2023.03.24` GPT-4开启AGI之门？微软最新刷屏154页《通用人工智能的火花:GPT-4的早期实验》报告，探究去向AGI之路 （附中文版）   **[[LINK](https://mp.weixin.qq.com/s/hezyHhp0GOk7cDJB1PGPTQ)]**
+
+- `2023.03.25` 【ChatGPT系列报告】ChatGPT/AIGC到底能做什么？生成式 AI 将重塑几乎所有行业   **[[LINK](https://mp.weixin.qq.com/s/CS35inBUcsdohTHhxwSUSw)]**
+
+- `2023.03.25` ChatGPT 已成为下一代的新操作系统！   **[[LINK](https://www.toutiao.com/article/7214472335875637800/?app=news_article&timestamp=1679764084&use_new_style=1&req_id=20230326010803BB0E43AF92E950A0428D&group_id=7214472335875637800&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=43424630-6d51-4a5f-a48f-51ff9d98ef19&source=m_redirect)]**
+
+- `2023.03.26` 首个接入 GPT-4，曾经比 GitHub Copilot 还好用的代码编辑器，开源了！   **[[LINK](https://mp.weixin.qq.com/s/CS35inBUcsdohTHhxwSUSw)]**
+
+- `2023.03.27` 他山之石丨 ChatGPT作为知识库问答系统的问答能力评测   **[[LINK](https://mp.weixin.qq.com/s/KvU6aKAuodG6AhVUzeCDIg)]**
+
+- `2023.03.27` GPT-4 已经可以独立创业了，感觉自己在追剧，一个人就是一家公司   **[[LINK](https://mp.weixin.qq.com/s/wlvTuldMQ1Kdoj89drNd8Q)]**
+
+- `2023.03.27` 加了插件的 ChatGPT 目前确实是中心，希望未来的机联网不是   **[[LINK](https://mp.weixin.qq.com/s/67VVqdl1F2NpMbElaDtlug)]**
+
+- `2023.03.27` AIGC周报｜周鸿祎：GPT-6到GPT-8或将产生意识，成为新物种；OpenAI：我们将重建信任；“让他看起来像梵高”   **[[LINK](https://mp.weixin.qq.com/s/DO3e4B7h8MZOtU91dSomdw)]**
+
+- `2023.03.27` 给表情包都能猜电影，ChatGPT的涌现能力是从哪里来的？   **[[LINK](https://mp.weixin.qq.com/s/xSwSqz7KkrVK3iZDosLHtw)]**
+
+- `2023.03.27` 微软豪华力作，称GPT-4已具备人类心智，LeCun质疑   **[[LINK](https://mp.weixin.qq.com/s/k8ZdjL2iyhhNDXmFNp7gwg)]**
+
+- `2023.03.27` 可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定   **[[LINK](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg)]**
+
+- `2023.03.27` 汪军教授组织了7位AI学者，论道ChatGPT后的通用人工智能理论和应用   **[[LINK](https://mp.weixin.qq.com/s/KrN5KTBl2mAGAvKJHDDfwA)]**
+
+- `2023.03.27` 工业AI也将迎来「ChatGPT时刻」   **[[LINK](https://mp.weixin.qq.com/s/fkxqFd0LUBjmoh6mhPhNfg)]**
+
+- `2023.03.27` GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑   **[[LINK](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A)]**
+
+- `2023.03.27` 当GPT-4反思自己错了：性能提升近30%，编程能力提升21%   **[[LINK](https://mp.weixin.qq.com/s/b3hKPISdBboSdzUHhRGKMA)]**
+
+- `2023.03.27` ChatGPT 加持，决策大模型距离 AGI 更进一步   **[[LINK](https://mp.weixin.qq.com/s/w3Nk60apI-bG4B7_iO_NZw)]**
+
+- `2023.03.27` 百度智能云发布“文心千帆”：实时演示，全能助手，价格比 ChatGPT 低   **[[LINK](https://mp.weixin.qq.com/s/H2KIVzm04BG6x-ShCs09mg)]**
+
+- `2023.03.28` 众说纷纭：大模型要颠覆软件开发了吗？   **[[LINK](https://mp.weixin.qq.com/s/RWiO90srfx7O6dlbGZaHVQ)]**
+
+- `2023.03.28` Stealing Large Language Models: 关于对ChatGPT进行模型窃取的一些工作   **[[LINK](https://mp.weixin.qq.com/s/EW8SeeLXOi66ovs4IpGXNA)]**
+
+- `2023.03.28` LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！   **[[LINK](https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g)]**
+
+- `2023.03.28` MIT新方法让GPT-4学会反思，写代码能力提升21%！   **[[LINK](https://mp.weixin.qq.com/s/ne07WkMjjoMovY3qkiUUTg)]**
+
+- `2023.03.29` 立即停止训练比 GPT-4 更强的模型，至少六个月！马斯克、图灵奖得主等数千 AI 专家紧急呼吁   **[[LINK](https://mp.weixin.qq.com/s/RYMvLGOxcRQ5Q9IennUTTA)]**
+
+- `2023.03.29` 千名大佬发联名信，叫停GPT-5超强大模型！   **[[LINK](https://mp.weixin.qq.com/s/JX7tfLjJ-ZFqaoc98LYByA)]**
+
+- `2023.03.29` 北大“韦神”出了道数学题，有老师用ChatGPT做答，结果出乎意料   **[[LINK](https://mp.weixin.qq.com/s/ruzkyvY9XeGqjcjaai8EkA)]**
+
+- `2023.03.29` GPT-4救了我狗的命   **[[LINK](https://mp.weixin.qq.com/s/rb6bkTd1U6UqPwp8St3Low)]**
+
+- `2023.03.30` 哈工大计算学部长聘教授车万翔：ChatGPT浅析   **[[LINK](https://view.inews.qq.com/a/20230330A0593700?uid=&chlid=news_news_top&c_buffer=aid%3D20230330A0593700%3Bappver%3D7.0.90%3Bts%3D1680182708172&sign=AAw3UL2kTawXz10w%2FoCV6EYmFljnAx6e06D20slD8L%2BXuR4IrM5Jw2GGnjBi2BlYNT1FxXUPUA9J3HUjw%2BOgBK%2BZQb3HwTy%2BG%2F6Z58YAVRWbNl4gvQr1ZDOmnAmUaoIOoS1%3D&shareto=&openid=o04IBAMltO2DOJsG-e9YmpA7Mz2k&key=&version=2800227f&devicetype=android-33&wuid=oDdoCt9x3Wfk2shbE9W_nmP1WlAk&sharer=o04IBAMltO2DOJsG-e9YmpA7Mz2k&openwith=wxmessage)]**
+- `2023.03.30` 暂停GPT-5研发呼吁引激战！吴恩达、LeCun带头反对，Bengio站队支持   **[[LINK](https://mp.weixin.qq.com/s/hLsQvD-kPHXoUpkLTwMN1g)]**
+
+- `2023.03.30` 学术专用版ChatGPT火了，一键完成论文润色、代码解释、报告生成   **[[LINK](https://www.toutiao.com/article/7216258149358060084/?app=news_article&timestamp=1680178755&use_new_style=1&req_id=20230330201914C5B1349B53039B148C6F&group_id=7216258149358060084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=4984f225-bd00-4057-9c78-0336cef9188a&source=m_redirect&wid=1680187293538)]**
+
+- `2023.03.30` OpenAI全新插件系统：代码解释器！又一款宝藏插件诞生！训模型、迷宫游戏、二维码生成   **[[LINK](https://mp.weixin.qq.com/s/jPMC80kwl6SWgi9om45Iig)]**
+
+- `2023.03.30` ChatGPT消灭全球3亿打工人！高盛重磅预测：25%岗位将被AI取代   **[[LINK](https://mp.weixin.qq.com/s/PtCREHS-JPQNDazQMyoGOQ)]**
+
+- `2023.03.31` 【官方教程】ChatGLM-6B微调，最低只需7GB显存   **[[LINK](https://mp.weixin.qq.com/s/miML4PXioK5iM8UI0cTSCQ)]**
+
+- `2023.03.31` 论文导读 | 大语言模型上的精调策略   **[[LINK](https://mp.weixin.qq.com/s/cWWxyrNCB2fuS3Orw7W8rg)]**
+
+- `2023.03.31` “ChatGPT们”的淘金时代   **[[LINK](https://mp.weixin.qq.com/s/otdenJh5FJsCgi5ONy9JIQ)]**
+
+- `2023.03.31` GPT 模型成功的背后用到了哪些以数据为中心的人工智能（Data-centric AI）技术？   **[[LINK](https://mp.weixin.qq.com/s/_Z9XKi7jfjkr6oEs4pGgmg)]**
+
+- `2023.03.31` 浅评ChatGPT在软件开发上的辅助能力（附GPT-4对比）   **[[LINK](https://mp.weixin.qq.com/s/GMMjF9sDv0c31AoRTXSIYA)]**
+
+- `2023.03.31` 媒体发声丨肖仰华教授解读暂停巨型AI实验联名公开信   **[[LINK](https://mp.weixin.qq.com/s/hU9RbUyJYHD_FLfB7FKXXw)]**
+
+- `2023.03.31` 如果ChatGPT有1%的风险伤害你，你还会用它吗？超级智能值得恐惧吗   **[[LINK](https://mp.weixin.qq.com/s/fIXIBUQB5BOuQf2i5RES-w)]**
+
+- `2023.03.31` 推特炸锅啦！「是否暂停巨型AI实验？」LeCun、吴恩达带头反对   **[[LINK](https://mp.weixin.qq.com/s/GcgePhzh_E7XaDkq5ThjDQ)]**
+
+- `2023.03.31` ChatGPT与教育的未来   **[[LINK](https://mp.weixin.qq.com/s/P-XNmv_WUTxEZ3oa0RL-JQ)]**
+
+- `2023.04.01` 精彩活动丨“通用人工智能时代的科学研究——机遇与挑战”研讨会顺利召开   **[[LINK](https://mp.weixin.qq.com/s/z9JOiRHEv1FEkg0BWSw2oA)]**
+
+- `2023.04.01` ChatGPTScan:使用ChatGPTScan批量进行代码审计   **[[LINK](https://mp.weixin.qq.com/s/z9JOiRHEv1FEkg0BWSw2oA)]**
+
+- `2023.04.01` 看不见的挑战：探寻GPT-4的能力极限，突破还是止步于此？   **[[LINK](https://mp.weixin.qq.com/s/ntXWK0qlf_FFQjj-enVZ5g)]**
+
+- `2023.04.01` 限时免费使用ChatGPT，让科研更高效！   **[[LINK](https://mp.weixin.qq.com/s/jiHckwuLwFpnBAVAn_4iVg)]**
+
+- `2023.04.01` 技术动态 | 基于GPT-4的知识图谱构建能力评测   **[[LINK](https://mp.weixin.qq.com/s/VMg9bXZrL1noNjeyHzfUcQ)]**
+
+- `2023.04.01` ChatGPT在意大利被禁，OpenAI被限20天内补救   **[[LINK](https://mp.weixin.qq.com/s/iM7el66k7yrl-ZUKCpwz2g)]**
+ 
 - `2023.04.02`  中国人民大学卢志武：ChatGPT对多模态通用生成模型的重要启发   **[[LINK](https://mp.weixin.qq.com/s/kFFPORQOz6VP9F6rZHokyw)]**
 
 - `2023.04.02`  3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow   **[[LINK](https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww)]**
@@ -426,78 +409,69 @@ This is a paper list for , which also cont.
 
 - `2023.04.03`  重磅！微软推出HuggingGPT：所有HuggingFace的模型都可以被ChatGPT随意调用！   **[[LINK](https://mp.weixin.qq.com/s/o51CmLt2JViJ4nsKfBJfwg)]**
 
- 
-  <!-- 4.4 -->
-    <a href="https://mp.weixin.qq.com/s/6ZQ3MiaQFOuOUHXXU-pv6w" target="_blank">ChatGPT 类大语言模型为什么会带来“神奇”的涌现能力？</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/nTtLFeV-LumdqMj5CKirdQ" target="_blank">阿里版ChatGPT就快来了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/2z0LkyC28-Mny5GMeNjXGg" target="_blank">ChatGPT赋能工作岗位预测，让你从容面对职业转型与升级！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/54fId1RPR8iMf397imxjKA" target="_blank">LeCun力荐！哈佛博士分享如何用GPT-4搞科研</a>
-    |
-  <!-- 4.5 -->
-    <a href="https://mp.weixin.qq.com/s/9XL1RgcYrC7XAkdZo8FBnw" target="_blank">非常全面：72页ChatGPT研究框架(2023)ppt（附下载）</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/tzaN8sCN05UeTmRVNxVLrQ" target="_blank">重新审视AI，神经网络中概念符号涌现的发现与证明</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/uEAlKdpzutOpnPGmg5dOjw" target="_blank">谷歌TPU超算，大模型性能超英伟达，已部署数十台：图灵奖得主新作</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/RUj7HZN96Dy9oRAMy8nmAA" target="_blank">Open AI创始人Sam Altman：关于ChatGPT系统设计背后的18个关键思考</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/xSwl5DZYj_kFmJ2fguFBcA" target="_blank">医疗ChatGPT、金融GPT都来啦！“潘多拉的魔盒”已经打开？ </a>
-    |
-    <a href="https://mp.weixin.qq.com/s/yVHKeZqf0MClkpbegz78xQ" target="_blank">ChatGPT的副作用逐渐显现：人逐渐“废柴化”</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/zwHf5Uhd65hwoaaeXF52qg" target="_blank">首个超大规模GAN模型！生成速度比Diffusion快20+倍，0.13秒出图</a>
-    |    
-  <!-- 4.6 -->
-    <a href="https://mp.weixin.qq.com/s/123NDy4rVlWFZ4wbmgUbhQ" target="_blank">从集异壁理解ChatGPT的成功与局限</a>
-    | 
-  <!-- 4.7 -->
-    <a href="https://mp.weixin.qq.com/s/ntHjW-aGYVmyabSepb-vvg" target="_blank">ChatGPT平替「小羊驼」Mac可跑！2行代码单GPU，UC伯克利再发70亿参数开源模型</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/xxkx0NbtUYOPkr0bZAkl3g" target="_blank">CV不存在了？Meta发布CV届的GPT模型「SAM」，可以分割一切</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/4eULt6oPjUl4Srt3yjqLzg" target="_blank">CV开启大模型时代！谷歌发布220亿参数史上最大ViT，视觉感知力直逼人类</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/bpwyT0LO8um-7h18yFZv-A" target="_blank">上海人工智能实验室发布「风乌」大模型，全球气象有效预报时间首破10天</a>
-    |
-  <!-- 4.8 -->
-    <a href="https://mp.weixin.qq.com/s/NH_yp0kWt-NNeCToyr80vA" target="_blank">沉默已久的Bengio发文：赞成暂停超强AI研发，LeCun亲自出镜反对</a>
-    |  
-    <a href="https://mp.weixin.qq.com/s/JBA4xxuOpA53RyXM-WkREg" target="_blank">ChatGPT 能自己跑代码了！</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/XxErNXTkddlrmqRjknvWQg" target="_blank">GPT-4压根不会编程？有人让它露馅了</a>
-    |
-  <!-- 4.9 -->
-    <a href="https://mp.weixin.qq.com/s/H1RVdH0fmwM0GjfV3uvd4g" target="_blank">GPT-4的"第一次接触"：《AGI的火花》作者的披露演讲万字全文</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q" target="_blank">阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/CBsogVt0OrwxDZyzX3CPjw" target="_blank">吴恩达杨立昆亲自下场开直播：GPT-5不能停！</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/JIaG30fcTSi1rTmERXk9ug" target="_blank">基于重排序的新量化方法RPTQ：实现大型语言模型的 3 比特量化</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/sBevJE3ms7VGtgrlgPqXRA" target="_blank">吴军博士：ChatGPT不算新技术革命，带不来什么新机会</a>
-    |
-  <!-- 4.10 -->
-    <a href="https://mp.weixin.qq.com/s/YWX49oQ5yQNiUPGK0xYVyw" target="_blank">阿里版 ChatGPT 官宣！我们用 16 个提问，火速进行了测评……</a>
-    | 
-    <a href="https://mp.weixin.qq.com/s/6enOkW7pZsMeTpc4SODwSQ" target="_blank">训练ChatGPT的必备资源：语料、模型和代码库完全指南</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/clE3ygVaQVenflAa1q6kyw" target="_blank">微软首次使用GPT-4进行指令微调，新任务零样本性能再提升</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/5rX4vFVZYe24AyV3-BUkKg" target="_blank">HuggingGPT 刚刚开放了demo！在线演示效果惊艳</a>
-    |
-  <!-- 4.11 -->
-    <a href="https://mp.weixin.qq.com/s/auKZjAd-QLQkAK6WRyQTiQ" target="_blank">推特爆火！揭晓大模型的未来何去何从</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/HPzoKNYqtMnOs5PGIh5B2g" target="_blank">Meta「分割一切」超进化版来了！检测、分割、生成一切，狂揽2k星</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/PiU3FQPFqiJlH0eKqMmXLQ" target="_blank">阿里版 Copilot 惊艳亮相，AI 领域正式进入下半场火拼</a>
-    |
-    <a href="https://mp.weixin.qq.com/s/2nlikrm4rQIAj8REKIp5Cw" target="_blank">阿里版 Copilot 惊艳亮相，AI 领域正式进入下半场火拼为何不能暂停 AI 研发？杨立昆、吴恩达对话实录|
+- `2023.04.04`  ChatGPT 类大语言模型为什么会带来“神奇”的涌现能力？   **[[LINK](https://mp.weixin.qq.com/s/6ZQ3MiaQFOuOUHXXU-pv6w)]**
+
+- `2023.04.04`  阿里版ChatGPT就快来了   **[[LINK](https://mp.weixin.qq.com/s/nTtLFeV-LumdqMj5CKirdQ)]**
+
+- `2023.04.04`  ChatGPT赋能工作岗位预测，让你从容面对职业转型与升级！   **[[LINK](https://mp.weixin.qq.com/s/2z0LkyC28-Mny5GMeNjXGg)]**
+
+- `2023.04.04`  LeCun力荐！哈佛博士分享如何用GPT-4搞科研   **[[LINK](https://mp.weixin.qq.com/s/54fId1RPR8iMf397imxjKA)]**
+
+- `2023.04.05`  非常全面：72页ChatGPT研究框架(2023)ppt（附下载）   **[[LINK](https://mp.weixin.qq.com/s/9XL1RgcYrC7XAkdZo8FBnw)]**
+
+- `2023.04.05`  重新审视AI，神经网络中概念符号涌现的发现与证明   **[[LINK](https://mp.weixin.qq.com/s/tzaN8sCN05UeTmRVNxVLrQ)]**
+
+- `2023.04.05`  谷歌TPU超算，大模型性能超英伟达，已部署数十台：图灵奖得主新作   **[[LINK](https://mp.weixin.qq.com/s/uEAlKdpzutOpnPGmg5dOjw)]**
+
+- `2023.04.05`  Open AI创始人Sam Altman：关于ChatGPT系统设计背后的18个关键思考   **[[LINK](https://mp.weixin.qq.com/s/RUj7HZN96Dy9oRAMy8nmAA)]**
+
+- `2023.04.05`  医疗ChatGPT、金融GPT都来啦！“潘多拉的魔盒”已经打开？   **[[LINK](https://mp.weixin.qq.com/s/xSwl5DZYj_kFmJ2fguFBcA)]**
+
+- `2023.04.05`  ChatGPT的副作用逐渐显现：人逐渐“废柴化”   **[[LINK](https://mp.weixin.qq.com/s/yVHKeZqf0MClkpbegz78xQ)]**
+
+- `2023.04.05`  首个超大规模GAN模型！生成速度比Diffusion快20+倍，0.13秒出图   **[[LINK](https://mp.weixin.qq.com/s/zwHf5Uhd65hwoaaeXF52qg)]**
+
+- `2023.04.06`  从集异壁理解ChatGPT的成功与局限   **[[LINK](https://mp.weixin.qq.com/s/123NDy4rVlWFZ4wbmgUbhQ)]**
+
+- `2023.04.07`  ChatGPT平替「小羊驼」Mac可跑！2行代码单GPU，UC伯克利再发70亿参数开源模型   **[[LINK](https://mp.weixin.qq.com/s/ntHjW-aGYVmyabSepb-vvg)]**
+
+- `2023.04.07`  CV不存在了？Meta发布CV届的GPT模型「SAM」，可以分割一切   **[[LINK](https://mp.weixin.qq.com/s/xxkx0NbtUYOPkr0bZAkl3g)]**
+
+- `2023.04.07`  CV开启大模型时代！谷歌发布220亿参数史上最大ViT，视觉感知力直逼人类   **[[LINK](https://mp.weixin.qq.com/s/4eULt6oPjUl4Srt3yjqLzg)]**
+
+- `2023.04.07`  上海人工智能实验室发布「风乌」大模型，全球气象有效预报时间首破10天   **[[LINK](https://mp.weixin.qq.com/s/bpwyT0LO8um-7h18yFZv-A)]**
+
+- `2023.04.08`  沉默已久的Bengio发文：赞成暂停超强AI研发，LeCun亲自出镜反对   **[[LINK](https://mp.weixin.qq.com/s/NH_yp0kWt-NNeCToyr80vA)]**
+
+- `2023.04.08`  ChatGPT 能自己跑代码了！   **[[LINK](https://mp.weixin.qq.com/s/JBA4xxuOpA53RyXM-WkREg)]**
+
+- `2023.04.08`  GPT-4压根不会编程？有人让它露馅了   **[[LINK](https://mp.weixin.qq.com/s/XxErNXTkddlrmqRjknvWQg)]**
+
+- `2023.04.09`  GPT-4的"第一次接触"：《AGI的火花》作者的披露演讲万字全文   **[[LINK](https://mp.weixin.qq.com/s/H1RVdH0fmwM0GjfV3uvd4g)]**
+
+- `2023.04.09`  阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了   **[[LINK](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q)]**
+
+- `2023.04.09`  吴恩达杨立昆亲自下场开直播：GPT-5不能停！   **[[LINK](https://mp.weixin.qq.com/s/CBsogVt0OrwxDZyzX3CPjw)]**
+
+- `2023.04.09`  基于重排序的新量化方法RPTQ：实现大型语言模型的 3 比特量化   **[[LINK](https://mp.weixin.qq.com/s/JIaG30fcTSi1rTmERXk9ug)]**
+
+- `2023.04.09`  吴军博士：ChatGPT不算新技术革命，带不来什么新机会   **[[LINK](https://mp.weixin.qq.com/s/sBevJE3ms7VGtgrlgPqXRA)]**
+
+- `2023.04.10`  阿里版 ChatGPT 官宣！我们用 16 个提问，火速进行了测评……   **[[LINK](https://mp.weixin.qq.com/s/YWX49oQ5yQNiUPGK0xYVyw)]**
+
+- `2023.04.10`  训练ChatGPT的必备资源：语料、模型和代码库完全指南   **[[LINK](https://mp.weixin.qq.com/s/6enOkW7pZsMeTpc4SODwSQ)]**
+
+- `2023.04.10`  微软首次使用GPT-4进行指令微调，新任务零样本性能再提升   **[[LINK](https://mp.weixin.qq.com/s/clE3ygVaQVenflAa1q6kyw)]**
+
+- `2023.04.10`  HuggingGPT 刚刚开放了demo！在线演示效果惊艳   **[[LINK](https://mp.weixin.qq.com/s/5rX4vFVZYe24AyV3-BUkKg)]**
+
+- `2023.04.11`  推特爆火！揭晓大模型的未来何去何从   **[[LINK](https://mp.weixin.qq.com/s/auKZjAd-QLQkAK6WRyQTiQ)]**
+
+- `2023.04.11`  Meta「分割一切」超进化版来了！检测、分割、生成一切，狂揽2k星   **[[LINK](https://mp.weixin.qq.com/s/HPzoKNYqtMnOs5PGIh5B2g)]**
+
+- `2023.04.11`  阿里版 Copilot 惊艳亮相，AI 领域正式进入下半场火拼   **[[LINK](https://mp.weixin.qq.com/s/PiU3FQPFqiJlH0eKqMmXLQ)]**
+
+- `2023.04.11`  为何不能暂停 AI 研发？杨立昆、吴恩达对话实录   **[[LINK](https://mp.weixin.qq.com/s/2nlikrm4rQIAj8REKIp5Cw)]**
 
 - `2023.04.12`  AutoGPT太火了，无需人类插手自主完成任务，GitHub2.7万星   **[[LINK](https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw)]** 
 
